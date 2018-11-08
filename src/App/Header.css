@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+}
+
+.header__title {
+    font-size: 2.5rem;
+    margin: 0.5rem 0 0 0;
+}
+
+.header__subtitle {
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin: 0.5rem 0 0 0;
+}
