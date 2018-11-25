@@ -10,6 +10,7 @@ class Footnote extends Component {
 
     return (
       <div className="footnote">
+        <span className="footnote__index">[{this.props.index}]</span>
         {paragraphs}
       </div>
     );

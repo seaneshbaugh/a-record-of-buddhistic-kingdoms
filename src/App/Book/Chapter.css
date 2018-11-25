@@ -1,0 +1,15 @@
+.chapter {
+    text-align: justify;
+}
+
+.chapter__title {
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+    text-align: center;
+}
+
+.chapter__subtitle {
+    font-size: 1.25rem;
+    font-weight: normal;
+    text-align: center;
+}

@@ -10,7 +10,7 @@ class Book extends Component {
 
     return (
       <div className="book">
-        {chapters}
+        {chapters[this.props.currentChapter]}
       </div>
     );
   }

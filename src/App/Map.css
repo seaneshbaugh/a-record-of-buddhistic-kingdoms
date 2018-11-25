@@ -1,8 +1,9 @@
 .map {
+    flex: 0 0 25rem;
 }
 
 .leaflet-container {
-    height: 400px;
+    height: 25rem;
     margin: 0 auto;
-    width: 400px;
+    width: 25rem;
 }

@@ -1,2 +1,7 @@
 .footnote {
 }
+
+.footnote__index {
+    float: left;
+    margin-right: 0.25rem;
+}
