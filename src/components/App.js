@@ -5,7 +5,7 @@ import Map from "./App/Map";
 import Book from "./App/Book";
 import Annotations from "./App/Annotations";
 import Footer from "./App/Footer";
-import "./App.css";
+import styles from "./App.module.css";
 
 const defaultState = {
   currentChapter: 0
@@ -19,9 +19,9 @@ class App extends Component {
 
   render() {
     return (
-      <div className="app">
+      <div className={styles.app}>
         <Header title={this.props.title} subtitle={this.props.subtitle} />
-        <div className="app__body">
+        <div className={styles.body}>
           <Map />
           <Book {...this.props.book} currentChapter={this.state.currentChapter} />
           <Annotations footnotes={this.props.book.chapters[this.state.currentChapter].footnotes} />

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Chapter from "./Book/Chapter";
-import "./Book.css";
+import styles from "./Book.module.css";
 
 class Book extends Component {
   render() {
@@ -9,7 +9,7 @@ class Book extends Component {
     });
 
     return (
-      <div className="book">
+      <div className={styles.book}>
         {chapters[this.props.currentChapter]}
       </div>
     );

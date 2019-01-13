@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Sentence from "./Sentence";
-import "./Paragraph.css";
+import styles from "./Paragraph.module.css";
 
 class Paragraph extends Component {
   render() {
@@ -17,7 +17,7 @@ class Paragraph extends Component {
     }, []);
 
     return (
-      <p className="paragraph">
+      <p className={styles.paragraph}>
         {sentences}
       </p>
     );

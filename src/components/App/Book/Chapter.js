@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Paragraph from "./Paragraph";
-import "./Chapter.css";
+import styles from "./Chapter.module.css";
 
 class Chapter extends Component {
   render() {
@@ -9,10 +9,10 @@ class Chapter extends Component {
     });
 
     return (
-      <div className="chapter">
-        <h1 className="chapter__title">{this.props.title}</h1>
-        <h2 className="chapter__subtitle">{this.props.subtitle}</h2>
-        <div className="chapter__contents">
+      <div className={styles.chapter}>
+        <h1 className={styles.title}>{this.props.title}</h1>
+        <h2 className={styles.subtitle}>{this.props.subtitle}</h2>
+        <div className={styles.contents}>
           {paragraphs}
         </div>
       </div>

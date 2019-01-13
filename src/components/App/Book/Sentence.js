@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import "./Sentence.css";
+import styles from "./Sentence.module.css";
 
 class Sentence extends Component {
   render() {
     return (
-      <span className="sentence">
+      <span className={styles.sentence}>
         {this.props.text}
       </span>
     );

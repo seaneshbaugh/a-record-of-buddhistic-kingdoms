@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Footnote from "./Book/Footnote";
-import "./Annotations.css";
+import styles from "./Annotations.module.css";
 
 class Annotations extends Component {
   render() {
@@ -9,8 +9,8 @@ class Annotations extends Component {
     });
 
     return (
-      <div className="annotations">
-        <div className="annotations__footnotes">
+      <div className={styles.annotations}>
+        <div className={styles.footnotes}>
           {footnotes}
         </div>
       </div>

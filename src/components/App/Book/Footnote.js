@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Paragraph from "./Paragraph";
-import "./Footnote.css";
+import styles from "./Footnote.module.css";
 
 class Footnote extends Component {
   render() {
@@ -9,8 +9,8 @@ class Footnote extends Component {
     });
 
     return (
-      <div className="footnote">
-        <span className="footnote__index">[{this.props.index}]</span>
+      <div className={styles.footnote}>
+        <span className={styles.index}>[{this.props.index}]</span>
         {paragraphs}
       </div>
     );
