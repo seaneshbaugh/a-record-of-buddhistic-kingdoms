@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Paragraph from "./Paragraph";
-import styles from "./Footnote.module.css";
+import Paragraph from "../../molecules/Paragraph";
+import styles from "./index.module.css";
 
 class Footnote extends Component {
   render() {

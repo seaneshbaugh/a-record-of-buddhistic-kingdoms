@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import styles from "./Sentence.module.css";
+import styles from "./index.module.css";
 
 class Sentence extends Component {
   render() {

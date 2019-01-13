@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Chapter from "./Book/Chapter";
-import styles from "./Book.module.css";
+import Chapter from "../../molecules/Chapter";
+import styles from "./index.module.css";
 
 class Book extends Component {
   render() {

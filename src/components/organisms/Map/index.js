@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Map as LeafletMap, TileLayer as LeafletTileLayer } from "react-leaflet";
-import styles from "./Map.module.css";
+import styles from "./index.module.css";
 
 const attribution = "Map data: &copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>, <a href=\"http://viewfinderpanoramas.org\">SRTM</a> | Map style: &copy; <a href=\"https://opentopomap.org\">OpenTopoMap</a> (<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC-BY-SA</a>)";
 const url = "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png";

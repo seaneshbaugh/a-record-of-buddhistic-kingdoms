@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Footnote from "./Book/Footnote";
-import styles from "./Annotations.module.css";
+import Footnote from "../../molecules/Footnote";
+import styles from "./index.module.css";
 
 class Annotations extends Component {
   render() {

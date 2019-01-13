@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import Header from "./App/Header";
-import Map from "./App/Map";
-import Book from "./App/Book";
-import Annotations from "./App/Annotations";
-import Footer from "./App/Footer";
+import Header from "./organisms/Header";
+import Map from "./organisms/Map";
+import Book from "./organisms/Book";
+import Annotations from "./organisms/Annotations";
+import Footer from "./organisms/Footer";
 import styles from "./App.module.css";
 
 const defaultState = {

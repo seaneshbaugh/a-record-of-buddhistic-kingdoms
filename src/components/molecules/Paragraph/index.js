@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Sentence from "./Sentence";
-import styles from "./Paragraph.module.css";
+import Sentence from "../../atoms/Sentence";
+import styles from "./index.module.css";
 
 class Paragraph extends Component {
   render() {
