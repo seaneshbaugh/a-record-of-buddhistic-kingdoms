@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Xinjiapocun, Yanta, Xi'an, Shaanxi, China",
+    "lat": 34.23505025312077,
+    "lng": 108.95135619092434
+  },
+  {
+    "name": "Longxi, Dingxi, Gansu, China",
+    "lat": 35.00323040621305,
+    "lng": 104.63883381396477
+  },
+  {
+    "name": "Lanzhou, Gansu, China",
+    "lat": 36.05820348815692,
+    "lng": 103.82881123994093
+  },
+  {
+    "name": "Huzhu, Haidong, Qinghai, China",
+    "lat": 36.51037835570662,
+    "lng": 102.10350864038082
+  },
+  {
+    "name": "Zhangye, Gansu, China",
+    "lat": 38.92895178099787,
+    "lng": 100.44401981420901
+  },
+  {
+    "name": "Dunhuang, Jiquan, Gansu, China",
+    "lat": 40.091425217302415,
+    "lng": 94.682363641834170
+  },
+  {
+    "name": "Ruoqiang, Ruoqiang, Bayingolin, Xinjiang, China",
+    "lat": 39.01490876089363,
+    "lng": 88.15618887472078
+  },
+  {
+    "name": "Kuqa, Aksu, Xinjiang, China",
+    "lat": 41.85859891896489,
+    "lng": 83.03166539580081
+  },
+  {
+    "name": "Hotan, Hotan, Xinjiang, China",
+    "lat": 36.93461166815535,
+    "lng": 79.87565469198228
+  },
+  {
+    "name": "Tashkurgan, Taxkorgan, Kashgar, Xinjiang, China",
+    "lat": 37.766925247131944,
+    "lng": 75.233264890319900
+  },
+  {
+    "name": "Gilgit, Gilgit, Gilgit, Gilgit-Baltistan, Pakistan",
+    "lat": 35.915808729233845,
+    "lng": 74.29197908984372
+  },
+  {
+    "name": "Skardu, Skardu, Baltistan, Gilgit-Baltistan, Pakistan",
+    "lat": 35.2945088968479,
+    "lng": 75.62750135957026
+  },
+  {
+    "name": "Palas, Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan",
+    "lat": 35.10675968841741,
+    "lng": 72.99755404011535
+  },
+  {
+    "name": "Mingora, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan",
+    "lat": 34.77873338961653,
+    "lng": 72.33334015655703
+  },
+  {
+    "name": "Barikot, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan",
+    "lat": 34.65169950508407,
+    "lng": 72.21028088377693
+  },
+  {
+    "name": "Takht Bhai, Mardan, Mardan, Kyber Pakhtunkhwa, Pakistan",
+    "lat": 34.16702387496293,
+    "lng": 71.7220490760742
+  },
+  {
+    "name": "Taxila, Rawalpindi, Rawalpindi, Punjab, Pakistan",
+    "lat": 33.73143909021518,
+    "lng": 72.83341236977537
+  },
+  {
+    "name": "Peshawar, Peshawar, Peshawar, Kyber Pakhtunkhwa, Pakistan",
+    "lat": 34.002496709436734,
+    "lng": 71.57382729450865
+  },
+  {
+    "name": "Jalalabad, Nangarhar, Afghanistan",
+    "lat": 34.36447187004159,
+    "lng" 70.47714034997773
+  },
+  {
+    "name": "Jalalabad, Nangarhar, Afghanistan",
+    "lat": 34.411786302122465,
+    "lng": 70.4702738948996
+  },
+  {
+    "name": "Jalalabad, Nangarhar, Afghanistan",
+    "lat": 34.46530150459222,
+    "lng": 70.54992477380586
+  },
+  {
+    "name": "Khost, Khost, Afghanistan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Bannu, Bannu, Bannu, Kyber Pakhtunkhwa, Pakistan",
+    "lat": 32.988315923725175,
+    "lng": 70.60313980066132
+  },
+  {
+    "name": "Bhera, Sargodha, Sargodha, Punjab, Pakistan",
+    "lat": 32.48134397940673,
+    "lng": 72.8920924529076
+  },
+  {
+    "name": "Mathura, Mathura, Agra, Uttar Pradesh, India",
+    "lat": 27.494246295517122,
+    "lng": 77.66572232846681
+  },
+  {
+    "name": "Sankassa, Farrukhabad, Kanpur, Uttar Pradesh, India",
+    "lat": 27.33006113726599,
+    "lng": 79.25747333120137
+  },
+  {
+    "name": "Kannauj, Kannauj, Kanpur, Uttar Pradesh, India",
+    "lat": 27.04900858535046,
+    "lng": 79.89687617923914
+  },
+  {
+    "name": "?, ?, ?, Uttar Pradesh, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Ayodhya, Faizabad, Faizabad, Uttar Pradesh, India",
+    "lat": 26.783630699664172,
+    "lng": 82.18445324595723
+  },
+  {
+    "name": "Shravasti, Shravasti, Devipatan, Uttar Pradesh, India",
+    "lat": 27.507304072925685,
+    "lng": 82.01523378327738
+  },
+  {
+    "name": "Padri, Shravasti, Devipatan, Uttar Pradesh, India",
+    "lat": 27.493788556662818,
+    "lng": 81.87964706678713
+  },
+  {
+    "name": "Gotihawa, Kapilvastu, Province No. 5, Nepal",
+    "lat": 27.50397427851355,
+    "lng": 83.01952451857755
+  },
+  {
+    "name": "Nigalihawa, Kapilvastu, Province No. 5, Nepal",
+    "lat": 27.59332346636215,
+    "lng": 83.07679240669472
+  },
+  {
+    "name": "Taulihawa, Kapilvastu, Province No. 5, Nepal",
+    "lat": 27.565003085219224,
+    "lng": 83.03497404250334
+  },
+  {
+    "name": "Lumbini, Rupandehi, Province No. 5, Nepal",
+    "lat": 27.46739298855394,
+    "lng": 83.26571753232031
+  },
+  {
+    "name": "Ramgram, Nawalparasi, Province No. 5, Nepal",
+    "lat": 27.46739298855394,
+    "lng": 83.26571753232031
+  },
+  {
+    "name": "Kushinagar, Kushinagar, Gorakhpur, Uttar Pradesh, India",
+    "lat": 26.7430162374067,
+    "lng": 83.87320193640551
+  },
+  {
+    "name": "Kolhua, Vaishali, Tirhut, Bihar, India",
+    "lat": 26.014780548059537,
+    "lng": 85.09495798243438
+  },
+  {
+    "name": "?, ?, ?, Bihar, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Patna, Patna, Patna, Bihar, India",
+    "lat": 25.600334733413224,
+    "lng": 85.17480100122827
+  },
+  {
+    "name": "Patna, Patna, Patna, Bihar, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Giriyak, Nalanda, Patna, Bihar, India",
+    "lat": 25.021011866415765,
+    "lng": 85.4992275630334
+  },
+  {
+    "name": "Bargaon, Nalanda, Patna, Bihar, India",
+    "lat": 25.146201055831895,
+    "lng": 85.42835071494505
+  },
+  {
+    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "lat": 25.018748635180835,
+    "lng": 85.4032881539099
+  },
+  {
+    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "lat": 25.011304665466987,
+    "lng": 85.4332480868809
+  },
+  {
+    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "lat": 25.005060701273067,
+    "lng": 85.43872566517189
+  },
+  {
+    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Gaya, Gaya, Magadh, Bihar, India",
+    "lat": 24.78969479649287,
+    "lng": 84.98467590145651
+  },
+  {
+    "name": "Bodh Gaya, Gaya, Magadh, Bihar, India",
+    "lat": 24.696962894699446,
+    "lng": 84.9659879247863
+  },
+  {
+    "name": "Gurpa, Gaya, Magadh, Bihar, India",
+    "lat": 24.548687563998897,
+    "lng": 85.2906752102283
+  },
+  {
+    "name": "Patna, Patna, Patna, Bihar, India",
+    "lat": 25.600334733413224,
+    "lng": 85.17480100122827
+  },
+  {
+    "name": "?, ?, ?, Bihar, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Varanasi, Varanasi, Varanasi, Uttar Pradesh, India",
+    "lat": 25.311619542229757,
+    "lng": 82.96152352056333
+  },
+  {
+    "name": "Sarnath, Varanasi, Varanasi, Uttar Pradesh, India",
+    "lat": 25.37185416787389,
+    "lng": 83.00546883306333
+  },
+  {
+    "name": "Kosam Khiraj, Kaushambi, Prayagraj, Uttar Pradesh, India",
+    "lat": 25.340593900335598,
+    "lng": 81.36565102487407
+  },
+  {
+    "name": "?, ?, ?, ?, India",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "name": "Patna, Patna, Patna, Bihar, India",
+    "lat": 25.600334733413224,
+    "lng": 85.17480100122827
+  },
+  {
+    "name": "Champanagar, Nathnagar, Bhagalpur, Bihar, India",
+    "lat": 25.248716707163823,
+    "lng": 86.918446321582
+  },
+  {
+    "name": "Tamluk, Purba Medinipur, Medinipur, West Bengal, India",
+    "lat": 22.277762973128496,
+    "lng": 87.91568685806817
+  }
+]
