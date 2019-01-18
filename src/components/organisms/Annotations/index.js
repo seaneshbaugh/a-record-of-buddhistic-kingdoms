@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import Footnote from "../../molecules/Footnote";
 import styles from "./index.module.css";
 
@@ -17,5 +18,17 @@ class Annotations extends Component {
     );
   }
 }
+
+Annotations.propTypes = {
+  footnotes: PropTypes.arrayOf(
+    PropTypes.shape({
+      paragraphs: PropTypes.arrayOf(
+        PropTypes.shape({
+          sentences: PropTypes.arrayOf(PropTypes.string).isRequired
+        }).isRequired
+      ).isRequired
+    }).isRequired
+  ).isRequired
+};
 
 export default Annotations;

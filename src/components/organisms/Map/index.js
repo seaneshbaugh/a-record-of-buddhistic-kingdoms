@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import { Map as LeafletMap, TileLayer as LeafletTileLayer } from "react-leaflet";
 import styles from "./index.module.css";
 
@@ -24,5 +25,9 @@ class Map extends Component {
     );
   }
 }
+
+Map.propTypes = {
+  points: PropTypes.any
+};
 
 export default Map;
