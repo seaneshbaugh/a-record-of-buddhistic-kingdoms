@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import Paragraph from "../../molecules/Paragraph";
 import styles from "./index.module.css";
 
@@ -16,5 +17,13 @@ class Footnote extends Component {
     );
   }
 }
+
+Footnote.propTypes = {
+  paragraphs: PropTypes.arrayOf(
+    PropTypes.shape({
+      sentences: PropTypes.arrayOf(PropTypes.string).isRequired
+    }).isRequired
+  ).isRequired
+};
 
 export default Footnote;
