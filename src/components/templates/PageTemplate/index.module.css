@@ -1,0 +1,13 @@
+.pageTemplate {
+}
+
+.header {
+}
+
+.content {
+    display: flex;
+    flex: 1;
+}
+
+.footer {
+}

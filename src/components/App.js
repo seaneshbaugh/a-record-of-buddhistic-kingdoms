@@ -1,10 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import Header from "./organisms/Header";
-import Map from "./organisms/Map";
-import Book from "./organisms/Book";
-import Annotations from "./organisms/Annotations";
-import Footer from "./organisms/Footer";
+import HomePage from "./pages/HomePage";
 import styles from "./App.module.css";
 
 const defaultState = {
@@ -18,15 +14,10 @@ class App extends Component {
   }
 
   render() {
+    // This is a temporary hack.
     return (
       <div className={styles.app}>
-        <Header title={this.props.title} subtitle={this.props.subtitle} />
-        <div className={styles.body}>
-          <Map />
-          <Book {...this.props.book} currentChapter={this.state.currentChapter} />
-          <Annotations footnotes={this.props.book.chapters[this.state.currentChapter].footnotes} />
-        </div>
-        <Footer></Footer>
+        <HomePage {...this.props} {...this.state} />
       </div>
     );
   }
