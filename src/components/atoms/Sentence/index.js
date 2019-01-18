@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import styles from "./index.module.css";
 
 class Sentence extends Component {
@@ -10,5 +11,9 @@ class Sentence extends Component {
     );
   }
 }
+
+Sentence.propTypes = {
+  text: PropTypes.string
+};
 
 export default Sentence;

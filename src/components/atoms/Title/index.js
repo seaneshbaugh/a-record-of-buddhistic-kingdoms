@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import classNames from "classnames";
 import styles from "./index.module.css";
 
@@ -11,5 +12,11 @@ class Title extends Component {
     );
   }
 }
+
+Title.propTypes = {
+  children: PropTypes.node,
+  className: PropTypes.string,
+  text: PropTypes.string
+};
 
 export default Title;
