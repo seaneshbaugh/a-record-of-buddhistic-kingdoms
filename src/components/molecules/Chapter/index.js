@@ -22,16 +22,14 @@ class Chapter extends Component {
 }
 
 Chapter.propTypes = {
+  title: PropTypes.string.isRequired,
+  subtitle: PropTypes.string.isRequired,
   content: PropTypes.shape({
-    title: PropTypes.string.isRequired,
-    subtitle: PropTypes.string.isRequired,
-    content: PropTypes.shape({
-      paragraphs: PropTypes.arrayOf(
-        PropTypes.shape({
-          sentences: PropTypes.arrayOf(PropTypes.string).isRequired
-        }).isRequired
-      ).isRequired
-    }).isRequired,
+    paragraphs: PropTypes.arrayOf(
+      PropTypes.shape({
+        sentences: PropTypes.arrayOf(PropTypes.string).isRequired
+      }).isRequired
+    ).isRequired
   }).isRequired
 };
 
