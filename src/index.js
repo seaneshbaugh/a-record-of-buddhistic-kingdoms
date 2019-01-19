@@ -1,11 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { Provider } from "react-redux";
 import App from "./components/App";
 import * as serviceWorker from "./serviceWorker";
+import configureStore from "./store/configure";
 import "normalize.css";
 import "leaflet/dist/leaflet.css";
 import "./index.css";
 import book from "./data/book";
+
+const store = configureStore({});
 
 const props = {
   title: "A Record of Buddhistic Kingdoms",
@@ -13,7 +17,15 @@ const props = {
   book: book
 };
 
-ReactDOM.render(<App {...props} />, document.getElementById("root"));
+const renderApp = () => (
+  <Provider store={store}>
+    <App {...props} />
+  </Provider>
+);
+
+const root = document.getElementById("root");
+
+ReactDOM.render(renderApp(), root);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

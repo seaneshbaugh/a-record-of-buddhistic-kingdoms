@@ -3,21 +3,11 @@ import PropTypes from "prop-types";
 import HomePage from "./pages/HomePage";
 import styles from "./App.module.css";
 
-const defaultState = {
-  currentChapter: 0
-};
-
 class App extends Component {
-  constructor(props) {
-    super(props);
-    this.state = defaultState;
-  }
-
   render() {
-    // This is a temporary hack.
     return (
       <div className={styles.app}>
-        <HomePage {...this.props} {...this.state} />
+        <HomePage {...this.props} />
       </div>
     );
   }

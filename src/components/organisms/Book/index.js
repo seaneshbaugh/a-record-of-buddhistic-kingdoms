@@ -4,6 +4,16 @@ import Chapter from "../../molecules/Chapter";
 import styles from "./index.module.css";
 
 class Book extends Component {
+  constructor(props) {
+    super(props);
+
+    this.handleNextChapterClick = this.handleNextChapterClick.bind(this);
+  }
+
+  handleNextChapterClick(event) {
+    this.props.setCurrentChapter(this.props.currentChapter + 1);
+  }
+
   render() {
     const chapters = this.props.chapters.map((chapter, index) => {
       return (<Chapter {...chapter} key={(index + 1).toString()} />);
@@ -12,6 +22,7 @@ class Book extends Component {
     return (
       <div className={styles.book}>
         {chapters[this.props.currentChapter]}
+        <button onClick={this.handleNextChapterClick}>Next Chapter</button>
       </div>
     );
   }
@@ -40,7 +51,8 @@ Book.propTypes = {
       ).isRequired
     }).isRequired
   ).isRequired,
-  currentChapter: PropTypes.number
+  currentChapter: PropTypes.number.isRequired,
+  setCurrentChapter: PropTypes.func.isRequired
 };
 
 export default Book;
