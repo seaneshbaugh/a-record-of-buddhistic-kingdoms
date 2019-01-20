@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
+import { BrowserRouter } from "react-router-dom";
 import App from "./components/App";
 import * as serviceWorker from "./serviceWorker";
 import configureStore from "./store/configure";
@@ -19,7 +20,9 @@ const props = {
 
 const renderApp = () => (
   <Provider store={store}>
-    <App {...props} />
+    <BrowserRouter basename={process.env.PUBLIC_PATH}>
+      <App {...props} />
+    </BrowserRouter>
   </Provider>
 );
 
