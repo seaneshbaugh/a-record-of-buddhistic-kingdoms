@@ -11,6 +11,8 @@ import chapter10 from "./book/chapter_10.json";
 import chapter11 from "./book/chapter_11.json";
 import chapter12 from "./book/chapter_12.json";
 import chapter13 from "./book/chapter_13.json";
+import chapter14 from "./book/chapter_14.json";
+import chapter15 from "./book/chapter_15.json";
 
 const book = {
   chapters: [
@@ -26,7 +28,9 @@ const book = {
     chapter10,
     chapter11,
     chapter12,
-    chapter13
+    chapter13,
+    chapter14,
+    chapter15
   ]
 };
 
