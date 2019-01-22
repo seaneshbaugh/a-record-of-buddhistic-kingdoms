@@ -6,15 +6,16 @@ import { bookCurrentChapter } from "../store/selectors";
 
 class BookContainer extends Component {
   render() {
-    const { chapters, currentChapter, setCurrentChapter } = this.props;
+    const { className, chapters, currentChapter, setCurrentChapter } = this.props;
 
     return (
-      <Book {...{ chapters, currentChapter, setCurrentChapter } } />
+      <Book {...{ className, chapters, currentChapter, setCurrentChapter } } />
     );
   }
 }
 
 const mapStateToProps = (state) => ({
+  chapters: state.book.content.chapters,
   currentChapter: bookCurrentChapter(state.book)
 });
 

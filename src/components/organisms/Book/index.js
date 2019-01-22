@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import classNames from "classnames";
 import PropTypes from "prop-types";
 import Chapter from "../../molecules/Chapter";
 import styles from "./index.module.css";
@@ -7,7 +8,12 @@ class Book extends Component {
   constructor(props) {
     super(props);
 
+    this.handlePreviousChapterClick = this.handlePreviousChapterClick.bind(this);
     this.handleNextChapterClick = this.handleNextChapterClick.bind(this);
+  }
+
+  handlePreviousChapterClick(event) {
+    this.props.setCurrentChapter(this.props.currentChapter - 1);
   }
 
   handleNextChapterClick(event) {
@@ -15,14 +21,19 @@ class Book extends Component {
   }
 
   render() {
-    const chapters = this.props.chapters.map((chapter, index) => {
-      return (<Chapter {...chapter} key={(index + 1).toString()} />);
-    });
+    const className = classNames(this.props.className, styles.book);
+
+    const currentChapter = <Chapter {...this.props.chapters[this.props.currentChapter]} />;
 
     return (
-      <div className={styles.book}>
-        {chapters[this.props.currentChapter]}
-        <button onClick={this.handleNextChapterClick}>Next Chapter</button>
+      <div className={className}>
+        {currentChapter}
+        {this.props.currentChapter > 0 &&
+          <button onClick={this.handlePreviousChapterClick}>Previous Chapter</button>
+        }
+        {this.props.currentChapter < this.props.chapters.length - 1 &&
+          <button onClick={this.handleNextChapterClick}>Next Chapter</button>
+        }
       </div>
     );
   }

@@ -6,12 +6,14 @@ import Footer from "../../organisms/Footer";
 import Map from "../../organisms/Map";
 import styles from "./index.module.css";
 
+const subtitle = "Map";
+
 class MapPage extends Component {
   render() {
-    const header = <Header title={this.props.title} subtitle={this.props.subtitle} />;
-    const content = <div className={styles.content}>
+    const header = <Header title={this.props.title} subtitle={subtitle} />;
+    const content = <main className={styles.content}>
                       <Map />
-                    </div>;
+                    </main>;
     const footer = <Footer>TODO: Footer content goes here.</Footer>;
 
     return (

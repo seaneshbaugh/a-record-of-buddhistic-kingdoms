@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import classNames from "classnames";
 import PropTypes from "prop-types";
 import { Map as LeafletMap, TileLayer as LeafletTileLayer } from "react-leaflet";
 import styles from "./index.module.css";
@@ -14,10 +15,12 @@ class Map extends Component {
   };
 
   render() {
+    const className = classNames(this.props.className, styles.map);
+
     const position = [this.state.lat, this.state.lng];
 
     return (
-      <div className={styles.map}>
+      <div className={className}>
         <LeafletMap center={position} zoom={this.state.zoom}>
           <LeafletTileLayer attribution={attribution} url={url} />
         </LeafletMap>

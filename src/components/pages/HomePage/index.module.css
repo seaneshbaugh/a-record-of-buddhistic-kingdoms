@@ -1,2 +1,16 @@
-.homePage {
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr  1fr 1fr;
+}
+
+.map {
+    grid-column: 1;
+}
+
+.book {
+    grid-column: 2 / 4;
+}
+
+.annotations {
+    grid-column: 4;
 }

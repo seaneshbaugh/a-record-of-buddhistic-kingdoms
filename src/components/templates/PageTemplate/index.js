@@ -6,8 +6,8 @@ import styles from "./index.module.css";
 class PageTemplate extends Component {
   render() {
     const header = React.cloneElement(this.props.header, { className: classNames(this.props.header.props.className, styles.header) });
-    const content = React.cloneElement(this.props.content, { className: classNames(this.props.header.props.className, styles.content) });
-    const footer = React.cloneElement(this.props.footer, { className: classNames(this.props.footer.props.className, styles.content) });
+    const content = React.cloneElement(this.props.content, { className: classNames(this.props.content.props.className, styles.content) });
+    const footer = React.cloneElement(this.props.footer, { className: classNames(this.props.footer.props.className, styles.footer) });
 
     return (
       <div className={styles.pageTemplate}>

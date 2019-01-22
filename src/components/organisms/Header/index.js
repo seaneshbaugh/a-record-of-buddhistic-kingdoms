@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import classNames from "classnames";
 import PropTypes from "prop-types";
 import Title from "../../atoms/Title";
 import Subtitle from "../../atoms/Subtitle";
@@ -7,8 +8,10 @@ import styles from "./index.module.css";
 
 class Header extends Component {
   render() {
+    const className = classNames(this.props.className, styles.header);
+
     return (
-      <header className={styles.header}>
+      <header className={className}>
         <Title className={styles.title}>{this.props.title}</Title>
         <Subtitle className={styles.subtitle}>{this.props.subtitle}</Subtitle>
         <Link to="/">Home</Link>&nbsp;|&nbsp;

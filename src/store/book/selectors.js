@@ -1,4 +1,7 @@
+import content from "../../data/book";
+
 export const initialState = {
+  content,
   currentChapter: 0
 };
 

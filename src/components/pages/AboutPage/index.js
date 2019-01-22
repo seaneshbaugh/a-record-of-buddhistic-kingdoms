@@ -5,12 +5,14 @@ import Header from "../../organisms/Header";
 import Footer from "../../organisms/Footer";
 import styles from "./index.module.css";
 
+const subtitle = "About";
+
 class AboutPage extends Component {
   render() {
-    const header = <Header title={this.props.title} subtitle={this.props.subtitle} />;
-    const content = <div className={styles.content}>
+    const header = <Header title={this.props.title} subtitle={subtitle} />;
+    const content = <main className={styles.content}>
                       <p>TODO: About this site goes here.</p>
-                    </div>;
+                    </main>;
     const footer = <Footer>TODO: Footer content goes here.</Footer>;
 
     return (

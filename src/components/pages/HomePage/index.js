@@ -4,18 +4,20 @@ import PageTemplate from "../../templates/PageTemplate";
 import Header from "../../organisms/Header";
 import Map from "../../organisms/Map";
 import Book from "../../../containers/Book";
-import Annotations from "../../organisms/Annotations";
+import Annotations from "../../../containers/Annotations";
 import Footer from "../../organisms/Footer";
 import styles from "./index.module.css";
 
+const subtitle = "Being an Account by the Chinese Monk Faxian of his Travels in India and Ceylon in Search of the Buddhist Books of Discipline";
+
 class HomePage extends Component {
   render() {
-    const header = <Header title={this.props.title} subtitle={this.props.subtitle} />;
-    const content = <div className={styles.body}>
-                      <Map />
-                      <Book {...this.props.book} />
-                      <Annotations footnotes={this.props.book.chapters[0].footnotes} />
-                    </div>;
+    const header = <Header title={this.props.title} subtitle={subtitle} />;
+    const content = <main className={styles.content}>
+                      <Map className={styles.map} />
+                      <Book className={styles.book} />
+                      <Annotations className={styles.annotations} />
+                    </main>;
     const footer = <Footer>TODO: Footer content goes here.</Footer>;
 
     return (

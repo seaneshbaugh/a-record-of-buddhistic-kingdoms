@@ -1,13 +1,16 @@
 .pageTemplate {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .header {
+    grid-column: 1 / 5;
 }
 
 .content {
-    display: flex;
-    flex: 1;
+    grid-column: 1 / 5;
 }
 
 .footer {
+    grid-column: 1 / 5;
 }
