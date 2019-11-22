@@ -1,3 +1,5 @@
+import preface from "./book/preface.json";
+import noteOnTheSketchMap from "./book/note_on_the_sketch_map.json";
 import chapter01 from "./book/chapter_01.json";
 import chapter02 from "./book/chapter_02.json";
 import chapter03 from "./book/chapter_03.json";
@@ -29,6 +31,10 @@ import chapter28 from "./book/chapter_28.json";
 import chapter29 from "./book/chapter_29.json";
 
 const book = {
+  frontMatter: [
+    preface,
+    noteOnTheSketchMap
+  ],
   chapters: [
     chapter01,
     chapter02,
