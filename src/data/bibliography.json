@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "authors": ["Eitel, Ernest J."],
+    "title": "Hand-book of Chinese Buddhism: Being a Sanskrit-Chinese Dictionary with Vocabularies of Buddhist Terms in Pali, Singhalese, Siamese, Burmese, Tibetan, Mongolian and Japanese"
+    "publisher": "",
+    "location": ["London", "Hong Kong"],
+    "year": "1870",
+    "links": [
+      {
+        "url": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "authors": ["Hoey, William, translator", "Oldenberg, Hermann"],
+    "Title": "Buddha: His Life, His Doctrine, His Order",
+    "publisher": "Williams and Norgate",
+    "location": "London, Edinburgh",
+    "year": "1882",
+    "links": [
+      {
+        "url": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "authors": ["Legge, James, translator"],
+    "title": "The Chinese Classics: with a Translation, Critical and Exegetical Notes, Prolegomena, and Copious Indexes, Vol. I",
+    "publisher": "Trübner & Co.",
+    "location": "London",
+    "year": "1861",
+    "links": [
+      {
+        "url": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "authors": ["Rhys Davis, T. W., translator"],
+    "title": "Sacred Books of the East, Vol. XI: Buddhist Suttas",
+    "publisher": "Oxford University Press",
+    "location": "London",
+    "year": "1881",
+    "links": [
+      {
+        "url": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "authors": ["Rhys Davids, T. W."],
+    "title": "Buddhism: Being a Sketch of the Life and Teachings of Gautama, The Buddha",
+    "publisher": "Society for Promoting Christian Knowledge",
+    "location": "London",
+    "year": "1877",
+    "links": [
+      {
+        "url": "",
+        "text": ""
+      }
+    ]
+  }
+]
