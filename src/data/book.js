@@ -18,6 +18,13 @@ import chapter17 from "./book/chapter_17.json";
 import chapter18 from "./book/chapter_18.json";
 import chapter19 from "./book/chapter_19.json";
 import chapter20 from "./book/chapter_20.json";
+import chapter21 from "./book/chapter_21.json";
+import chapter22 from "./book/chapter_22.json";
+import chapter23 from "./book/chapter_23.json";
+import chapter24 from "./book/chapter_24.json";
+import chapter25 from "./book/chapter_25.json";
+import chapter26 from "./book/chapter_26.json";
+import chapter27 from "./book/chapter_27.json";
 
 const book = {
   chapters: [
@@ -40,7 +47,14 @@ const book = {
     chapter17,
     chapter18,
     chapter19,
-    chapter20
+    chapter20,
+    chapter21,
+    chapter22,
+    chapter23,
+    chapter24,
+    chapter25,
+    chapter26,
+    chapter27
   ]
 };
 
