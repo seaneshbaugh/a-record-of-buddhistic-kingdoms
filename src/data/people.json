@@ -1,1 +1,389 @@
-[]
+[
+  {
+    "name": "Aśoka",
+    "title": "King of the Mauyuran Empire",
+    "appearance": "CHAPTER V."
+  },
+  {
+    "name": "Samuel Beal",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "legge": "Yakoob Beg",
+      "modern": "Muhammad Yaqub Bek",
+      "tajik": "Яъқуб-бек"
+    },
+    "title": {
+      "modern": "Atalik Ghazi"
+    }
+    "appearance": "CHAPTER II."
+  },
+  {
+    "name": {
+      "legge": "Che-yen",
+      "pinyin": "Zheyan"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": "Alexander Cunningham",
+    "appearance": "NOTE ON THE SKETCH-MAP."
+  },
+  {
+    "name": "T.W. Rhys Davids"
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "John Francis Davis",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "Zhu Di",
+    "appearance": "INTRODUCTION."
+  },
+  {
+    "name": "Ernst Johann Eitel",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "pinyin": "Faxian",
+      "pinyinWithAccents": "Fǎxiǎn",
+      "legge": "Fâ-hien"
+      "traditionalChinese": "法顯",
+      "simplifiedChinese": "法显"
+    },
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "Herbert Giles",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "pali": "Siddhattha Gotama",
+      "sankrit": "Siddhārtha Gautama"
+    },
+    "title" {
+      "pali": "Śâkyamuni Buddha",
+      "sanskrit": "Shakyamuni Buddha"
+    },
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "George Bellas Greenough",
+    "appearance": "NOTE ON THE SKETCH-MAP."
+  },
+  {
+    "name": {
+      "legge": "Hâji Habeeboolla"
+    },
+    "title": {
+      "legge": "Governor of Khoten"
+    },
+    "appearance": "CHAPTER II."
+  },
+  {
+    "name": "Robert Spence Hardy"
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "William Hoey",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "legge": "Hwuy-keen"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "Hwuy-king"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "Hwuy-tah",
+    },
+    "appearance": "CHAPTER III."
+    "note": "Possibly an alias for another of Faxian’s companions."
+  },
+  {
+    "name": {
+      "legge": "Hwuy-wei"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "Hwuy-ying"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "K’een-kwei K’eih-fuh"
+    },
+    "title": {
+      "legge": "King of the Western Ts’in"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "King of K’eeh-ch’â"
+    },
+    "title": {
+      "legge": "King of K’eeh-ch’â"
+    },
+    "appearance": "CHAPTER V."
+  },
+  {
+    "name": {
+      "legge": "King of Shen-shen"
+    },
+    "title": {
+      "legge": "King of Shen-shen"
+    },
+    "appearance": "CHAPTER II."
+  },
+  {
+    "name": {
+      "legge": "King of Tsze-hoh"
+    }
+    "title": {
+      "legge": "King of Tsze-hoh"
+    },
+    "appearance": "CHAPTER IV."
+  },
+  {
+    "name": {
+      "legge": "King of Yu-teen"
+    },
+    "title": {
+      "legge": "King of Yu-teen"
+    },
+    "appearance": "CHAPTER III."
+  },
+  {
+    "name": {
+      "legge": "Foo Kung-sun"
+    },
+    "title": {
+      "legge": "Maître d’hôtellerie of Woo-e Monastery"
+    },
+    "appearance": "CHAPTER II."
+  },
+  {
+    "name": {
+      "legge": "Kwo-jin K’eih-fuh"
+    },
+    "title": {
+      "legge": "King of the Western Ts’in"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "Kwo-jin K’eih-fuh"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": "Julius Klaproth",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "Ernest Clerc de Landresse",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "legge": "Le Hâo"
+    },
+    "title": {
+      "legge": "Prefect of T'un-hwang"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": "James Legge"
+    "appearance": "author"
+  },
+  {
+    "name": "Arthur Anthony Macdonell",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "pali": "Maitreya",
+    },
+    "title": {
+      "pali": "Ajita"
+    },
+    "appearance": "CHAPTER VI."
+  },
+  {
+    "name": "Robert Morrison",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "Max Müller",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "legge": "Bunyiu Nanjio",
+      "romaji": "Nanjō Bun'yū"
+      "japanese": "南条文雄"
+    }
+  },
+  {
+    "name": "Hermann Oldenberg",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "legge": "Pâo-yun",
+      "pinyin": "Baoyun"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": "J. C. Pembrey",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "Jean-Pierre Abel-Rémusat"
+    "appearance": "PREFACE."
+  },
+  {
+    "name": {
+      "legge": "Queen of Yu-teen"
+    },
+    "title": {
+      "legge": "Queen of Yu-teen"
+    },
+    "appearance": "CHAPTER III."
+  },
+  {
+    "name": {
+      "legge": "Săng-king",
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "Săng-shâo",
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": "James Henry Sedgwick",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "Frederick Porter Smith",
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "Tâo-ching"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "Twan-yeh",
+      "pinyin": "Duan Ye",
+      "pinyinWithAccents": "Duàn Yè",
+      "tradtionalChinese": "段業",
+      "simplifiedChinese": "段业"
+    },
+    "title": {
+      "legge": "King of the Northern Leang"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": "Unnamed Envoy",
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": "Unnamed Tartar",
+    "appearance": "CHAPTER IV."
+  },
+  {
+    "name": "Thomas Watters",
+    "appearance": "PREFACE."
+  },
+  {
+    "name": "Samuel Wells Williams",
+    "appearance": "CHAPTER III."
+  },
+  {
+    "name": {
+      "legge": "Le-luh-koo Wû-kû"
+    },
+    "title": {
+      "legge": "King of the Southern Leang"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": {
+      "legge": "Now-t’an Wû-kû"
+    },
+    "title": {
+      "legge": "King of the Southern Leang"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name": "Alexander Wylie",
+    "appearance": "CHAPTER II."
+  },
+  {
+    "name": {
+      "legge": "T’ŭh-făh Wû-kû"
+    },
+    "title": {
+      "legge": "King of the Southern Leang"
+    },
+    "appearance": "CHAPTER I."
+  },
+  {
+    "name" {
+      "pinyin": "Aisin Gioro Xuanye"
+      "simplifiedChinese": "愛新覺羅 玄燁"
+    },
+    "title": {
+      "legge": "K’ang-hsî Emperor",
+      "pinyin": "Kangxi Emperor"
+    },
+    "appearance": "INTRODUCTION."
+  },
+  {
+    "name": {
+      "legge": "Hsüan Ch’wang",
+      "wadeGiles": "Hsüan-tsang",
+      "pinyin": "Xuanzang",
+      "pinyinWithAccents": "Xuánzàng",
+      "traditionalChinese": "玄奘",
+      "simplifiedChinese": "玄奘"
+    },
+    "appearance": "CHAPTER III."
+  },
+  {
+    "name": {
+      "legge": "Yâo Hing"
+    },
+    "title": {
+      "legge": "Prince of the After Ts’in"
+    },
+    "appearance": "CHAPTER I."
+  }
+]
