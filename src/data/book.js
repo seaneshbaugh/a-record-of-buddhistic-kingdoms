@@ -39,6 +39,7 @@ import chapter36 from "./book/chapter_36.json";
 import chapter37 from "./book/chapter_37.json";
 import chapter38 from "./book/chapter_38.json";
 import chapter39 from "./book/chapter_39.json";
+import chapter40 from "./book/chapter_40.json";
 
 const book = {
   frontMatter: [
@@ -84,7 +85,8 @@ const book = {
     chapter36,
     chapter37,
     chapter38,
-    chapter39
+    chapter39,
+    chapter40
   ]
 };
 
