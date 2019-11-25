@@ -14,11 +14,13 @@ class Header extends Component {
       <header className={className}>
         <Title className={styles.title}>{this.props.title}</Title>
         <Subtitle className={styles.subtitle}>{this.props.subtitle}</Subtitle>
-        <Link to="/">Home</Link>&nbsp;|&nbsp;
-        <Link to="/map">Map</Link>&nbsp;|&nbsp;
-        <Link to="/people">People</Link>&nbsp;|&nbsp;
-        <Link to="/bibliography">Bibliography</Link>&nbsp;|&nbsp;
-        <Link to="/about">About</Link>
+        <nav className={styles.mainNav}>
+          <Link to="/">Home</Link>&nbsp;|&nbsp;
+          <Link to="/map">Map</Link>&nbsp;|&nbsp;
+          <Link to="/people">People</Link>&nbsp;|&nbsp;
+          <Link to="/bibliography">Bibliography</Link>&nbsp;|&nbsp;
+          <Link to="/about">About</Link>
+        </nav>
       </header>
     );
   }
