@@ -1,66 +1,106 @@
 [
   {
-    "authors": ["Eitel, Ernest J."],
-    "title": "Hand-book of Chinese Buddhism: Being a Sanskrit-Chinese Dictionary with Vocabularies of Buddhist Terms in Pali, Singhalese, Siamese, Burmese, Tibetan, Mongolian and Japanese"
-    "publisher": "",
-    "location": ["London", "Hong Kong"],
-    "year": "1870",
+    "authors": [
+      {
+        "firstName": "Ernest",
+        "middleName": "J",
+        "lastName": "Eitel"
+      }
+    ],
+    "title": "Hand-book of Chinese Buddhism: Being a Sanskrit-Chinese Dictionary with Vocabularies of Buddhist Terms in Pali, Singhalese, Siamese, Burmese, Tibetan, Mongolian and Japanese",
+    "publisher": "Sanshusha",
+    "location": ["Tokyo"],
+    "year": "1904",
+    "edition": "Second",
     "links": [
       {
-        "url": "",
-        "text": ""
+        "url": "https://archive.org/details/handbookofchines00eite",
+        "text": "Internet Archive"
       }
     ]
   },
   {
-    "authors": ["Hoey, William, translator", "Oldenberg, Hermann"],
-    "Title": "Buddha: His Life, His Doctrine, His Order",
+    "authors": [
+      {
+        "firstName": "Hermann",
+        "lastName": "Oldenberg"
+      }
+    ],
+    "translators": [
+      {
+        "firstName": "William",
+        "lastName": "Hoey"
+      }
+    ],
+    "title": "Buddha: His Life, His Doctrine, His Order",
     "publisher": "Williams and Norgate",
-    "location": "London, Edinburgh",
+    "location": ["London", "Edinburgh"],
     "year": "1882",
     "links": [
       {
-        "url": "",
-        "text": ""
+        "url": "https://archive.org/details/buddhahislifehis00olde",
+        "text": "Internet Archive"
       }
     ]
   },
   {
-    "authors": ["Legge, James, translator"],
+    "translators": [
+      {
+        "firstName": "James",
+        "lastName": "Legge"
+      }
+    ],
     "title": "The Chinese Classics: with a Translation, Critical and Exegetical Notes, Prolegomena, and Copious Indexes, Vol. I",
     "publisher": "Trübner & Co.",
-    "location": "London",
+    "location": ["London"],
     "year": "1861",
     "links": [
       {
-        "url": "",
-        "text": ""
+        "url": "https://archive.org/details/chineseclassics00minggoog",
+        "text": "Internet Archive"
       }
     ]
   },
   {
-    "authors": ["Rhys Davis, T. W., translator"],
+    "editors": [
+      {
+        "firstName": "F. Max",
+        "lastName": "Müller"
+      }
+    ],
+    "translators": [
+      {
+        "firstName": "T. W.",
+        "lastName": "Rhys Davis"
+      }
+    ],
     "title": "Sacred Books of the East, Vol. XI: Buddhist Suttas",
     "publisher": "Oxford University Press",
-    "location": "London",
+    "location": ["London"],
     "year": "1881",
     "links": [
       {
-        "url": "",
-        "text": ""
+        "url": "https://archive.org/details/1922707.0011.001.umich.edu",
+        "text": "Internet Archive"
       }
     ]
   },
   {
-    "authors": ["Rhys Davids, T. W."],
+    "authors": [
+      {
+        "firstName": "T. W.",
+        "lastName": "Rhys Davis"
+      }
+    ],
     "title": "Buddhism: Being a Sketch of the Life and Teachings of Gautama, The Buddha",
     "publisher": "Society for Promoting Christian Knowledge",
-    "location": "London",
-    "year": "1877",
+    "location": ["London"],
+    "year": "1912",
+    "edition": "Second",
     "links": [
       {
-        "url": "",
-        "text": ""
+        "url": "https://archive.org/details/buddhismbeingske00davi",
+        "text": "Internet Archive"
       }
     ]
   }
