@@ -11,7 +11,7 @@ class AboutPage extends Component {
   render() {
     const header = <Header title={this.props.title} subtitle={subtitle} />;
     const content = <main className={styles.content}>
-                      <p>
+                      <p className={styles.dedication}>
                         Namo tassa bhagavato arahato sammāsambuddhassa.<br />
                         Namo tassa bhagavato arahato sammāsambuddhassa.<br />
                         Namo tassa bhagavato arahato sammāsambuddhassa.<br />
