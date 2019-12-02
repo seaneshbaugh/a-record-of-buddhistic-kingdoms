@@ -5,12 +5,15 @@
 
 .header {
     grid-column: 1 / 5;
+    padding: 0 1rem;
 }
 
 .content {
     grid-column: 1 / 5;
+    padding: 1rem 1rem 0 1rem;
 }
 
 .footer {
     grid-column: 1 / 5;
+    padding: 1rem 1rem 0 1rem;
 }
