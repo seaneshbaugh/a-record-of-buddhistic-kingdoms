@@ -2,6 +2,23 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
-    -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+}
+
+body:before {
+    /* Background by Dcpeets, licensed under CC BY-SA 4.0. */
+    /* https://commons.wikimedia.org/wiki/File:Yardangs_near_Dunhuang_1.jpg */
+    /* https://creativecommons.org/licenses/by-sa/4.0/ */
+    background: #ffffff url("/background-compressed.jpg") 50% 0/cover no-repeat;
+    content: ' ';
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0.2;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
 }
