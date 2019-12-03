@@ -11,9 +11,9 @@ class Bibliography extends Component {
     const entries = this.props.entries.map((entry, index) => (<BibliographyEntry {...entry} key={index} />));
 
     return (
-      <div className={className}>
+      <ul className={className}>
         {entries}
-      </div>
+      </ul>
     )
   }
 }

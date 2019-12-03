@@ -90,9 +90,9 @@ class BibliographyEntry extends Component {
     citation.push(".");
 
     return (
-      <div className={className}>
+      <li className={className}>
         {citation}
-      </div>
+      </li>
     );
   }
 }
