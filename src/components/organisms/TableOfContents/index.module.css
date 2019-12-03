@@ -1,4 +1,6 @@
 .tableOfContents {
+    max-height: calc(100vh - 207px);
+    overflow-y: scroll;
 }
 
 .chapters {
