@@ -7,8 +7,12 @@
     grid-column: 1;
 }
 
+.tableOfContents {
+    grid-column: 1;
+}
+
 .book {
-    grid-column: 2 / 4;
+    grid-column: 2 / 5;
 }
 
 .annotations {
