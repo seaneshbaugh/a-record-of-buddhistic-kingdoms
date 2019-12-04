@@ -9,3 +9,11 @@
 .chapter {
     cursor: pointer;
 }
+
+.chapter:hover {
+    background: #9a9a9a;
+}
+
+.active {
+    background: #e9e9e0;
+}
