@@ -16,7 +16,7 @@
     },
     "title": {
       "modern": "Atalik Ghazi"
-    }
+    },
     "appearance": "CHAPTER II."
   },
   {
@@ -31,7 +31,7 @@
     "appearance": "NOTE ON THE SKETCH-MAP."
   },
   {
-    "name": "T.W. Rhys Davids"
+    "name": "T.W. Rhys Davids",
     "appearance": "PREFACE."
   },
   {
@@ -50,7 +50,7 @@
     "name": {
       "pinyin": "Faxian",
       "pinyinWithAccents": "Fǎxiǎn",
-      "legge": "Fâ-hien"
+      "legge": "Fâ-hien",
       "traditionalChinese": "法顯",
       "simplifiedChinese": "法显"
     },
@@ -65,7 +65,7 @@
       "pali": "Siddhattha Gotama",
       "sankrit": "Siddhārtha Gautama"
     },
-    "title" {
+    "title": {
       "pali": "Śâkyamuni Buddha",
       "sanskrit": "Shakyamuni Buddha"
     },
@@ -85,7 +85,7 @@
     "appearance": "CHAPTER II."
   },
   {
-    "name": "Robert Spence Hardy"
+    "name": "Robert Spence Hardy",
     "appearance": "PREFACE."
   },
   {
@@ -106,9 +106,9 @@
   },
   {
     "name": {
-      "legge": "Hwuy-tah",
+      "legge": "Hwuy-tah"
     },
-    "appearance": "CHAPTER III."
+    "appearance": "CHAPTER III.",
     "note": "Possibly an alias for another of Faxian’s companions."
   },
   {
@@ -153,7 +153,7 @@
   {
     "name": {
       "legge": "King of Tsze-hoh"
-    }
+    },
     "title": {
       "legge": "King of Tsze-hoh"
     },
@@ -219,7 +219,7 @@
     "appearance": "CHAPTER I."
   },
   {
-    "name": "James Legge"
+    "name": "James Legge",
     "appearance": "author"
   },
   {
@@ -228,7 +228,7 @@
   },
   {
     "name": {
-      "pali": "Maitreya",
+      "pali": "Maitreya"
     },
     "title": {
       "pali": "Ajita"
@@ -246,7 +246,7 @@
   {
     "name": {
       "legge": "Bunyiu Nanjio",
-      "romaji": "Nanjō Bun'yū"
+      "romaji": "Nanjō Bun'yū",
       "japanese": "南条文雄"
     }
   },
@@ -266,7 +266,7 @@
     "appearance": "PREFACE."
   },
   {
-    "name": "Jean-Pierre Abel-Rémusat"
+    "name": "Jean-Pierre Abel-Rémusat",
     "appearance": "PREFACE."
   },
   {
@@ -280,13 +280,13 @@
   },
   {
     "name": {
-      "legge": "Săng-king",
+      "legge": "Săng-king"
     },
     "appearance": "CHAPTER I."
   },
   {
     "name": {
-      "legge": "Săng-shâo",
+      "legge": "Săng-shâo"
     },
     "appearance": "CHAPTER I."
   },
@@ -380,8 +380,8 @@
     "appearance": "CHAPTER I."
   },
   {
-    "name" {
-      "pinyin": "Aisin Gioro Xuanye"
+    "name": {
+      "pinyin": "Aisin Gioro Xuanye",
       "simplifiedChinese": "愛新覺羅 玄燁"
     },
     "title": {
