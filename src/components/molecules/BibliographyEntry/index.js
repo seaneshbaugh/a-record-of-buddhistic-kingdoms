@@ -97,6 +97,4 @@ class BibliographyEntry extends Component {
   }
 }
 
-
-//  Eitel, Ernest J. Hand-Book of Chinese Buddhism: Being a Sanskrit-Chinese Dictionary with Vocabularies of Buddhist Terms in Pali, Singhalese, Siamese, Burmese, Tibetan, Mongolian and Japanese. Second ed., Sanshusha, 1870.
 export default BibliographyEntry;
