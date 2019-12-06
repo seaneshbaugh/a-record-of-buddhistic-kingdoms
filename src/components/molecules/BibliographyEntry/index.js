@@ -97,4 +97,46 @@ class BibliographyEntry extends Component {
   }
 }
 
+BibliographyEntry.propTypes = {
+  authors: PropTypes.arrayOf(
+    PropTypes.shape({
+      firstName: PropTypes.string,
+      middleName: PropTypes.string,
+      lastName: PropTypes.string.isRequired
+    })
+  ),
+  editors: PropTypes.arrayOf(
+    PropTypes.shape({
+      firstName: PropTypes.string,
+      middleName: PropTypes.string,
+      lastName: PropTypes.string.isRequired
+    })
+  ),
+  compilers: PropTypes.arrayOf(
+    PropTypes.shape({
+      firstName: PropTypes.string,
+      middleName: PropTypes.string,
+      lastName: PropTypes.string.isRequired
+    })
+  ),
+  translators: PropTypes.arrayOf(
+    PropTypes.shape({
+      firstName: PropTypes.string,
+      middleName: PropTypes.string,
+      lastName: PropTypes.string.isRequired
+    })
+  ),
+  title: PropTypes.string.isRequired,
+  publisher: PropTypes.string.isRequired,
+  location: PropTypes.arrayOf(PropTypes.string).isRequired,
+  year: PropTypes.string.isRequired,
+  edition: PropTypes.string,
+  links: PropTypes.arrayOf(
+    PropTypes.shape({
+      url: PropTypes.string.isRequired,
+      text: PropTypes.string.isRequired
+    }).isRequired
+  ).isRequired
+};
+
 export default BibliographyEntry;
