@@ -29,10 +29,10 @@ class Book extends Component {
       <div className={className}>
         {currentChapter}
         {this.props.currentChapter > 0 &&
-          <button onClick={this.handlePreviousChapterClick}>Previous Chapter</button>
+          <button className={styles.button} onClick={this.handlePreviousChapterClick}>Previous Chapter</button>
         }
         {this.props.currentChapter < this.props.chapters.length - 1 &&
-          <button onClick={this.handleNextChapterClick}>Next Chapter</button>
+          <button className={styles.button} onClick={this.handleNextChapterClick}>Next Chapter</button>
         }
       </div>
     );
