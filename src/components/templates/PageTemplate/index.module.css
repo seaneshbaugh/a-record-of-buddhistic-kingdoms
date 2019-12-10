@@ -16,6 +16,7 @@
 }
 
 .footer {
+    font-size: 0.5rem;
     grid-column: 1 / 5;
     grid-row: 3 / 4;
     padding: 1rem 1rem 0 1rem;

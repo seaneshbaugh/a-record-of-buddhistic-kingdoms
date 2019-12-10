@@ -13,7 +13,7 @@ body {
 }
 
 body:before {
-    /* Background by Dcpeets, licensed under CC BY-SA 4.0. */
+    /* Background by Darren Peets, licensed under CC BY-SA 4.0. */
     /* https://commons.wikimedia.org/wiki/File:Yardangs_near_Dunhuang_1.jpg */
     /* https://creativecommons.org/licenses/by-sa/4.0/ */
     background: #ffffff url("/background-compressed.jpg") 50% 0/cover no-repeat;

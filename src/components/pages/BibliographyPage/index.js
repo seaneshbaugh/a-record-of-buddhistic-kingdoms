@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import PageTemplate from "../../templates/PageTemplate";
 import Header from "../../organisms/Header";
-import Footer from "../../organisms/Footer";
 import Bibliography from "../../organisms/Bibliography";
 import styles from "./index.module.css";
 import bibliography from "../../../data/bibliography.json";
@@ -15,13 +14,11 @@ class BibliographyPage extends Component {
     const content = <main className={styles.content}>
                       <Bibliography entries={bibliography} />
                     </main>;
-    const footer = <Footer>TODO: Footer content goes here.</Footer>;
 
     return (
       <PageTemplate
         header={header}
         content={content}
-        footer={footer}
       />
     );
   }
