@@ -1,3 +1,3 @@
-import { bookSetCurrentChapter } from "./book/actions";
+import { bookSetCurrentChapter, bookSetCurrentFootnote } from "./book/actions";
 
-export { bookSetCurrentChapter };
+export { bookSetCurrentChapter, bookSetCurrentFootnote };

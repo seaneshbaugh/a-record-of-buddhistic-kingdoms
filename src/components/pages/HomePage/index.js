@@ -13,8 +13,6 @@ const subtitle = "Being an Account by the Chinese Monk Faxian of his Travels in 
 
 class HomePage extends Component {
   render() {
-    //                       <Map className={styles.map} />
-    //                      <Annotations className={styles.annotations} />
     const header = <Header title={this.props.title} subtitle={subtitle} />;
     const content = <main className={styles.content}>
                       <TableOfContents className={styles.tableOfContents} />

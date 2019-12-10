@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import Sentence from "../../atoms/Sentence";
+import Sentence from "../../../containers/Sentence";
 import styles from "./index.module.css";
 
 class Paragraph extends Component {

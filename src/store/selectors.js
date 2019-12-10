@@ -1,3 +1,3 @@
-import { bookCurrentChapter } from "./book/selectors";
+import { bookCurrentChapter, bookCurrentFootnote } from "./book/selectors";
 
-export { bookCurrentChapter };
+export { bookCurrentChapter, bookCurrentFootnote };
