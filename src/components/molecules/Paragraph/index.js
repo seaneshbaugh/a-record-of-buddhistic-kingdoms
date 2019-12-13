@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import Sentence from "../../../containers/Sentence";
+import Sentence from "../Sentence";
 import styles from "./index.module.css";
 
 class Paragraph extends Component {
   render() {
     const sentences = this.props.sentences.map((sentence, index) => {
-      return (<Sentence text={sentence} key={(index + 1).toString()} />);
+      return <Sentence text={sentence} key={(index + 1).toString()} />;
     }).reduce((memo, sentence, index) => {
       memo.push(sentence);
 

@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import Sentence from "../components/atoms/Sentence";
+import FootnoteCallNumber from "../components/atoms/FootnoteCallNumber";
 import { bookSetCurrentFootnote } from "../store/actions";
 
-class SentenceContainer extends Component {
+class FootnoteCallNumberContainer extends Component {
   render() {
-    const { text, setCurrentFootnote } = this.props;
+    const { footnoteIndex, setCurrentFootnote } = this.props;
 
     return (
-      <Sentence {...{ text, setCurrentFootnote } } />
+      <FootnoteCallNumber {...{ footnoteIndex, setCurrentFootnote } } />
     );
   }
 }
@@ -21,4 +21,4 @@ const mapDispatchToProps = (dispatch, ownProps) => ({
   }
 });
 
-export default connect(mapStateToProps, mapDispatchToProps)(SentenceContainer);
+export default connect(mapStateToProps, mapDispatchToProps)(FootnoteCallNumber);
