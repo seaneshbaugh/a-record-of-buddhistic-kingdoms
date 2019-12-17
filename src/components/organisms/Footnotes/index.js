@@ -4,25 +4,36 @@ import PropTypes from "prop-types";
 import Footnote from "../../molecules/Footnote";
 import styles from "./index.module.css";
 
-class Annotations extends Component {
+class Footnotes extends Component {
+  constructor(props) {
+    super(props);
+
+    this.close = this.close.bind(this);
+  }
+
+  close(event) {
+    event.preventDefault();
+
+    this.props.setCurrentFootnote(null);
+  }
+
   render() {
-    const className = classNames(this.props.className, styles.annotations);
+    const className = classNames(this.props.className, styles.footnotes);
 
     const footnotes = this.props.footnotes.map((footnote, index) => {
-      return (<Footnote {...footnote} index={index + 1} key={(index + 1).toString()} />);
+      return <Footnote {...footnote} index={index + 1} key={(index + 1).toString()} current={index === this.props.currentFootnote} />;
     });
 
     return (
       <div className={className}>
-        <div className={styles.footnotes}>
-          {footnotes}
-        </div>
+        <span onClick={this.close}>&times;</span>
+        {footnotes}
       </div>
     );
   }
 }
 
-Annotations.propTypes = {
+Footnotes.propTypes = {
   footnotes: PropTypes.arrayOf(
     PropTypes.shape({
       paragraphs: PropTypes.arrayOf(
@@ -34,4 +45,4 @@ Annotations.propTypes = {
   ).isRequired
 };
 
-export default Annotations;
+export default Footnotes;

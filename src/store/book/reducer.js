@@ -10,10 +10,9 @@ export default (state = initialState, { type, payload = {} }) => {
       currentFootnote: null
     };
   case BOOK_SET_CURRENT_FOOTNOTE:
-    console.log(BOOK_SET_CURRENT_FOOTNOTE, payload.footnoteIndex);
     return {
       ...state,
-      currentFootnote: payload.foonoteIndex
+      currentFootnote: payload.footnoteIndex
     };
   default:
     return state;

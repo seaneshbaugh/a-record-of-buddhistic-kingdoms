@@ -1,6 +1,6 @@
 .book {
     /* max-height offset was determined manually. Not so thrilled about that. Need to figure out a better way. */
-    max-height: calc(100vh - 207px);
+    max-height: calc(100vh - 184px);
     overflow-y: scroll;
     padding: 0 0.5rem;
 }
@@ -10,7 +10,7 @@
     border: none;
     color: #ffffff;
     cursor: pointer;
-    letter-spacing: .5px;
+    letter-spacing: 0.5px;
     margin-right: 0.25rem;
     padding: 0.5rem;
     text-align: center;

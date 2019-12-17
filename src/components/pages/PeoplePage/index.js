@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import PageTemplate from "../../templates/PageTemplate";
 import Header from "../../organisms/Header";
+import PageFooter from "../partials/PageFooter";
 import People from "../../organisms/People";
 import styles from "./index.module.css";
 import people from "../../../data/people.json";
@@ -19,6 +20,7 @@ class PeoplePage extends Component {
       <PageTemplate
         header={header}
         content={content}
+        footer={PageFooter}
       />
     );
   }

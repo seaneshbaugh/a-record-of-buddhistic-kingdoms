@@ -21,5 +21,9 @@ export const bookCurrentChapter = (state = initialState) => {
 };
 
 export const bookCurrentFootnote = (state = initialState) => {
-  return state.currentFootnote;
+  if (state.currentFootnote || state.currentFootnote === 0) {
+    return state.currentFootnote;
+  } else {
+    return initialState.currentFootnote;
+  }
 };

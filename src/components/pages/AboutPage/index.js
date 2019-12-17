@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import PageTemplate from "../../templates/PageTemplate";
 import Header from "../../organisms/Header";
+import PageFooter from "../partials/PageFooter";
 import styles from "./index.module.css";
 
 const subtitle = "About";
@@ -25,6 +26,7 @@ class AboutPage extends Component {
       <PageTemplate
         header={header}
         content={content}
+        footer={PageFooter}
       />
     );
   }

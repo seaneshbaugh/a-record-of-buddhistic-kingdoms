@@ -1,0 +1,28 @@
+.twoColumnPageTemplate {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+}
+
+.header {
+    grid-column: 1 / 5;
+    padding: 0 1rem;
+}
+
+.sideContent {
+    grid-column: 1;
+    padding: 1rem 0.5rem 0 1rem;
+}
+
+.mainContent {
+    grid-column: 2 / 5;
+    padding: 1rem 1rem 0 0.5rem;
+}
+
+.footer {
+    font-size: 0.5rem;
+    grid-column: 1 / 5;
+    grid-row: 3 / 4;
+    padding: 1rem 1rem 0 1rem;
+}
