@@ -16,8 +16,8 @@ class FootnotesContainer extends Component {
 
 const mapStateToProps = (state) => ({
   footnotes: state.book.content.chapters[bookCurrentChapter(state.book)].footnotes,
-  currentChapter: bookCurrentChapter(state),
-  currentFootnote: bookCurrentFootnote(state)
+  currentChapter: bookCurrentChapter(state.book),
+  currentFootnote: bookCurrentFootnote(state.book)
 });
 
 const mapDispatchToProps = (dispatch, ownProps) => ({

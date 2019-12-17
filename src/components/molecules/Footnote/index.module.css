@@ -1,6 +1,10 @@
 .footnote {
 }
 
+.current {
+    background: #e1e1e1;
+}
+
 .index {
     float: left;
     margin-right: 0.25rem;
