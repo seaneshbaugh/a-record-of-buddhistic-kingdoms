@@ -28,7 +28,7 @@ const formatNames = (people) => {
     return null;
   }
 
-  if (people.length == 1) {
+  if (people.length === 1) {
     return formatName(people[0]);
   } else {
     if (people.length === 2) {
