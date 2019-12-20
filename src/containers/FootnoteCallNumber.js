@@ -5,10 +5,10 @@ import { bookSetCurrentFootnote } from "../store/actions";
 
 class FootnoteCallNumberContainer extends Component {
   render() {
-    const { footnoteIndex, setCurrentFootnote } = this.props;
+    const { footnoteNumber, setCurrentFootnote } = this.props;
 
     return (
-      <FootnoteCallNumber {...{ footnoteIndex, setCurrentFootnote } } />
+      <FootnoteCallNumber {...{ footnoteNumber, setCurrentFootnote } } />
     );
   }
 }

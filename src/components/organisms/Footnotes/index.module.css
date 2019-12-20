@@ -2,4 +2,5 @@
     /* max-height offset was determined manually. Not so thrilled about that. Need to figure out a better way. */
     max-height: calc(100vh - 168px);
     overflow-y: scroll;
+    position: relative;
 }

@@ -9,6 +9,20 @@ class Footnotes extends Component {
     super(props);
 
     this.close = this.close.bind(this);
+
+    this.ref = React.createRef();
+  }
+
+  componentDidMount() {
+    this.scrollToCurrentFootnote();
+  }
+
+  componentDidUpdate() {
+    this.scrollToCurrentFootnote();
+  }
+
+  scrollToCurrentFootnote() {
+    this.ref.current.scrollTo({ top: this.currentFootnoteRef.current.offsetTop, left: 0, behavior: "smooth" });
   }
 
   close(event) {
@@ -21,11 +35,17 @@ class Footnotes extends Component {
     const className = classNames(this.props.className, styles.footnotes);
 
     const footnotes = this.props.footnotes.map((footnote, index) => {
-      return <Footnote {...footnote} index={index + 1} key={(index + 1).toString()} current={index === this.props.currentFootnote} />;
+      const footnoteRef = React.createRef();
+
+      if (index === this.props.currentFootnote) {
+        this.currentFootnoteRef = footnoteRef;
+      }
+
+      return <Footnote {...footnote} index={index + 1} key={(index + 1).toString()} current={index === this.props.currentFootnote} ref={footnoteRef} />;
     });
 
     return (
-      <div className={className}>
+      <div ref={this.ref} className={className}>
         <span onClick={this.close}>&times;</span>
         {footnotes}
       </div>

@@ -13,7 +13,7 @@ class Footnote extends Component {
     });
 
     return (
-      <div className={className}>
+      <div ref={this.props.forwardedRef} className={className}>
         <span className={styles.index}>[{this.props.index}]</span>
         {paragraphs}
       </div>
@@ -30,4 +30,4 @@ Footnote.propTypes = {
   current: PropTypes.bool.isRequired
 };
 
-export default Footnote;
+export default React.forwardRef((props, ref) => <Footnote forwardedRef={ref} {...props} />);
