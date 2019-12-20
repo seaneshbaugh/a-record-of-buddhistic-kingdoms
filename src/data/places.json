@@ -11,7 +11,7 @@
           "text": "Wikipedia"
         }
       ]
-    }
+    },
     "modernPoliticalEntities": [
       {
         "name": "Xingiapocun",
@@ -75,6 +75,7 @@
             "text": "Wikipedia"
           }
         ]
+      },
       {
         "name": "Dingxi",
         "type": "prefecture level city",
@@ -190,7 +191,7 @@
   {
     "name": "Jalalabad, Nangarhar, Afghanistan",
     "lat": 34.36447187004159,
-    "lng" 70.47714034997773
+    "lng": 70.47714034997773
   },
   {
     "name": "Jalalabad, Nangarhar, Afghanistan",
