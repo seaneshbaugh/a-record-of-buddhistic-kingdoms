@@ -1,9 +1,10 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import PageTemplate from "../../templates/PageTemplate";
+import TwoColumnPageTemplate from "../../templates/TwoColumnPageTemplate";
 import Header from "../../organisms/Header";
 import PageFooter from "../partials/PageFooter";
-import Map from "../../organisms/Map";
+import Places from "../../../containers/Places";
+import Map from "../../../containers/Map";
 import styles from "./index.module.css";
 
 const subtitle = "Map";
@@ -11,14 +12,14 @@ const subtitle = "Map";
 class MapPage extends Component {
   render() {
     const header = <Header title={this.props.title} subtitle={subtitle} />;
-    const content = <main className={styles.content}>
-                      <Map />
-                    </main>;
+    const places = <Places className={styles.places} />;
+    const map = <Map className={styles.map} />;
 
     return (
-      <PageTemplate
+      <TwoColumnPageTemplate
         header={header}
-        content={content}
+        sideContent={places}
+        mainContent={map}
         footer={PageFooter}
       />
     );
