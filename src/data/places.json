@@ -1,6 +1,10 @@
 [
   {
-    "name": "Xi'an, Shaanxi, China",
+    "name": {
+      "faxian": "Ch’ang-gan",
+      "legge": "Ch’ang-gan, Se-gan, Shen-se, China",
+      "pinyin": "Xi'an, Shaanxi, China"
+    },
     "lat": 34.23505025312077,
     "lng": 108.95135619092434,
     "modernDestination": {
@@ -61,7 +65,9 @@
     ]
   },
   {
-    "name": "Longxi, Dingxi, Gansu, China",
+    "name": {
+      "pinyin": "Longxi, Dingxi, Gansu, China"
+    },
     "lat": 35.00323040621305,
     "lng": 104.63883381396477,
     "modernDestination": null,
@@ -111,12 +117,90 @@
   {
     "name": "Lanzhou, Gansu, China",
     "lat": 36.05820348815692,
-    "lng": 103.82881123994093
+    "lng": 103.82881123994093,
+    "modernDestination": null,
+    "modernPoliticalEntities": [
+      {
+        "name": "Lanzhou",
+        "type": "prefecture level city",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Lanzhou",
+            "text": "Wikipedia"
+          }
+        ]
+      },
+      {
+        "name": "Gansu",
+        "type": "province",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Gansu",
+            "text": "Wikipedia"
+          }
+        ]
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/China",
+            "text": "Wikipedia"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Huzhu, Haidong, Qinghai, China",
     "lat": 36.51037835570662,
-    "lng": 102.10350864038082
+    "lng": 102.10350864038082,
+    "modernDestination": {
+      "name": "White Horse Temple",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/White_Horse_Temple",
+          "text": "Wikipedia"
+        },
+        {
+          "url": "https://www.atlasobscura.com/places/white-horse-temple",
+          "text": "Atlas Obscura"
+        }
+      ]
+    },
+    "modernPoliticalEntities": [
+      {
+        "name": "Lanzhou",
+        "type": "prefecture level city",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Lanzhou",
+            "text": "Wikipedia"
+          }
+        ]
+      },
+      {
+        "name": "Gansu",
+        "type": "province",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Gansu",
+            "text": "Wikipedia"
+          }
+        ]
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "links": [
+          {
+            "url": "https://en.wikipedia.org/wiki/China",
+            "text": "Wikipedia"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Zhangye, Gansu, China",
