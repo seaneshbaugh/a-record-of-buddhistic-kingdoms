@@ -7,7 +7,7 @@ import { mapCurrentPlace } from "../store/selectors";
 class PlacesContainer extends Component {
   render() {
     const { className, places, currentPlace, setCurrentPlace } = this.props;
-    console.log(this.props);
+
     return (
       <Places {...{ className, places, currentPlace, setCurrentPlace } } />
     );
@@ -16,7 +16,7 @@ class PlacesContainer extends Component {
 
 const mapStateToProps = (state) => ({
   places: state.map.places,
-  currentPlaces: mapCurrentPlace(state.map)
+  currentPlace: mapCurrentPlace(state.map)
 });
 
 const mapDispatchToProps = (dispatch, ownProps) => ({
