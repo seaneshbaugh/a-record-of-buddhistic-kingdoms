@@ -11,9 +11,20 @@ class Places extends Component {
     this.ref = React.createRef();
   }
 
+  componentDidMount() {
+    this.scrollToCurrentPlace();
+  }
+
+  componentDidUpdate() {
+    this.scrollToCurrentPlace();
+  }
+
+  scrollToCurrentPlace() {
+    this.ref.current.scrollTo({ top: this.currentPlaceRef.current.offsetTop, left: 0, behavior: "smooth" });
+  }
+
   render() {
     const className = classNames(this.props.className, styles.places);
-    console.log(this.props);
 
     const places = this.props.places.map((place, index) => {
       const placeRef = React.createRef();
