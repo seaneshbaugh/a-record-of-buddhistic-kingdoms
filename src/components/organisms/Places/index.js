@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import classNames from "classnames";
 import PropTypes from "prop-types";
-import Place from "../../molecules/Place";
+import { stringOrLanguageProps } from "../../../utils/common-prop-types";
+import Place from "../../../containers/Place";
 import styles from "./index.module.css";
 
 class Places extends Component {
@@ -45,6 +46,11 @@ class Places extends Component {
 }
 
 Places.propTypes = {
+  places: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: stringOrLanguageProps.isRequired
+    })
+  )
 };
 
 export default Places;
