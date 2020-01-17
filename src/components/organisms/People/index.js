@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import classNames from "classnames";
 import PropTypes from "prop-types";
-import Person from "../../molecules/Person";
+import { stringOrLanguageProps, linkProps } from "../../../utils/common-prop-types";
+import Person from "../../../containers/Person";
 import styles from "./index.module.css";
 
 class People extends Component {
@@ -19,6 +20,15 @@ class People extends Component {
 }
 
 People.propTypes = {
+  people: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: stringOrLanguageProps.isRequired,
+      title: stringOrLanguageProps,
+      appearance: PropTypes.string.isRequired,
+      links: PropTypes.arrayOf(linkProps)
+    })
+  ),
+  note: PropTypes.string
 };
 
 export default People;
