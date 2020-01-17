@@ -17,4 +17,6 @@ const mapStateToProps = (state) => ({
   currentFootnote: bookCurrentFootnote(state.book)
 });
 
-export default connect(mapStateToProps, null)(HomePageContainer);
+const mapDispatchToProps = (dispatch, ownProps) => ({});
+
+export default connect(mapStateToProps, mapDispatchToProps)(HomePageContainer);
