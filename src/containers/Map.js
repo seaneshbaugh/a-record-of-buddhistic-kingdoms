@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import Map from "../components/organisms/Map";
 import { mapSetCurrentPlace } from "../store/actions";
-import { mapCurrentPlace } from "../store/selectors";
+import { mapCurrentPlace, displayValue } from "../store/selectors";
 
 class MapContainer extends Component {
   render() {
@@ -15,7 +15,7 @@ class MapContainer extends Component {
 }
 
 const mapStateToProps = (state) => ({
-  places: state.map.places,
+  places: state.map.places.map((place) => ({...place, name: displayValue(state.display, place.name) })),
   currentPlace: mapCurrentPlace(state.map)
 });
 

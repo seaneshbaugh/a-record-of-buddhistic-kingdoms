@@ -1,9 +1,8 @@
 import React, { Component } from "react";
 import classNames from "classnames";
 import PropTypes from "prop-types";
-import { Map as LeafletMap, TileLayer as LeafletTileLayer, Marker, Popup } from "react-leaflet";
+import { Map as LeafletMap, TileLayer, Marker, Popup } from "react-leaflet";
 import styles from "./index.module.css";
-
 // See https://github.com/PaulLeCam/react-leaflet/issues/453.
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
@@ -17,20 +16,6 @@ L.Icon.Default.mergeOptions({ iconRetinaUrl, iconUrl, shadowUrl });
 
 const attribution = "Map data: &copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>, <a href=\"http://viewfinderpanoramas.org\">SRTM</a> | Map style: &copy; <a href=\"https://opentopomap.org\">OpenTopoMap</a> (<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC-BY-SA</a>)";
 const url = "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png";
-
-const placeName = (name) => {
-    if (typeof name === "string") {
-      return name;
-    }
-
-    // TODO: MOVE THIS SOMEWHERE ELSE!!!
-    // TODO: Use redux store to determine current display option. Just trying to get this to sorta work for now.
-    const languagePrecedence = ["legge", "modern", "pali", "sanskrit", "pinyinWithAccents", "pinyin", "romaji", "wadeGiles", "traditionalChinese", "simplifiedChinese", "japanese", "tajik"];
-
-    const names = languagePrecedence.map((language) => name[language]).filter((name) => name);
-
-    return names[0];
-};
 
 class Map extends Component {
   state = {
@@ -49,7 +34,7 @@ class Map extends Component {
 
       return <Marker position={markerPosition} key={index.toString()}>
                <Popup>
-                 {placeName(place.name)}
+                 {place.name}
                </Popup>
              </Marker>;
     });
@@ -57,7 +42,7 @@ class Map extends Component {
     return (
       <div className={className}>
         <LeafletMap center={position} zoom={this.state.zoom}>
-          <LeafletTileLayer attribution={attribution} url={url} />
+          <TileLayer attribution={attribution} url={url} />
           {markers}
         </LeafletMap>
       </div>
