@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import PageTemplate from "../../templates/PageTemplate";
 import Header from "../../organisms/Header";
 import PageFooter from "../partials/PageFooter";
-import People from "../../organisms/People";
+import People from "../../../containers/People";
 import styles from "./index.module.css";
 import people from "../../../data/people.json";
 

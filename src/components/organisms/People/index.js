@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import classNames from "classnames";
 import PropTypes from "prop-types";
 import { stringOrLanguageProps, linkProps } from "../../../utils/common-prop-types";
+import ListItem from "../../atoms/ListItem";
 import Person from "../../../containers/Person";
 import styles from "./index.module.css";
 
@@ -9,7 +10,7 @@ class People extends Component {
   render() {
     const className = classNames(this.props.className, styles.people);
 
-    const people = this.props.people.map((person, index) => (<Person {...person} key={index} />));
+    const people = this.props.people.map((person, index) => (<ListItem text={person.name} key={index} />));
 
     return (
       <ul className={className}>
