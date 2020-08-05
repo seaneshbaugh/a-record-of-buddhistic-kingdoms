@@ -13,9 +13,9 @@ class TableOfContents extends Component {
         this.props.setCurrentChapter(index);
       };
 
-      const className = classNames(styles.chapter, { [styles.active]: index === this.props.currentChapter });
+      const chapterClassName = classNames(styles.chapter, { [styles.active]: index === this.props.currentChapter });
 
-      return <li className={className} key={index} onClick={setChapter} title={chapter.subtitle}>{chapter.title}</li>;
+      return <li className={chapterClassName} key={index} onClick={setChapter} title={chapter.subtitle}>{chapter.title}</li>;
     });
 
     return (
