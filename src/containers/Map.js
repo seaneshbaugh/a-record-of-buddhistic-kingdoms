@@ -15,7 +15,12 @@ class MapContainer extends Component {
 }
 
 const mapStateToProps = (state) => ({
-  places: state.map.places.map((place) => ({...place, name: displayValue(state.display, place.name) })),
+  places: state.map.places.map((place) => (
+    {
+      ...place,
+      name: displayValue(state.display, place.name)
+    }
+  )),
   currentPlace: mapCurrentPlace(state.map)
 });
 
