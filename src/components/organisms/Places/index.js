@@ -34,7 +34,9 @@ class Places extends Component {
         this.currentPlaceRef = placeRef;
       }
 
-      return <Place {...place} index={index + 1} key={(index + 1).toString()} current={index === this.props.currentPlace} ref={placeRef} />;
+      const placeClassName = classNames(styles.place);
+
+      return <Place {...place} index={index + 1} key={(index + 1).toString()} current={index === this.props.currentPlace} ref={placeRef} className={placeClassName} />;
     });
 
     return (
