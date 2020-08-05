@@ -1,25 +1,25 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import PageTemplate from "../../templates/PageTemplate";
+import TwoColumnPageTemplate from "../../templates/TwoColumnPageTemplate";
 import Header from "../../organisms/Header";
 import PageFooter from "../partials/PageFooter";
 import People from "../../../containers/People";
+import Person from "../../../containers/Person";
 import styles from "./index.module.css";
-import people from "../../../data/people.json";
 
 const subtitle = "People";
 
 class PeoplePage extends Component {
   render() {
     const header = <Header title={this.props.title} subtitle={subtitle} />;
-    const content = <main className={styles.content}>
-                      <People people={people} />
-                    </main>;
+    const people = <People className={styles.content} />;
+    const currentPerson = <Person {...this.props.currentPerson} />;
 
     return (
-      <PageTemplate
+      <TwoColumnPageTemplate
         header={header}
-        content={content}
+        sideContent={people}
+        mainContent={currentPerson}
         footer={PageFooter}
       />
     );

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Switch, Route } from "react-router-dom";
 import HomePage from "../containers/HomePage";
 import MapPage from "./pages/MapPage";
-import PeoplePage from "./pages/PeoplePage";
+import PeoplePage from "../containers/PeoplePage";
 import BibliographyPage from "./pages/BibliographyPage";
 import AboutPage from "./pages/AboutPage";
 import styles from "./App.module.css";

@@ -9,9 +9,11 @@ class Person extends Component {
     const className = classNames(this.props.className, styles.person);
 
     return (
-      <li className={className}>
-        {this.props.name}
-      </li>
+      <div className={className}>
+        <h2 className={styles.name}>{this.props.name}</h2>
+        <h3 className={styles.title}>{this.props.title}</h3>
+        <p className={styles.appearance}>{this.props.appearance}</p>
+      </div>
     );
   }
 }

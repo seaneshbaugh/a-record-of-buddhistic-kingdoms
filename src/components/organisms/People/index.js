@@ -10,7 +10,13 @@ class People extends Component {
   render() {
     const className = classNames(this.props.className, styles.people);
 
-    const people = this.props.people.map((person, index) => (<ListItem text={person.name} key={index} />));
+    const people = this.props.people.map((person, index) => {
+      const onClick = () => (this.props.setCurrentPerson(index));
+
+      const personClassName = classNames(styles.person, { [styles.active]: index === this.props.currentPerson });
+
+      return <ListItem text={person.name} onClick={onClick} key={index.toString()} className={personClassName} />;
+    });
 
     return (
       <ul className={className}>

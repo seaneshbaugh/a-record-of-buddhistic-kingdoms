@@ -1,0 +1,16 @@
+.people {
+    max-height: calc(100vh - 172px);
+    overflow-y: scroll;
+}
+
+.person {
+    cursor: pointer;
+}
+
+.person:hover {
+    background: #9a9a9a;
+}
+
+.active {
+    background: #e9e9e0;
+}
