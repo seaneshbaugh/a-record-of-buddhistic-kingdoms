@@ -1,10 +1,13 @@
 import React, { Component } from "react";
+import classNames from "classnames";
 import PropTypes from "prop-types";
 import Sentence from "../Sentence";
 import styles from "./index.module.css";
 
 class Paragraph extends Component {
   render() {
+    const className = classNames(styles.paragraph, this.props.className);
+
     const sentences = this.props.sentences.map((sentence, index) => {
       return <Sentence text={sentence} key={(index + 1).toString()} />;
     }).reduce((memo, sentence, index) => {
@@ -18,7 +21,7 @@ class Paragraph extends Component {
     }, []);
 
     return (
-      <p className={styles.paragraph}>
+      <p className={className}>
         {sentences}
       </p>
     );
@@ -26,6 +29,7 @@ class Paragraph extends Component {
 }
 
 Paragraph.propTypes = {
+  className: PropTypes.string,
   sentences: PropTypes.arrayOf(PropTypes.string).isRequired
 };
 

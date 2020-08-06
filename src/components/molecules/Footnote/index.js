@@ -9,13 +9,15 @@ class Footnote extends Component {
     const className = classNames(styles.footnote, { [styles.current]: this.props.current });
 
     const paragraphs = this.props.paragraphs.map((paragraph, index) => {
-      return (<Paragraph {...paragraph} key={(index + 1).toString()} />);
+      return (<Paragraph {...paragraph} key={(index + 1).toString()} className={styles.paragraph} />);
     });
 
     return (
       <div ref={this.props.forwardedRef} className={className}>
-        <span className={styles.index}>[{this.props.index}]</span>
-        {paragraphs}
+        <div className={styles.wrapper}>
+          <span className={styles.index}>[{this.props.index}]</span>
+          {paragraphs}
+        </div>
       </div>
     );
   }

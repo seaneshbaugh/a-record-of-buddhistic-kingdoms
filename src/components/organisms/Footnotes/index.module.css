@@ -4,3 +4,8 @@
     overflow-y: scroll;
     position: relative;
 }
+
+.closeButton {
+    font-size: 2.0rem;
+    line-height: 2.0rem;
+}

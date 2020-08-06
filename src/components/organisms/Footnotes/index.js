@@ -46,7 +46,7 @@ class Footnotes extends Component {
 
     return (
       <div ref={this.ref} className={className}>
-        <span onClick={this.close}>&times;</span>
+        <span className={styles.closeButton} onClick={this.close}>&times;</span>
         {footnotes}
       </div>
     );
