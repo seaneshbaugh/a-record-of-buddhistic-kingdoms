@@ -4,6 +4,7 @@ import HomePage from "../containers/HomePage";
 import MapPage from "./pages/MapPage";
 import PeoplePage from "../containers/PeoplePage";
 import BibliographyPage from "./pages/BibliographyPage";
+import SettingsPage from "./pages/SettingsPage";
 import AboutPage from "./pages/AboutPage";
 import styles from "./App.module.css";
 
@@ -18,6 +19,7 @@ class App extends Component {
           <Route path="/map" render={() => <MapPage title={title} />} />
           <Route path="/people" render={() => <PeoplePage title={title} />} />
           <Route path="/bibliography" render={() => <BibliographyPage title={title} />} />
+          <Route path="/settings" render={() => <SettingsPage title={title} />} />
           <Route path="/about" render={() => <AboutPage title={title} />} />
         </Switch>
       </div>

@@ -19,6 +19,7 @@ class Header extends Component {
           <Link to="/map">Map</Link>&nbsp;|&nbsp;
           <Link to="/people">People</Link>&nbsp;|&nbsp;
           <Link to="/bibliography">Bibliography</Link>&nbsp;|&nbsp;
+          <Link to="/settings">Settings</Link>&nbsp;|&nbsp;
           <Link to="/about">About</Link>
         </nav>
       </header>
