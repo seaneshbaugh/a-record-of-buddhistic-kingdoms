@@ -6,6 +6,7 @@
 }
 
 .closeButton {
+    cursor: pointer;
     font-size: 2.0rem;
     line-height: 2.0rem;
 }
