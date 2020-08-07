@@ -5,7 +5,10 @@
     "paragraphs": [
       {
         "sentences": [
-          "FÂ-HIEN had been living in Ch’ang-gan[1].",
+          {
+            "legge": "FÂ-HIEN had been living in Ch’ang-gan[1].",
+            "pinyinWithAccents": "FǍXIǍN had been living in Xi'an[1]."
+          },
           "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hwăng-che, being the Ke-hâe year of the cycle[2], he entered into an engagement with Hwuy-king, Tâo-ching, Hwuy-ying, and Hwuy-wei[3], that they should go to India and seek for the Disciplinary Rules[4]."
         ]
       },

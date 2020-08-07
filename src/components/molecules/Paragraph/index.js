@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import classNames from "classnames";
 import PropTypes from "prop-types";
-import Sentence from "../Sentence";
+import Sentence from "../../../containers/Sentence";
 import styles from "./index.module.css";
 
 class Paragraph extends Component {
