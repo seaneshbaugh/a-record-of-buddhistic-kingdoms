@@ -26,12 +26,27 @@ export const languagePrecedence = [
   DISPLAY_LANGUAGE_TAJIK
 ];
 
+export const languageLabels = {
+  [DISPLAY_LANGUAGE_LEGGE]: "Legge",
+  // [DISPLAY_LANGUAGE_MODERN]: "Modern",
+  // [DISPLAY_LANGUAGE_PALI]: "Pāḷi",
+  // [DISPLAY_LANGUAGE_SANSKRIT]: "Sanskrit",
+  [DISPLAY_LANGUAGE_PINYIN_WITH_ACCENTS]: "Pinyin",
+  // [DISPLAY_LANGUAGE_PINYIN]: "Pinyin",
+  // [DISPLAY_LANGUAGE_ROMAJI]: "Rōmaji",
+  [DISPLAY_LANGUAGE_WADE_GILES]: "Wade-Giles",
+  // [DISPLAY_LANGUAGE_TRADITIONAL_CHINESE]: "Traditional Chinese",
+  // [DISPLAY_LANGUAGE_SIMPLIFIED_CHINESE]: "Simplified Chinese",
+  // [DISPLAY_LANGUAGE_JAPANESE]: "Japanese",
+  // [DISPLAY_LANGUAGE_TAJIK]: "Tajik"
+};
+
 export const initialState = {
   currentLanguage: DISPLAY_LANGUAGE_LEGGE
 };
 
 export const displayCurrentLanguage = (state = initialState) => {
-  return state.language;
+  return state.currentLanguage;
 };
 
 export const displayValue = (state = initialState, value) => {
