@@ -30,7 +30,7 @@ class Paragraph extends Component {
 
 Paragraph.propTypes = {
   className: PropTypes.string,
-  sentences: PropTypes.arrayOf(PropTypes.string).isRequired
+  sentences: PropTypes.arrayOf(PropTypes.oneOfType([PropTypes.object, PropTypes.string])).isRequired
 };
 
 export default Paragraph;

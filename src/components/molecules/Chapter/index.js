@@ -27,7 +27,7 @@ Chapter.propTypes = {
   content: PropTypes.shape({
     paragraphs: PropTypes.arrayOf(
       PropTypes.shape({
-        sentences: PropTypes.arrayOf(PropTypes.string).isRequired
+        sentences: PropTypes.arrayOf(PropTypes.oneOfType([PropTypes.object, PropTypes.string])).isRequired
       }).isRequired
     ).isRequired
   }).isRequired
