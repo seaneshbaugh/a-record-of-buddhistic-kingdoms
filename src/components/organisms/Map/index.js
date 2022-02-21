@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import classNames from "classnames";
 import PropTypes from "prop-types";
-import { Map as LeafletMap, TileLayer, Marker, Popup } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import styles from "./index.module.css";
 // See https://github.com/PaulLeCam/react-leaflet/issues/453.
 import "leaflet/dist/leaflet.css";
@@ -41,10 +41,10 @@ class Map extends Component {
 
     return (
       <div className={className}>
-        <LeafletMap center={position} zoom={this.state.zoom}>
+        <MapContainer center={position} zoom={this.state.zoom}>
           <TileLayer attribution={attribution} url={url} />
           {markers}
-        </LeafletMap>
+        </MapContainer>
       </div>
     );
   }
