@@ -2,20 +2,21 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import Place from "../components/molecules/Place";
 import { mapSetCurrentPlace } from "../store/actions";
-import { displayValue } from "../store/selectors";
+import { displayValue, mapMapInstance } from "../store/selectors";
 
 class PlaceContainer extends Component {
   render() {
-    const { className, current, forwardedRef, index, name, setCurrentPlace } = this.props;
+    const { className, current, forwardedRef, index, name, lat, lng, setCurrentPlace, mapInstance } = this.props;
 
     return (
-      <Place {...{ className, current, forwardedRef, index, name, setCurrentPlace } } />
+      <Place {...{ className, current, forwardedRef, index, name, lat, lng, setCurrentPlace, mapInstance } } />
     );
   }
 }
 
 const mapStateToProps = (state, ownProps) => ({
-  name: displayValue(state.display, ownProps.name)
+  name: displayValue(state.display, ownProps.name),
+  mapInstance: mapMapInstance(state.map)
 });
 
 const mapDispatchToProps = (dispatch, ownProps) => ({

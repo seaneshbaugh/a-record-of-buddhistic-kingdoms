@@ -14,6 +14,8 @@ class Place extends Component {
     event.preventDefault();
 
     this.props.setCurrentPlace(this.props.index);
+
+    this.props.mapInstance.flyTo([this.props.lat, this.props.lng], 8);
   }
 
   render() {

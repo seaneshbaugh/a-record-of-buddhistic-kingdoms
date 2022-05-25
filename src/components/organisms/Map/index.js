@@ -41,7 +41,7 @@ class Map extends Component {
 
     return (
       <div className={className}>
-        <MapContainer center={position} zoom={this.state.zoom}>
+        <MapContainer center={position} zoom={this.state.zoom} whenCreated={ (mapInstance) => { this.props.setMapInstance(mapInstance); } }>
           <TileLayer attribution={attribution} url={url} />
           {markers}
         </MapContainer>

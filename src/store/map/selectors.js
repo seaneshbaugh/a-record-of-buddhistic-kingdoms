@@ -2,7 +2,8 @@ import places from "../../data/places";
 
 export const initialState = {
   places,
-  currentPlace: 0
+  currentPlace: 0,
+  mapInstance: null
 };
 
 export const mapCurrentPlace = (state = initialState) => {
@@ -11,4 +12,8 @@ export const mapCurrentPlace = (state = initialState) => {
   } else {
     return initialState.currentPlace;
   }
+};
+
+export const mapMapInstance = (state = initialState) => {
+  return state.mapInstance;
 };
