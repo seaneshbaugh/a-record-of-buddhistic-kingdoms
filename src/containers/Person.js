@@ -5,10 +5,10 @@ import { displayValue } from "../store/selectors";
 
 class PersonContainer extends Component {
   render() {
-    const { className, forwardedRef, name, title, appearance } = this.props;
+    const { className, forwardedRef, name, nonRomanizedName, title, appearance, biography, links } = this.props;
 
     return (
-      <Person {...{ className, forwardedRef, name, title, appearance } } />
+      <Person {...{ className, forwardedRef, name, nonRomanizedName, title, appearance, biography, links } } />
     );
   }
 }

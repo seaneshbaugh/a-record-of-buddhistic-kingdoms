@@ -1,152 +1,403 @@
 [
   {
-    "name": "Aśoka",
+    "name": {
+      "legge": "Aśoka",
+      "modern": "Aśoka"
+    },
+    "nonRomanizedName": {
+      "brahmi": "𑀅𑀲𑁄𑀓"
+    },
+    "appearance": "CHAPTER V.",
     "title": "King of the Mauyuran Empire",
-    "appearance": "CHAPTER V."
+    "biography": "Reigning from 268 BCE to 232 BCE Aśoka was the emperor of the Mauyuran Empire which spanned nearly the entire Indian subcontinent.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Ashoka",
+	"text": "Wikipedia"
+      },
+      {
+	"url": "https://ntireader.org/words/23092.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": "Samuel Beal",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "English Oriental scholar and translator of Chinese Buddhist works.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Samuel_Beal",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
       "legge": "Yakoob Beg",
-      "modern": "Muhammad Yaqub Bek",
+      "modern": "Muhammad Yaqub Bek"
+    },
+    "nonRomanizedName": {
       "tajik": "Яъқуб-бек"
     },
+    "appearance": "CHAPTER II.",
     "title": {
       "modern": "Atalik Ghazi"
     },
-    "appearance": "CHAPTER II."
+    "biography": "Leader of the Dungan Revolt and the Yettishar state.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Yaqub_Beg",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
       "legge": "Che-yen",
-      "pinyin": "Zheyan"
+      "modern": "Zhì Yán"
     },
-    "appearance": "CHAPTER I."
+    "nonRomanizedName": {
+      "traditionalChinese": "智嚴",
+      "simplifiedChinese": "智严"
+    },
+    "appearance": "CHAPTER I.",
+    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/7001382.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": "Alexander Cunningham",
-    "appearance": "NOTE ON THE SKETCH-MAP."
+    "title": "Major General, Companion of the Order of the Star of India, Knight Commander of the Order of the Indian Empire",
+    "appearance": "NOTE ON THE SKETCH-MAP.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Alexander_Cunningham",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "T.W. Rhys Davids",
-    "appearance": "PREFACE."
+    "title": "Fellow of the British Academy",
+    "appearance": "PREFACE.",
+    "biography": "Founder of the Pali Text Society.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids",
+	"text": "Wikipedia"
+      },
+      {
+	"url": "https://www.palitext.com/",
+	"text": "Pali Text Society"
+      }
+    ]
   },
   {
     "name": "John Francis Davis",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "title": "1st Baronet, Knight Commander of the Order of the Bath",
+    "biography": "Governor of Hong Kong from 1844 to 1848 and first president of Royal Asiatic Society Hong Kong.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/John_Francis_Davis",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
-    "name": "Zhu Di",
-    "appearance": "INTRODUCTION."
+    "name": "Zhū Dì",
+    "nonRomanizedName": {
+      "traditionalChinese": "朱棣"
+    },
+    "appearance": "INTRODUCTION.",
+    "title": "Yongle Emperor",
+    "biography": "Third emperor of the Ming Dynasty.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Yongle_Emperor",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Ernst Johann Eitel",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "German missionary in China and civil servant in Hong Kong.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Ernst_Johann_Eitel",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "pinyin": "Faxian",
-      "pinyinWithAccents": "Fǎxiǎn",
       "legge": "Fâ-hien",
+      "modern": "Fǎxiǎn"
+    },
+    "nonRomanizedName": {
       "traditionalChinese": "法顯",
       "simplifiedChinese": "法显"
     },
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "Chinese monk who journied to India in search of copies of the Buddhist monastic codes. The narrator of the story.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Faxian",
+	"text": "Wikipedia"
+      },
+      {
+	"url": "https://ntireader.org/words/7000796.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": "Herbert Giles",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "British diplomat and sinologist known for his work on standardizing a romanization system for Chinese.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Herbert_Giles",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
-    "name": {
-      "pali": "Siddhattha Gotama",
-      "sankrit": "Siddhārtha Gautama"
-    },
-    "title": {
-      "pali": "Śâkyamuni Buddha",
-      "sanskrit": "Shakyamuni Buddha"
-    },
-    "appearance": "PREFACE."
+    "name": "Siddhattha Gotama",
+    "title": "Śâkyamuni Buddha",
+    "appearance": "PREFACE.",
+    "biography": "Founder of Buddhism.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "George Bellas Greenough",
-    "appearance": "NOTE ON THE SKETCH-MAP."
+    "appearance": "NOTE ON THE SKETCH-MAP.",
+    "title": "Fellow of the Royal Society, Fellow of the Geological Society of London",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/George_Bellas_Greenough",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Hâji Habeeboolla"
+      "legge": "Hâji Habeeboolla",
+      "modern": "Haji Habibullah"
     },
     "title": {
       "legge": "Governor of Khoten"
     },
-    "appearance": "CHAPTER II."
+    "appearance": "CHAPTER II.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/William_Johnson_(surveyor)",
+	"text": "William Johnson (surveyor) - Wikipedia"
+      },
+      {
+	"url": "https://en.wikipedia.org/wiki/Xaidulla",
+	"text": "Xaidulla - Wikipedia"
+      },
+      {
+	"url": "https://archive.org/details/ruinsofdesertcat02stei_0/page/n7/mode/2up",
+	"text": "\"Ruins of Desert Cathay: Personal Narrative of Explorations in Central Asia and Westernmost China Vol. II\" by M. Aurel Stein"
+      }
+    ]
   },
   {
     "name": "Robert Spence Hardy",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "British Methodist missionary in Sri Lanka.",
+    "links": [
+      {
+	"url": "https://books.google.com/books?id=oQ8BFk9K0ToC&pg=PA280&lpg=PA280&dq=rev+robert+spence+hardy+eastern+monachism&source=bl&ots=_8XccJoB9X&sig=whz810Pkw98GiaZRRKeAZRN_vT4&hl=en&sa=X&ved=0ahUKEwjJ9qjFoYXYAhXK7IMKHRe_ABkQ6AEISzAI#v=onepage&q=rev%20robert%20spence%20hardy%20eastern%20monachism&f=false",
+	"text": "\"Biographical Dictionary of Christian Missions\" edited by Gerald H. Anderson"
+      },
+      {
+	"url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hardy%2C%20R%2E%20Spence%20%28Robert%20Spence%29%2C%201803%2D1868",
+	"text": "Online Books by R. Spence Hardy"
+      }
+    ]
   },
   {
     "name": "William Hoey",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "Collector and Magistrate in the divisional headquarters at Gorakhpur.",
+    "links": [
+      {
+	"url": "https://books.google.com/books?id=VAPq4yGXmIIC&pg=PA112&lpg=PA112&dq=%22dr.+william+hoey%22&source=bl&ots=iLoHdxEQ7b&sig=csrush7-zIE93ZBGXXmo7mgCClw&hl=en&sa=X&ved=0ahUKEwjU06uWq4XYAhUM3IMKHT0PCBIQ6AEIMzAC#v=onepage&q=%22dr.%20william%20hoey%22&f=false",
+	"text": "\"The Buddha and Dr. Führer: An Archaeological Scandal\" by Charles Allen"
+      },
+      {
+	"url": "https://www.jstor.org/stable/44758602",
+	"text": "\"The Ashes of the Buddha\" by Harry Falk"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Hwuy-keen"
+      "legge": "Hwuy-keen",
+      "modern": "Huì Jiǎn"
     },
-    "appearance": "CHAPTER I."
-  },
-  {
-    "name": {
-      "legge": "Hwuy-king"
+    "nonRomanizedName": {
+      "traditionalChinese": "慧簡",
+      "simplifiedChinese": "慧简"
     },
-    "appearance": "CHAPTER I."
+    "appearance": "CHAPTER I.",
+    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/7003834.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Hwuy-tah"
+      "legge": "Hwuy-king",
+      "modern": "Huì Jǐng"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "慧景",
+      "simplifiedChinese": "慧景"
+    },
+    "appearance": "CHAPTER I.",
+    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/7003808.html",
+	"text": "NTI Reader"
+      }
+    ]
+  },
+  {
+    "name": {
+      "legge": "Hwuy-tah",
+      "modern": "Huìdá"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "慧達",
+      "simplifiedChinese": "慧达"
     },
     "appearance": "CHAPTER III.",
-    "note": "Possibly an alias for another of Faxian’s companions."
+    "biography": "Possibly an alias for another of Fǎxiǎn's companions.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/7000724.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Hwuy-wei"
+      "legge": "Hwuy-wei",
+      "modern": "Huìwéi"
     },
-    "appearance": "CHAPTER I."
-  },
-  {
-    "name": {
-      "legge": "Hwuy-ying"
+    "nonRomanizedName": {
+      "traditionalChinese": "慧嵬",
+      "simplifiedChinese": "慧嵬"
     },
-    "appearance": "CHAPTER I."
+    "appearance": "CHAPTER I.",
+    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/7001511.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "K’een-kwei K’eih-fuh"
+      "legge": "Hwuy-ying",
+      "modern": "Huì Yīng"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "慧應",
+      "simplifiedChinese": "慧应"
+    },
+    "appearance": "CHAPTER I.",
+    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/37803.html",
+	"text": "NTI Reader"
+      }
+    ]
+  },
+  {
+    "name": {
+      "legge": "K’eih-fuh K’een-kwei",
+      "modern": "Qǐfú Qiánguī"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "乞伏乾歸",
+      "simplifiedChinese": "乞伏干归"
     },
     "title": {
-      "legge": "King of the Western Ts’in"
+      "legge": "King of the Western Ts’in",
+      "modern": "Prince Wuyuan of Henan"
     },
-    "appearance": "CHAPTER I."
+    "appearance": "CHAPTER I.",
+    "biography": "Second king of the Western Qin dynasty.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Qifu_Gangui",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "King of K’eeh-ch’â"
+      "legge": "K’eih-fuh Kwo-jin",
+      "modern": "Qǐfú Guórén"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "乞伏國仁",
+      "simplifiedChinese": "乞伏国仁"
     },
     "title": {
-      "legge": "King of K’eeh-ch’â"
+      "legge": "King of the Western Ts’in",
+      "modern": "Prince Xuanlie of Wanchuan"
+    },
+    "appearance": "CHAPTER I.",
+    "biography": "First king of the Western Qin dynasty.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Qifu_Guoren",
+	"text": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": {
+      "legge": "King of K’eeh-ch’â",
+      "modern": "King of Jié Chā"
+    },
+    "title": {
+      "legge": "King of K’eeh-ch’â",
+      "modern": "King of Jié chā"
     },
     "appearance": "CHAPTER V."
   },
   {
     "name": {
-      "legge": "King of Shen-shen"
+      "legge": "King of Shen-shen",
+      "modern": "King of Shànshàn"
     },
     "title": {
-      "legge": "King of Shen-shen"
+      "legge": "King of Shen-shen",
+      "modern": "King of Shànshàn"
     },
     "appearance": "CHAPTER II."
   },
@@ -161,171 +412,333 @@
   },
   {
     "name": {
-      "legge": "King of Yu-teen"
+      "legge": "King of Yu-teen",
+      "modern": "King of Yú Tián"
     },
     "title": {
-      "legge": "King of Yu-teen"
+      "legge": "King of Yu-teen",
+      "modern": "King of Yú Tián"
     },
     "appearance": "CHAPTER III."
   },
   {
     "name": {
-      "legge": "Foo Kung-sun"
+      "legge": "Foo Kung-sun",
+      "modern": "Fú Gōngsūn"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "符公孫",
+      "simplifiedChinese": "符公孙"
     },
     "title": {
-      "legge": "Maître d’hôtellerie of Woo-e Monastery"
+      "legge": "Maître d’hôtellerie of Woo-e Monastery",
+      "modern": "Maître d’hôtellerie of Wūyí Monastery"
     },
     "appearance": "CHAPTER II."
   },
   {
-    "name": {
-      "legge": "Kwo-jin K’eih-fuh"
-    },
-    "title": {
-      "legge": "King of the Western Ts’in"
-    },
-    "appearance": "CHAPTER I."
-  },
-  {
     "name": "Julius Klaproth",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "German linguist, historian, ethnographer, author, orientalist, and explorer.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Julius_Klaproth",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Ernest Clerc de Landresse",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "French orientalist.",
+    "links": [
+      {
+	"url": "https://fr.wikipedia.org/wiki/Ernest_Clerc_de_Landresse",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Le E"
+      "legge": "Le E",
+      "modern": "Lǐ Yí"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "李嶷",
+      "simplifiedChinese": "李嶷"
     },
     "title": {
-      "legge": "Prefect of Ch’ang-kwang"
+      "legge": "Prefect of Ch’ang-kwang",
+      "modern": "Prefect of Chǎngguǎng"
     },
     "appearance": "CHAPTER XL."
   },
   {
     "name": {
-      "legge": "Le Hâo"
+      "legge": "Le Hâo",
+      "modern": "Lǐ Hào"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "燉煌",
+      "simplifiedChinese": "燉煌"
     },
     "title": {
-      "legge": "Prefect of T'un-hwang"
+      "legge": "Prefect of T'un-hwang",
+      "modern": "Prefect of Dūnhuáng"
     },
     "appearance": "CHAPTER I."
   },
   {
     "name": "James Legge",
-    "appearance": "author"
+    "appearance": "author",
+    "biography": "Translator of Fǎxiǎn's tale.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/James_Legge",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Arthur Anthony Macdonell",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "title": "Fellow of the British Academy",
+    "biography": "British scholar of Sanskrit.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "pali": "Maitreya"
+      "modern": "Maitreya"
     },
+    "nonRomanizedName": {
+      "sanskrit": "मैत्रेय"
+    },
+    "appearance": "CHAPTER VI.",
     "title": {
-      "pali": "Ajita"
+      "modern": "Ajita"
     },
-    "appearance": "CHAPTER VI."
+    "biography": "Propheseied Buddha who will revive the Dhamma after the end of the current dispensation.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Maitreya",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Robert Morrison",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "Anglo-Scottish Protestant missionary.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Robert_Morrison_(missionary)",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Max Müller",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "German philologist and Orientalist.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Max_M%C3%BCller",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
       "legge": "Bunyiu Nanjio",
-      "romaji": "Nanjō Bun'yū",
+      "modern": "Nanjō Bun'yū"
+    },
+    "nonRomanizedName": {
       "japanese": "南条文雄"
     },
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "Japanese Buddhist priest.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Nanjo_Bunyu",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Hermann Oldenberg",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "German scholar of Indology.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Hermann_Oldenberg",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
       "legge": "Pâo-yun",
-      "pinyin": "Baoyun"
+      "modern": "Bǎoyún"
     },
-    "appearance": "CHAPTER I."
+    "nonRomanizedName": {
+      "traditionalChinese": "寶雲"
+    },
+    "appearance": "CHAPTER I.",
+    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/7001383.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": "J. C. Pembrey",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "links": [
+      {
+	"url": "https://en.wikisource.org/wiki/Page:Alumni_Oxoniensis_(1715-1886)_volume_3.djvu/321",
+	"text": "Alumni Oxoniensis (1715-1886) volume 3"
+      }
+    ]
   },
   {
     "name": "Jean-Pierre Abel-Rémusat",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "French sinology.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Jean-Pierre_Abel-R%C3%A9musat",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Queen of Yu-teen"
+      "legge": "Queen of Yu-teen",
+      "modern": "Queen of Yú Tián"
     },
     "title": {
-      "legge": "Queen of Yu-teen"
+      "legge": "Queen of Yu-teen",
+      "modern": "Queen of Yú Tián"
     },
     "appearance": "CHAPTER III."
   },
   {
     "name": {
-      "legge": "Săng-king"
+      "legge": "Săng-king",
+      "modern": "Sēng Jǐng"
     },
-    "appearance": "CHAPTER I."
+    "nonRomanizedName": {
+      "traditionalChinese": "僧景",
+      "simplifiedChinese": "僧景"
+    },
+    "appearance": "CHAPTER I.",
+    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "links": []
   },
   {
     "name": {
-      "legge": "Săng-shâo"
+      "legge": "Săng-shâo",
+      "modern": "Sēng Shào"
     },
-    "appearance": "CHAPTER I."
+    "nonRomanizedName": {
+      "traditionalChinese": "僧紹",
+      "simplifiedChinese": "僧绍"
+    },
+    "appearance": "CHAPTER I.",
+    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/7003835.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": "James Henry Sedgwick",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "British missionary in China.",
+    "links": [
+      {
+	"url": "https://annesleysedgwick.blogspot.com/2015/10/12-rev-james-henry-sedgwick-harolds.html",
+	"text": "Rev James Henry Sedgwick - Harold's father - His life in UK and China"
+      },
+      {
+	"url": "https://nla.gov.au/nla.obj-1444224257/view",
+	"text": "\"The Life and Times of The Reverend James Henry Sedgwick and his wife Ellen Jennings Parents of Harold Sedgwick, alias Claude Harold Annesley A Narrative, and Compilation of the Facts of his life.\" by Kristine M. Herron"
+      }
+    ]
   },
   {
     "name": "Frederick Porter Smith",
-    "appearance": "CHAPTER I."
+    "appearance": "CHAPTER I.",
+    "biography": "British missionary in China.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Frederick_Porter_Smith",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Tâo-ching"
+      "legge": "Tâo-ching",
+      "modern": "Dào Zhěng"
     },
-    "appearance": "CHAPTER I."
+    "nonRomanizedName": {
+      "traditionalChinese": "道整",
+      "simplifiedChinese": "道整"
+    },
+    "appearance": "CHAPTER I.",
+    "links": [
+      {
+	"url": "https://ntireader.org/words/7003809.html",
+	"text": "NTI Reader"
+      }
+    ]
   },
   {
     "name": "Sir James Emerson Tennent",
     "appearance": "CHAPTER XXXVIII.",
-    "title": "1st Baronet FRS",
+    "title": "1st Baronet, Fellow of the Royal Society",
     "links": [
-      {
-        "url": "https://tempomanor.com/about/sir-james-emerson-tennent-tempo-manor/",
-        "text": "Sir James Emerson-Tennent & Tempo Manor"
-      },
       {
         "url": "https://en.wikipedia.org/wiki/James_Emerson_Tennent",
         "text": "Wikipedia"
+      },
+      {
+        "url": "https://tempomanor.com/about/sir-james-emerson-tennent-tempo-manor/",
+        "text": "Sir James Emerson-Tennent & Tempo Manor"
       }
     ]
   },
   {
     "name": {
       "legge": "Twan-yeh",
-      "pinyin": "Duan Ye",
-      "pinyinWithAccents": "Duàn Yè",
+      "modern": "Duàn Yè"
+    },
+    "nonRomanizedName": {
       "tradtionalChinese": "段業",
       "simplifiedChinese": "段业"
     },
     "title": {
-      "legge": "King of the Northern Leang"
+      "legge": "King of the Northern Leang",
+      "modern": "King of the Northern Liáng"
     },
-    "appearance": "CHAPTER I."
+    "appearance": "CHAPTER I.",
+    "biography": "Third king of the Northern Liáng.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Duan_Ye",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Unnamed Envoy",
@@ -337,72 +750,161 @@
   },
   {
     "name": "Thomas Watters",
-    "appearance": "PREFACE."
+    "appearance": "PREFACE.",
+    "biography": "British oriental scholar.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Thomas_Watters",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Samuel Wells Williams",
-    "appearance": "CHAPTER III."
+    "appearance": "CHAPTER III.",
+    "biography": "American linguist, missionary, and Sinologist.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Samuel_Wells_Williams",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Le-luh-koo Wû-kû"
+      "legge": "Le-luh-koo Wû-kû",
+      "modern": "Tūfà Lìlùgū"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "禿髮利鹿孤",
+      "simplifiedChinese": "秃发利鹿孤"
     },
     "title": {
-      "legge": "King of the Southern Leang"
+      "legge": "King of the Southern Leang",
+      "modern": "King of the Southern Liáng"
     },
-    "appearance": "CHAPTER I."
+    "appearance": "CHAPTER I.",
+    "biography": "Second king of the Southern Liáng.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Tufa_Lilugu",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Now-t’an Wû-kû"
+      "legge": "Now-t’an Wû-kû",
+      "modern": "Tūfà Nùtán"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "禿髮傉檀",
+      "simplifiedChinese": "秃发傉檀"
     },
     "title": {
-      "legge": "King of the Southern Leang"
+      "legge": "King of the Southern Leang",
+      "modern": "King of the Southern Liáng"
     },
-    "appearance": "CHAPTER I."
+    "appearance": "CHAPTER I.",
+    "biography": "Third king of the Southern Liáng.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Tufa_Rutan",
+	"text": "Wikipedia"
+      }
+    ]
+  },
+  {
+    "name": {
+      "legge": "T’ŭh-făh Wû-kû",
+      "modern": "Tūfà Wūgū"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "禿髮烏孤",
+      "simplifiedChinese": "秃发乌孤"
+    },
+    "title": {
+      "legge": "King of the Southern Leang",
+      "modern": "King of the Southern Liáng"
+    },
+    "appearance": "CHAPTER I.",
+    "biography": "First king of the Southern Liáng.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Tufa_Wugu",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": "Alexander Wylie",
-    "appearance": "CHAPTER II."
+    "appearance": "CHAPTER II.",
+    "biography": "British missionary in China.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Alexander_Wylie_(missionary)",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "T’ŭh-făh Wû-kû"
+      "modern": "Aisin Gioro Xuanye"
     },
-    "title": {
-      "legge": "King of the Southern Leang"
-    },
-    "appearance": "CHAPTER I."
-  },
-  {
-    "name": {
-      "pinyin": "Aisin Gioro Xuanye",
+    "nonRomanizedName": {
+      "traditionalChinese": "愛新覺羅 玄燁",
       "simplifiedChinese": "愛新覺羅 玄燁"
     },
     "title": {
       "legge": "K’ang-hsî Emperor",
-      "pinyin": "Kangxi Emperor"
+      "modern": "Kangxi Emperor"
     },
-    "appearance": "INTRODUCTION."
+    "appearance": "INTRODUCTION.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Kangxi_Emperor",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
       "legge": "Hsüan Ch’wang",
-      "wadeGiles": "Hsüan-tsang",
-      "pinyin": "Xuanzang",
-      "pinyinWithAccents": "Xuánzàng",
+      "modern": "Xuánzàng"
+    },
+    "nonRomanizedName": {
       "traditionalChinese": "玄奘",
       "simplifiedChinese": "玄奘"
     },
-    "appearance": "CHAPTER III."
+    "appearance": "CHAPTER III.",
+    "biography": "Chinese monk who wrote about his travels.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Xuanzang",
+	"text": "Wikipedia"
+      }
+    ]
   },
   {
     "name": {
-      "legge": "Yâo Hing"
+      "legge": "Yâo Hing",
+      "modern": "Yáo Xìng"
+    },
+    "nonRomanizedName": {
+      "traditionalChinese": "姚興",
+      "simplifiedChinese": "姚兴"
     },
     "title": {
-      "legge": "Prince of the After Ts’in"
+      "legge": "Prince of the After Ts’in",
+      "modern": "Prince of the Later Qin"
     },
-    "appearance": "CHAPTER I."
+    "appearance": "CHAPTER I.",
+    "biography": "Second emperor of the Later Qin Dynasty.",
+    "links": [
+      {
+	"url": "https://en.wikipedia.org/wiki/Yao_Xing",
+	"text": "Wikipedia"
+      }
+    ]
   }
 ]
