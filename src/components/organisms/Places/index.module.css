@@ -1,5 +1,6 @@
 .places {
-    max-height: calc(100vh - 184px);
+    /* max-height: calc(100vh - 184px); */
+    max-height: calc(100vh - 217px);
     overflow-y: scroll;
 }
 

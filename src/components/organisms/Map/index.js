@@ -30,7 +30,7 @@ class Map extends Component {
     const position = [this.state.lat, this.state.lng];
 
     const markers = this.props.places.map((place, index) => {
-      const markerPosition = [place.lat, place.lng];
+      const markerPosition = [place.position.lat, place.position.lng];
 
       return <Marker position={markerPosition} key={index.toString()}>
                <Popup>

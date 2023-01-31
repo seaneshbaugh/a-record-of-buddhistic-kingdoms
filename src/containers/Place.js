@@ -2,22 +2,28 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import Place from "../components/molecules/Place";
 import { mapSetCurrentPlace } from "../store/actions";
-import { displayValue, mapMapInstance } from "../store/selectors";
+import { mapCurrentPlace, displayValue } from "../store/selectors";
 
 class PlaceContainer extends Component {
   render() {
-    const { className, current, forwardedRef, index, name, lat, lng, setCurrentPlace, mapInstance } = this.props;
+    const { className, forwardedRef, place } = this.props;
 
     return (
-      <Place {...{ className, current, forwardedRef, index, name, lat, lng, setCurrentPlace, mapInstance } } />
+      <Place {...{ className, forwardedRef, ...place } } />
     );
   }
 }
 
-const mapStateToProps = (state, ownProps) => ({
-  name: displayValue(state.display, ownProps.name),
-  mapInstance: mapMapInstance(state.map)
-});
+const mapStateToProps = (state, ownProps) => {
+  const place = state.map.places[mapCurrentPlace(state.map)];
+
+  return {
+    place: {
+      ...place,
+      name: displayValue(state.display, place.name)
+    }
+  };
+};
 
 const mapDispatchToProps = (dispatch, ownProps) => ({
   setCurrentPlace: (newPlaceIndex) => {

@@ -1,11 +1,116 @@
 [
   {
     "name": {
-      "legge": "Ch’ang-gan, Se-gan, Shen-se, China",
-      "modern": "Xi'an, Shaanxi, China"
+      "legge": "Ch’ang-gan",
+      "modern": "Chang'an"
     },
-    "lat": 34.23505025312077,
-    "lng": 108.95135619092434,
+    "position": {
+      "lat": 34.23505025312077,
+      "lng": 108.95135619092434
+    },
+    "ancientPoliticalEntities": [
+      {
+	"name": {
+	  "legge": "Ch’ang-gan",
+          "modern": "Chang'an"
+	},
+        "type": "city",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Chang%27an",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "leggePoliticalEntities": [
+      {
+	"name": {
+	  "legge": "Ch’ang-gan",
+          "modern": "Chang'an"
+	},
+        "type": "city",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Chang%27an",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "Se-gan",
+          "modern": "Xi'an"
+        },
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Xi%27an",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "Shen-se",
+          "modern": "Shaanxi"
+        },
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Shaanxi",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Xingiapocun",
+        "type": "township",
+        "link": null
+      },
+      {
+        "name": "Yanta",
+        "type": "district",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Yanta_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Xi'an",
+        "type": "sub-provincial city",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Xi%27an",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Shaanxi",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Shaanxi",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
     "modernDestination": {
       "name": "Daxingshan Temple",
       "links": [
@@ -15,109 +120,130 @@
         }
       ]
     },
-    "modernPoliticalEntities": [
+    "links": [],
+    "references": [
       {
-        "name": "Xingiapocun",
-        "type": "township",
-        "links": []
-      },
-      {
-        "name": "Yanta",
-        "type": "district",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Yanta_District",
-            "text": "Wikipedia"
-          }
-        ]
-      },
-      {
-        "name": "Xi'an",
-        "type": "sub-provincial city",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Xi%27an",
-            "text": "Wikipedia"
-          }
-        ]
-      },
-      {
-        "name": "Shaanxi",
-        "type": "province",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Shaanxi",
-            "text": "Wikipedia"
-          }
-        ]
-      },
-      {
-        "name": "China",
-        "type": "country",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/China",
-            "text": "Wikipedia"
-          }
-        ]
+        "location": {
+          "chapter": 0,
+          "paragraph": 0,
+          "sentence": 0
+        },
+        "text": {
+          "legge": "FÂ-HIEN had been living in Ch’ang-gan.",
+          "modern": "FǍXIǍN had been living in Chang'an."
+        }
       }
     ]
   },
   {
     "name": {
-      "modern": "Longxi, Dingxi, Gansu, China"
+      "legge": "Lung",
+      "modern": "Longxi"
     },
-    "lat": 35.00323040621305,
-    "lng": 104.63883381396477,
-    "modernDestination": null,
-    "modernPoliticalEntities": [
+    "position": {
+      "lat": 35.00323040621305,
+      "lng": 104.63883381396477
+    },
+    "ancientPoliticalEntities": [
       {
-        "name": "Longxi",
+        "name": {
+          "legge": "Western Ts’in",
+          "modern": "Western Qin"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Western_Qin",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "leggePoliticalEntities": [
+      {
+        "name": "Lung Chow",
         "type": "county",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Longxi_County",
-            "text": "Wikipedia"
-          }
-        ]
+        "link": null
       },
       {
-        "name": "Dingxi",
-        "type": "prefecture level city",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Dingxi",
-            "text": "Wikipedia"
-          }
-        ]
-      },
-      {
-        "name": "Gansu",
+        "name": {
+          "legge": "Shen-se",
+          "modern": "Shaanxi"
+        },
         "type": "province",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Gansu",
-            "text": "Wikipedia"
-          }
-        ]
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Shaanxi",
+          "text": "Wikipedia"
+        }
       },
       {
         "name": "China",
         "type": "country",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/China",
-            "text": "Wikipedia"
-          }
-        ]
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Longxi",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Longxi_County",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Dingxi",
+        "type": "prefecture level city",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Dingxi",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gansu",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernDestination": null,
+    "links": [],
+    "references": [
+      {
+        "location": {
+          "chapter": 0,
+          "paragraph": 1,
+          "sentence": 0
+        },
+        "text": {
+          "legge": "After starting from Ch’ang-gan, they passed through Lung, and came to the kingdom of K’een-kwei, where they stopped for the summer retreat.",
+          "modern": "After starting from Ch’ang-gan, they passed through Lung, and came to the kingdom of K’een-kwei, where they stopped for the summer retreat."
+        }
       }
     ]
   },
   {
-    "name": "Lanzhou, Gansu, China",
-    "lat": 36.05820348815692,
-    "lng": 103.82881123994093,
-    "modernDestination": null,
+    "name": {
+      "legge": "Lan-chow",
+      "modern": "Lanzhou"
+    },
+    "position": {
+      "lat": 36.05820348815692,
+      "lng": 103.82881123994093
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
         "name": "Lanzhou",
@@ -149,12 +275,77 @@
           }
         ]
       }
-    ]
+    ],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
-    "name": "Huzhu, Haidong, Qinghai, China",
-    "lat": 36.51037835570662,
-    "lng": 102.10350864038082,
+    "name": {
+      "legge": "Southern Leang",
+      "modern": "Southern Liang"
+    },
+    "position": {
+      "lat": 36.51037835570662,
+      "lng": 102.10350864038082
+    },
+    "ancientPoliticalEntities": [
+      {
+        "name": {
+          "legge": "Southern Leang",
+          "modern": "Southern Liang"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Southern_Liang_(Sixteen_Kingdoms)",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "leggePoliticalEntities": [
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Huzhu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Huzhu_Tu_Autonomous_County",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Haidong",
+        "type": "prefecture level city",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Haidong",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Qinghai",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Qinghai",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
     "modernDestination": {
       "name": "White Horse Temple",
       "links": [
@@ -168,332 +359,774 @@
         }
       ]
     },
-    "modernPoliticalEntities": [
-      {
-        "name": "Lanzhou",
-        "type": "prefecture level city",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Lanzhou",
-            "text": "Wikipedia"
-          }
-        ]
-      },
-      {
-        "name": "Gansu",
-        "type": "province",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Gansu",
-            "text": "Wikipedia"
-          }
-        ]
-      },
-      {
-        "name": "China",
-        "type": "country",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/China",
-            "text": "Wikipedia"
-          }
-        ]
-      }
-    ]
+    "links": [],
+    "references": []
   },
   {
     "name": "Zhangye, Gansu, China",
-    "lat": 38.92895178099787,
-    "lng": 100.44401981420901
+    "position": {
+      "lat": 38.92895178099787,
+      "lng": 100.44401981420901
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Dunhuang, Jiquan, Gansu, China",
-    "lat": 40.091425217302415,
-    "lng": 94.682363641834170
+    "position": {
+      "lat": 40.091425217302415,
+      "lng": 94.68236364183417
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Ruoqiang, Ruoqiang, Bayingolin, Xinjiang, China",
-    "lat": 39.01490876089363,
-    "lng": 88.15618887472078
+    "position": {
+      "lat": 39.01490876089363,
+      "lng": 88.15618887472078
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Kuqa, Aksu, Xinjiang, China",
-    "lat": 41.85859891896489,
-    "lng": 83.03166539580081
+    "position": {
+      "lat": 41.85859891896489,
+      "lng": 83.03166539580081
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Hotan, Hotan, Xinjiang, China",
-    "lat": 36.93461166815535,
-    "lng": 79.87565469198228
+    "position": {
+      "lat": 36.93461166815535,
+      "lng": 79.87565469198228
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Tashkurgan, Taxkorgan, Kashgar, Xinjiang, China",
-    "lat": 37.766925247131944,
-    "lng": 75.233264890319900
+    "position": {
+      "lat": 37.766925247131944,
+      "lng": 75.2332648903199
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Gilgit, Gilgit, Gilgit, Gilgit-Baltistan, Pakistan",
-    "lat": 35.915808729233845,
-    "lng": 74.29197908984372
+    "position": {
+      "lat": 35.915808729233845,
+      "lng": 74.29197908984372
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Skardu, Skardu, Baltistan, Gilgit-Baltistan, Pakistan",
-    "lat": 35.2945088968479,
-    "lng": 75.62750135957026
+    "position": {
+      "lat": 35.2945088968479,
+      "lng": 75.62750135957026
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Palas, Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan",
-    "lat": 35.10675968841741,
-    "lng": 72.99755404011535
+    "position": {
+      "lat": 35.10675968841741,
+      "lng": 72.99755404011535
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Mingora, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan",
-    "lat": 34.77873338961653,
-    "lng": 72.33334015655703
+    "position": {
+      "lat": 34.77873338961653,
+      "lng": 72.33334015655703
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Barikot, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan",
-    "lat": 34.65169950508407,
-    "lng": 72.21028088377693
+    "position": {
+      "lat": 34.65169950508407,
+      "lng": 72.21028088377693
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Takht Bhai, Mardan, Mardan, Kyber Pakhtunkhwa, Pakistan",
-    "lat": 34.16702387496293,
-    "lng": 71.7220490760742
+    "position": {
+      "lat": 34.16702387496293,
+      "lng": 71.7220490760742
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Taxila, Rawalpindi, Rawalpindi, Punjab, Pakistan",
-    "lat": 33.73143909021518,
-    "lng": 72.83341236977537
+    "position": {
+      "lat": 33.73143909021518,
+      "lng": 72.83341236977537
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Peshawar, Peshawar, Peshawar, Kyber Pakhtunkhwa, Pakistan",
-    "lat": 34.002496709436734,
-    "lng": 71.57382729450865
+    "position": {
+      "lat": 34.002496709436734,
+      "lng": 71.57382729450865
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Jalalabad, Nangarhar, Afghanistan",
-    "lat": 34.36447187004159,
-    "lng": 70.47714034997773
+    "position": {
+      "lat": 34.36447187004159,
+      "lng": 70.47714034997773
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Jalalabad, Nangarhar, Afghanistan",
-    "lat": 34.411786302122465,
-    "lng": 70.4702738948996
+    "position": {
+      "lat": 34.411786302122465,
+      "lng": 70.4702738948996
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Jalalabad, Nangarhar, Afghanistan",
-    "lat": 34.46530150459222,
-    "lng": 70.54992477380586
+    "position": {
+      "lat": 34.46530150459222,
+      "lng": 70.54992477380586
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Khost, Khost, Afghanistan",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Bannu, Bannu, Bannu, Kyber Pakhtunkhwa, Pakistan",
-    "lat": 32.988315923725175,
-    "lng": 70.60313980066132
+    "position": {
+      "lat": 32.988315923725175,
+      "lng": 70.60313980066132
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Bhera, Sargodha, Sargodha, Punjab, Pakistan",
-    "lat": 32.48134397940673,
-    "lng": 72.8920924529076
+    "position": {
+      "lat": 32.48134397940673,
+      "lng": 72.8920924529076
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Mathura, Mathura, Agra, Uttar Pradesh, India",
-    "lat": 27.494246295517122,
-    "lng": 77.66572232846681
+    "position": {
+      "lat": 27.494246295517122,
+      "lng": 77.66572232846681
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Sankassa, Farrukhabad, Kanpur, Uttar Pradesh, India",
-    "lat": 27.33006113726599,
-    "lng": 79.25747333120137
+    "position": {
+      "lat": 27.33006113726599,
+      "lng": 79.25747333120137
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Kannauj, Kannauj, Kanpur, Uttar Pradesh, India",
-    "lat": 27.04900858535046,
-    "lng": 79.89687617923914
+    "position": {
+      "lat": 27.04900858535046,
+      "lng": 79.89687617923914
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "?, ?, ?, Uttar Pradesh, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Ayodhya, Faizabad, Faizabad, Uttar Pradesh, India",
-    "lat": 26.783630699664172,
-    "lng": 82.18445324595723
+    "position": {
+      "lat": 26.783630699664172,
+      "lng": 82.18445324595723
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Shravasti, Shravasti, Devipatan, Uttar Pradesh, India",
-    "lat": 27.507304072925685,
-    "lng": 82.01523378327738
+    "position": {
+      "lat": 27.507304072925685,
+      "lng": 82.01523378327738
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Padri, Shravasti, Devipatan, Uttar Pradesh, India",
-    "lat": 27.493788556662818,
-    "lng": 81.87964706678713
+    "position": {
+      "lat": 27.493788556662818,
+      "lng": 81.87964706678713
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Gotihawa, Kapilvastu, Province No. 5, Nepal",
-    "lat": 27.50397427851355,
-    "lng": 83.01952451857755
+    "position": {
+      "lat": 27.50397427851355,
+      "lng": 83.01952451857755
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Nigalihawa, Kapilvastu, Province No. 5, Nepal",
-    "lat": 27.59332346636215,
-    "lng": 83.07679240669472
+    "position": {
+      "lat": 27.59332346636215,
+      "lng": 83.07679240669472
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Taulihawa, Kapilvastu, Province No. 5, Nepal",
-    "lat": 27.565003085219224,
-    "lng": 83.03497404250334
+    "position": {
+      "lat": 27.565003085219224,
+      "lng": 83.03497404250334
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Lumbini, Rupandehi, Province No. 5, Nepal",
-    "lat": 27.46739298855394,
-    "lng": 83.26571753232031
+    "position": {
+      "lat": 27.46739298855394,
+      "lng": 83.26571753232031
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Ramgram, Nawalparasi, Province No. 5, Nepal",
-    "lat": 27.46739298855394,
-    "lng": 83.26571753232031
+    "position": {
+      "lat": 27.46739298855394,
+      "lng": 83.26571753232031
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Kushinagar, Kushinagar, Gorakhpur, Uttar Pradesh, India",
-    "lat": 26.7430162374067,
-    "lng": 83.87320193640551
+    "position": {
+      "lat": 26.7430162374067,
+      "lng": 83.87320193640551
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Kolhua, Vaishali, Tirhut, Bihar, India",
-    "lat": 26.014780548059537,
-    "lng": 85.09495798243438
+    "position": {
+      "lat": 26.014780548059537,
+      "lng": 85.09495798243438
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "?, ?, ?, Bihar, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Patna, Patna, Patna, Bihar, India",
-    "lat": 25.600334733413224,
-    "lng": 85.17480100122827
+    "position": {
+      "lat": 25.600334733413224,
+      "lng": 85.17480100122827
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Patna, Patna, Patna, Bihar, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Giriyak, Nalanda, Patna, Bihar, India",
-    "lat": 25.021011866415765,
-    "lng": 85.4992275630334
+    "position": {
+      "lat": 25.021011866415765,
+      "lng": 85.4992275630334
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Bargaon, Nalanda, Patna, Bihar, India",
-    "lat": 25.146201055831895,
-    "lng": 85.42835071494505
+    "position": {
+      "lat": 25.146201055831895,
+      "lng": 85.42835071494505
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "lat": 25.018748635180835,
-    "lng": 85.4032881539099
+    "position": {
+      "lat": 25.018748635180835,
+      "lng": 85.4032881539099
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "lat": 25.011304665466987,
-    "lng": 85.4332480868809
+    "position": {
+      "lat": 25.011304665466987,
+      "lng": 85.4332480868809
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "lat": 25.005060701273067,
-    "lng": 85.43872566517189
+    "position": {
+      "lat": 25.005060701273067,
+      "lng": 85.43872566517189
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Gaya, Gaya, Magadh, Bihar, India",
-    "lat": 24.78969479649287,
-    "lng": 84.98467590145651
+    "position": {
+      "lat": 24.78969479649287,
+      "lng": 84.98467590145651
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Bodh Gaya, Gaya, Magadh, Bihar, India",
-    "lat": 24.696962894699446,
-    "lng": 84.9659879247863
+    "position": {
+      "lat": 24.696962894699446,
+      "lng": 84.9659879247863
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Gurpa, Gaya, Magadh, Bihar, India",
-    "lat": 24.548687563998897,
-    "lng": 85.2906752102283
+    "position": {
+      "lat": 24.548687563998897,
+      "lng": 85.2906752102283
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Patna, Patna, Patna, Bihar, India",
-    "lat": 25.600334733413224,
-    "lng": 85.17480100122827
+    "position": {
+      "lat": 25.600334733413224,
+      "lng": 85.17480100122827
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "?, ?, ?, Bihar, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Varanasi, Varanasi, Varanasi, Uttar Pradesh, India",
-    "lat": 25.311619542229757,
-    "lng": 82.96152352056333
+    "position": {
+      "lat": 25.311619542229757,
+      "lng": 82.96152352056333
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Sarnath, Varanasi, Varanasi, Uttar Pradesh, India",
-    "lat": 25.37185416787389,
-    "lng": 83.00546883306333
+    "position": {
+      "lat": 25.37185416787389,
+      "lng": 83.00546883306333
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Kosam Khiraj, Kaushambi, Prayagraj, Uttar Pradesh, India",
-    "lat": 25.340593900335598,
-    "lng": 81.36565102487407
+    "position": {
+      "lat": 25.340593900335598,
+      "lng": 81.36565102487407
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "?, ?, ?, ?, India",
-    "lat": 0,
-    "lng": 0
+    "position": {
+      "lat": 0,
+      "lng": 0
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Patna, Patna, Patna, Bihar, India",
-    "lat": 25.600334733413224,
-    "lng": 85.17480100122827
+    "position": {
+      "lat": 25.600334733413224,
+      "lng": 85.17480100122827
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Champanagar, Nathnagar, Bhagalpur, Bihar, India",
-    "lat": 25.248716707163823,
-    "lng": 86.918446321582
+    "position": {
+      "lat": 25.248716707163823,
+      "lng": 86.918446321582
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   },
   {
     "name": "Tamluk, Purba Medinipur, Medinipur, West Bengal, India",
-    "lat": 22.277762973128496,
-    "lng": 87.91568685806817
+    "position": {
+      "lat": 22.277762973128496,
+      "lng": 87.91568685806817
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [],
+    "modernDestination": null,
+    "links": [],
+    "references": []
   }
 ]

@@ -1,6 +1,13 @@
 .place {
+    margin-bottom: 0.5rem;
 }
 
 .current {
     background: #ffddaa;
+}
+
+.politicalEntityHeader {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.25rem;
 }
