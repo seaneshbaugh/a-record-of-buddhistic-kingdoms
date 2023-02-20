@@ -7,7 +7,7 @@
         "sentences": [
           {
             "legge": "FÂ-HIEN had been living in Ch’ang-gan[1].",
-            "modern": "FǍXIǍN had been living in Chang'an[1]."
+            "modern": "FǍXIǍN had been living in Cháng'ān[1]."
           },
           {
 	    "legge": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hwăng-che, being the Ke-hâe year of the cycle[2], he entered into an engagement with Hwuy-king, Tâo-ching, Hwuy-ying, and Hwuy-wei[3], that they should go to India and seek for the Disciplinary Rules[4].",
@@ -17,8 +17,14 @@
       },
       {
         "sentences": [
-          "After starting from Ch’ang-gan, they passed through Lung[5], and came to the kingdom of K’een-kwei[6], where they stopped for the summer retreat[7].",
-          "When that was over, they went forward to the kingdom of Now-t’an[8], crossed the mountain of Yang-low, and reached the emporium of Chang-yih[9].",
+          {
+            "legge": "After starting from Ch’ang-gan, they passed through Lung[5], and came to the kingdom of K’een-kwei[6], where they stopped for the summer retreat[7].",
+            "modern": "After starting from Cháng'ān, they passed through Lǒng[5], and came to the kingdom of Gānguī[6], where they stopped for the summer retreat[7]."
+          },
+          {
+            "legge": "When that was over, they went forward to the kingdom of Now-t’an[8], crossed the mountain of Yang-low, and reached the emporium of Chang-yih[9].",
+            "modern": "When that was over, they went forward to the kingdom of Rùtán[8], crossed the mountain of Yǎnglóu, and reached the emporium of Zhāngyè[9]."
+          },
           "There they found the country so much disturbed that travelling on the roads was impossible for them.",
           "Its king, however, was very attentive to them, kept them (in his capital), and acted the part of their dânapati[10]."
         ]
@@ -44,7 +50,10 @@
       "paragraphs": [
         {
           "sentences": [
-            "Ch’ang-gan is still the name of the principal district (and its city) in the department of Se-gan, Shen-se.",
+            {
+              "legge": "Ch’ang-gan is still the name of the principal district (and its city) in the department of Se-gan, Shen-se.",
+              "modern": "Cháng'ān is still the name of the principal district (and its city) in the department of Se-gan, Shǎnxī."
+            },
             "It had been the capital of the first empire of Han (B.C. 202-A.D. 24), as it subsequently was that of Suy (A.D. 589-618).",
             "The repair of the eastern Tsin, towards the close of which Fâ-hien lived, had its capital at or near Nan-king, and Ch’ang-gan was the capital of the principal of the three Ts’in kingdoms, which with many other minor ones, maintained a semi-independence of Tsin, their rulers sometimes even assuming the title of emperor."
           ]
