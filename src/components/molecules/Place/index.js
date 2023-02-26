@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import classNames from "classnames";
 import PropTypes from "prop-types";
-import Destination from "../../atoms/Destination";
+import Destination from "../../../containers/Destination";
 import PoliticalEntities from "../../../containers/PoliticalEntities";
 import styles from "./index.module.css";
 

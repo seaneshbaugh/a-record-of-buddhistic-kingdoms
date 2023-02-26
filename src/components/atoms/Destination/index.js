@@ -6,8 +6,6 @@ import styles from "./index.module.css";
 
 class Destination extends Component {
   render() {
-    console.log(this.props);
-
     if (!this.props.name) {
       return null;
     }
@@ -17,7 +15,7 @@ class Destination extends Component {
     // TODO: Consider just displaying the name as text and then adding links afterwards.
     // For now just making the name be a link to the first link is fine.
     const url = (() => {
-      if (this.props.links && this.props.links.length > 0) {
+      if (this.props.links && this.props.links[0]) {
         return this.props.links[0].url;
       } else {
         return null;
