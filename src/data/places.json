@@ -2,40 +2,23 @@
   {
     "name": {
       "legge": "Ch’ang-gan",
-      "modern": "Chang'an"
+      "modern": "Cháng'ān"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "長安",
+      "chineseSimplified": "长安"
     },
     "position": {
-      "lat": 34.23505025312077,
-      "lng": 108.95135619092434
+      "lat": 34.15667830251313,
+      "lng": 108.9091184077355
     },
     "ancientPoliticalEntities": [
       {
-	"name": {
-	  "legge": "Ch’ang-gan",
+        "name": {
+          "legge": "Ch’ang-gan",
           "modern": "Chang'an"
-	},
-        "type": "city",
-        "link": {
-          "url": "https://en.wikipedia.org/wiki/Chang%27an",
-          "text": "Wikipedia"
-        }
-      },
-      {
-        "name": "China",
-        "type": "country",
-        "link": {
-          "url": "https://en.wikipedia.org/wiki/China",
-          "text": "Wikipedia"
-        }
-      }
-    ],
-    "leggePoliticalEntities": [
-      {
-	"name": {
-	  "legge": "Ch’ang-gan",
-          "modern": "Chang'an"
-	},
-        "type": "city",
+        },
+        "type": "county",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Chang%27an",
           "text": "Wikipedia"
@@ -43,8 +26,31 @@
       },
       {
         "name": {
-          "legge": "Se-gan",
-          "modern": "Xi'an"
+          "legge": "After Ts'in",
+          "modern": "Later Qin"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Later_Qin",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "Ch’ang-gan",
+          "modern": "Chang'an"
+        },
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Xi%27an",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "Se-gan"
         },
         "type": "prefecture",
         "link": {
@@ -55,7 +61,7 @@
       {
         "name": {
           "legge": "Shen-se",
-          "modern": "Shaanxi"
+          "modern": "Shǎnxī"
         },
         "type": "province",
         "link": {
@@ -64,7 +70,10 @@
         }
       },
       {
-        "name": "China",
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
         "type": "country",
         "link": {
           "url": "https://en.wikipedia.org/wiki/China",
@@ -74,28 +83,23 @@
     ],
     "modernPoliticalEntities": [
       {
-        "name": "Xingiapocun",
-        "type": "township",
-        "link": null
-      },
-      {
-        "name": "Yanta",
-        "type": "district",
+        "name": "Chang'an",
+        "type": "county",
         "link": {
-          "url": "https://en.wikipedia.org/wiki/Yanta_District",
+          "url": "https://en.wikipedia.org/wiki/Chang%27an_District,_Xi%27an",
           "text": "Wikipedia"
         }
       },
       {
-        "name": "Xi'an",
-        "type": "sub-provincial city",
+        "name": "Xī'ān",
+        "type": "prefecture",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Xi%27an",
           "text": "Wikipedia"
         }
       },
       {
-        "name": "Shaanxi",
+        "name": "Shǎnxī",
         "type": "province",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Shaanxi",
@@ -111,38 +115,175 @@
         }
       }
     ],
-    "modernDestination": {
-      "name": "Daxingshan Temple",
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": {
+      "name": {
+        "legge": "Yâo Hing",
+        "modern": "Yáo Xìng"
+      },
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Daxingshan_Temple",
+          "url": "https://en.wikipedia.org/wiki/Yao_Xing",
           "text": "Wikipedia"
         }
       ]
     },
-    "links": [],
-    "references": [
-      {
-        "location": {
-          "chapter": 0,
-          "paragraph": 0,
-          "sentence": 0
-        },
-        "text": {
-          "legge": "FÂ-HIEN had been living in Ch’ang-gan.",
-          "modern": "FǍXIǍN had been living in Chang'an."
-        }
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 0
+      },
+      "text": {
+        "legge": "FÂ-HIEN had been living in Ch’ang-gan.",
+        "modern": "FǍXIǍN had been living in Cháng'ān."
       }
-    ]
+    },
+    "confidence": 99,
+    "notes": "This one is pretty easy. Chang'an isn't exactly an obscure village. It's been around for ages and has a well recorded history. The exact position here is the middle of the Chang'an district in Xi'an. It's difficult to say exactly where Faxian started from. Possibly the Daxingshan Temple, which would have existed when he was alive. The ancient country is confirmed by the Wikipedia entry for Chang'an. The ruler is confirmed by the Wikipedia entry for the Later Qin and the entry fro Yao Xing. The only bit of uncertainty here is Se-gan. I'm pretty sure that's just another name for Xi'an."
   },
   {
     "name": {
       "legge": "Lung",
-      "modern": "Longxi"
+      "modern": "Lǒng"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "隴",
+      "chineseSimplified": "陇"
     },
     "position": {
       "lat": 35.00323040621305,
       "lng": 104.63883381396477
+    },
+    "ancientPoliticalEntities": [
+      {
+        "name": {
+          "legge": "Lung",
+          "modern": "Lǒng"
+        },
+        "type": "county"
+      },
+      {
+        "name": {
+          "legge": "Western Ts’in",
+          "modern": "Western Qin"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Western_Qin",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "Lung Chow"
+        },
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Longxi_County",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "Kan-sŭh",
+          "modern": "Gānsù"
+        },
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Lǒngxī",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Longxi_County",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Dìngxī",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Dingxi",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gānsù",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": {
+      "name": {
+        "legge": "K’eih-fuh K’een-kwei",
+        "modern": "Qǐfú Gānguī"
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Qifu_Gangui",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 0
+      },
+      "text": {
+        "legge": "After starting from Ch’ang-gan, they passed through Lung, and came to the kingdom of K’een-kwei, where they stopped for the summer retreat.",
+        "modern": "After starting from Cháng'ān, they passed through Lǒng, and came to the kingdom of Gānguī, where they stopped for the summer retreat."
+      }
+    },
+    "confidence": 99,
+    "notes": "Longxi matches up with Lung pretty well. Ancient country is based on maps for the Western Qin on Wikipedia. Initially I had assumed it was part of the After Qin but it definitely appears to have been within the Western Qin."
+  },
+  {
+    "name": {
+      "legge": "Kingdom of K’een-kwei",
+      "modern": "Kingdom of Gānguī"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "乾歸國",
+      "chineseSimplified": "干归国"
+    },
+    "position": {
+      "lat": 36.05820348815692,
+      "lng": 103.82881123994093
     },
     "ancientPoliticalEntities": [
       {
@@ -159,23 +300,32 @@
     ],
     "leggePoliticalEntities": [
       {
-        "name": "Lung Chow",
-        "type": "county",
-        "link": null
-      },
-      {
         "name": {
-          "legge": "Shen-se",
-          "modern": "Shaanxi"
+          "legge": "Lan-chow",
+          "modern": "Lánzhōu"
         },
-        "type": "province",
+        "type": "prefecture",
         "link": {
-          "url": "https://en.wikipedia.org/wiki/Shaanxi",
+          "url": "https://en.wikipedia.org/wiki/Lanzhou",
           "text": "Wikipedia"
         }
       },
       {
-        "name": "China",
+        "name": {
+          "legge": "Kan-sŭh",
+          "modern": "Gānsù"
+        },
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
         "type": "country",
         "link": {
           "url": "https://en.wikipedia.org/wiki/China",
@@ -185,23 +335,15 @@
     ],
     "modernPoliticalEntities": [
       {
-        "name": "Longxi",
-        "type": "county",
+        "name": "Lánzhōu",
+        "type": "prefecture",
         "link": {
-          "url": "https://en.wikipedia.org/wiki/Longxi_County",
+          "url": "https://en.wikipedia.org/wiki/Lanzhou",
           "text": "Wikipedia"
         }
       },
       {
-        "name": "Dingxi",
-        "type": "prefecture level city",
-        "link": {
-          "url": "https://en.wikipedia.org/wiki/Dingxi",
-          "text": "Wikipedia"
-        }
-      },
-      {
-        "name": "Gansu",
+        "name": "Gānsù",
         "type": "province",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Gansu",
@@ -217,73 +359,42 @@
         }
       }
     ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": [
-      {
-        "location": {
-          "chapter": 0,
-          "paragraph": 1,
-          "sentence": 0
-        },
-        "text": {
-          "legge": "After starting from Ch’ang-gan, they passed through Lung, and came to the kingdom of K’een-kwei, where they stopped for the summer retreat.",
-          "modern": "After starting from Ch’ang-gan, they passed through Lung, and came to the kingdom of K’een-kwei, where they stopped for the summer retreat."
+    "ancientRuler": {
+      "name": {
+        "legge": "K’eih-fuh K’een-kwei",
+        "modern": "Qǐfú Gānguī"
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Qifu_Gangui",
+          "text": "Wikipedia"
         }
+      ]
+    },
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 0
+      },
+      "text": {
+        "legge": "After starting from Ch’ang-gan, they passed through Lung, and came to the kingdom of K’een-kwei, where they stopped for the summer retreat.",
+        "modern": "After starting from Cháng'ān, they passed through Lǒng, and came to the kingdom of Gānguī, where they stopped for the summer retreat."
       }
-    ]
+    },
+    "confidence": 99,
+    "notes": "Wikipedia confirms Lan Chow is Lanzhou. Footnote 6 gives ancient ruler, ancient country, and city."
   },
   {
     "name": {
-      "legge": "Lan-chow",
-      "modern": "Lanzhou"
+      "legge": "Kingdom of Now-t’an",
+      "modern": "Kingdom of Rǔtán"
     },
-    "position": {
-      "lat": 36.05820348815692,
-      "lng": 103.82881123994093
-    },
-    "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [
-      {
-        "name": "Lanzhou",
-        "type": "prefecture level city",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Lanzhou",
-            "text": "Wikipedia"
-          }
-        ]
-      },
-      {
-        "name": "Gansu",
-        "type": "province",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/Gansu",
-            "text": "Wikipedia"
-          }
-        ]
-      },
-      {
-        "name": "China",
-        "type": "country",
-        "links": [
-          {
-            "url": "https://en.wikipedia.org/wiki/China",
-            "text": "Wikipedia"
-          }
-        ]
-      }
-    ],
-    "modernDestination": null,
-    "links": [],
-    "references": []
-  },
-  {
-    "name": {
-      "legge": "Southern Leang",
-      "modern": "Southern Liang"
+    "nonRomanizedName": {
+      "chineseTraditional": "褥⁠檀國",
+      "chineseSimplified": "褥⁠檀国"
     },
     "position": {
       "lat": 36.51037835570662,
@@ -293,7 +404,7 @@
       {
         "name": {
           "legge": "Southern Leang",
-          "modern": "Southern Liang"
+          "modern": "Southern Liáng"
         },
         "type": "country",
         "link": {
@@ -304,7 +415,21 @@
     ],
     "leggePoliticalEntities": [
       {
-        "name": "China",
+        "name": {
+          "legge": "Kan-sŭh",
+          "modern": "Gānsù"
+        },
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
         "type": "country",
         "link": {
           "url": "https://en.wikipedia.org/wiki/China",
@@ -314,23 +439,23 @@
     ],
     "modernPoliticalEntities": [
       {
-        "name": "Huzhu",
+        "name": "Chéngzhōng",
         "type": "county",
         "link": {
-          "url": "https://en.wikipedia.org/wiki/Huzhu_Tu_Autonomous_County",
+          "url": "https://en.wikipedia.org/wiki/Chengzhong_District,_Xining",
           "text": "Wikipedia"
         }
       },
       {
-        "name": "Haidong",
-        "type": "prefecture level city",
+        "name": "Xīníng",
+        "type": "prefecture",
         "link": {
-          "url": "https://en.wikipedia.org/wiki/Haidong",
+          "url": "https://en.wikipedia.org/wiki/Xining",
           "text": "Wikipedia"
         }
       },
       {
-        "name": "Qinghai",
+        "name": "Qīnghǎi",
         "type": "province",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Qinghai",
@@ -346,787 +471,3505 @@
         }
       }
     ],
-    "modernDestination": {
-      "name": "White Horse Temple",
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": {
+      "name": {
+        "legge": "T’ŭh-făh Now-t’an",
+        "modern": "Tūfǎ Rǔtán"
+      },
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/White_Horse_Temple",
+          "url": "https://en.wikipedia.org/wiki/Tufa_Rutan",
           "text": "Wikipedia"
-        },
-        {
-          "url": "https://www.atlasobscura.com/places/white-horse-temple",
-          "text": "Atlas Obscura"
         }
       ]
     },
-    "links": [],
-    "references": []
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1
+      },
+      "text": {
+        "legge": "When that was over, they went forward to the kingdom of Now-t’an, crossed the mountain of Yang-low, and reached the emporium of Chang-yih.",
+        "modern": "When that was over, they went forward to the kingdom of Rùtán, crossed the mountain of Yǎnglóu, and reached the emporium of Zhāngyè."
+      }
+    },
+    "confidence": 99,
+    "notes": "According to the Chinese version of the Wikipedia entry for the Southern Liang, in 399 the capital was moved to Xiping, modern Xining, Qinghai. This makes sense geographically because it is along the way to Yanglow Mountain and it has been a well known stop on the Silk  Road for 2100 years. Footnote 8 from Legge mentions Leang-chow, currently Liangzhou District in Wuwei, Gansu. Despite being mentioned here it is not likely the place Faxian visited. Legge only mentions it as preserving the name Leang (Liang) and the timeline on the Chinese Wikipedia entry for Southern Liang does not match up. Also, according to the Chinese Wikipedia entry for Liangzhou District, Liangzhou used to be knwon as Guzang, which is what shows up on the map for Southern Liang. This confirms that Guzang is not the same as Xiping/Xining."
   },
   {
-    "name": "Zhangye, Gansu, China",
+    "name": {
+      "legge": "Yang-low Mountain",
+      "modern": "Yǎnglóu Mountain"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "養樓山",
+      "chineseSimplified": "养楼山"
+    },
+    "position": {
+      "lat": 36.999586695333846,
+      "lng": 102.16384853122598
+    },
+    "ancientPoliticalEntities": [
+      {
+        "name": {
+          "legge": "Southern Leang",
+          "modern": "Southern Liáng"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Southern_Liang_(Sixteen_Kingdoms)",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "leggePoliticalEntities": [
+      {
+        "name": "Kan-sŭh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Hùzhù",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Huzhu_Tu_Autonomous_County",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Hǎidōng",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Haidong",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Qīnghǎi",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Qinghai",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": {
+      "name": {
+        "legge": "Yang-low Mountain",
+        "modern": "Yǎnglóu Mountain"
+      },
+      "links": [
+        null
+      ]
+    },
+    "modernDestination": {
+      "name": "Daban Shan",
+      "links": [
+        {
+          "url": "https://peakvisor.com/peak/daban-shan.html"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1
+      },
+      "text": {
+        "legge": "When that was over, they went forward to the kingdom of Now-t’an, crossed the mountain of Yang-low, and reached the emporium of Chang-yih.",
+        "modern": "When that was over, they went forward to the kingdom of Rùtán, crossed the mountain of Yǎnglóu, and reached the emporium of Zhāngyè."
+      }
+    },
+    "confidence": 99,
+    "notes": "This one was tricky. Daban Shan is a well known mountain in this region. Confirming it's the same as Yang-low Mountain required a lot of searching for the original Chinese text's name for the mountain. I managed to find an article on haibeinews.com about a tunnel through Daban Shan which recently opened. The article clearly states that Daban Shan used to be known as Yang-low Mountain."
+  },
+  {
+    "name": {
+      "legge": "Emporium of Chang-yih",
+      "modern": "Emporium of Zhāngyè"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "張掖鎮",
+      "chineseSimplified": "张掖镇"
+    },
     "position": {
       "lat": 38.92895178099787,
       "lng": 100.44401981420901
     },
     "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": "Chang-yih",
+        "type": "county"
+      },
+      {
+        "name": "Kan-sŭh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Gānzhōu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Ganzhou_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Zhāngyè",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Zhangye",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gānsù",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1
+      },
+      "text": {
+        "legge": "When that was over, they went forward to the kingdom of Now-t’an, crossed the mountain of Yang-low, and reached the emporium of Chang-yih.",
+        "modern": "When that was over, they went forward to the kingdom of Rùtán, crossed the mountain of Yǎnglóu, and reached the emporium of Zhāngyè."
+      }
+    },
+    "confidence": 99,
+    "notes": "The Wikipedia entry for Zhangye confirms Chang-yih is the same city (although it uses the Wade-Giles spelling \"Changyeh\").  Ganzhou was chosen because it is the seat of Zhangye."
   },
   {
-    "name": "Dunhuang, Jiquan, Gansu, China",
+    "name": {
+      "legge": "T’un-hwang",
+      "modern": "Dūnhuáng"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "燉煌",
+      "chineseSimplified": "燉煌"
+    },
     "position": {
       "lat": 40.091425217302415,
       "lng": 94.68236364183417
     },
     "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Dūnhuáng",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Dunhuang",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Jiǔquán",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Jiuquan",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gānsù",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gansu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "Here they met with Che-yen, Hwuy-keen, Săng-shâo, Pâo-yun, and Săng-king; and in pleasant association with them, as bound on the same journey with themselves, they passed the summer retreat (of that year) together, resuming after it their travelling, and going on to T’un-hwang, (the chief town) in the frontier territory of defence extending for about 80 le from east to west, and about 40 from north to south."
+    },
+    "confidence": 99,
+    "notes": "Dunhuang has had the same name for a long long time. There are other versions of the name that start with T/Th."
   },
   {
-    "name": "Ruoqiang, Ruoqiang, Bayingolin, Xinjiang, China",
+    "name": {
+      "legge": "Shen-shen",
+      "modern": "Shànshàn"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "鄯善",
+      "chineseSimplified": "鄯善"
+    },
     "position": {
       "lat": 39.01490876089363,
       "lng": 88.15618887472078
     },
     "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Xīnjiāng",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Xinjiang",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 2
+      },
+      "text": null
+    }
   },
   {
-    "name": "Kuqa, Aksu, Xinjiang, China",
+    "name": {
+      "legge": "Woo-e",
+      "modern": "Wū⁠yí"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "烏⁠夷",
+      "chineseSimplified": "乌⁠夷"
+    },
     "position": {
       "lat": 41.85859891896489,
       "lng": 83.03166539580081
     },
     "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Xīnjiāng",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Xinjiang",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 2
+      },
+      "text": null
+    }
   },
   {
-    "name": "Hotan, Hotan, Xinjiang, China",
+    "name": {
+      "legge": "Yu-teen",
+      "modern": "Yútián"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "于闐",
+      "chineseSimplified": "于阗"
+    },
     "position": {
       "lat": 36.93461166815535,
       "lng": 79.87565469198228
     },
     "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Xīnjiāng",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Xinjiang",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": {
+      "name": "Gomati Monastery",
+      "links": [
+        null
+      ]
+    },
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 2
+      },
+      "text": null
+    },
+    "confidence": 99
   },
   {
-    "name": "Tashkurgan, Taxkorgan, Kashgar, Xinjiang, China",
+    "name": "Tsze-hoh",
+    "nonRomanizedName": {},
     "position": {
       "lat": 37.766925247131944,
       "lng": 75.2332648903199
     },
     "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Xīnjiāng",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Xinjiang",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 4
+      },
+      "text": null
+    }
   },
   {
-    "name": "Gilgit, Gilgit, Gilgit, Gilgit-Baltistan, Pakistan",
+    "name": "Yu-hwuy",
+    "nonRomanizedName": {},
     "position": {
       "lat": 35.915808729233845,
       "lng": 74.29197908984372
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Gilgit-Baltistan",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gilgit-Baltistan",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 4
+      },
+      "text": null
+    }
   },
   {
-    "name": "Skardu, Skardu, Baltistan, Gilgit-Baltistan, Pakistan",
+    "name": "K’eeh-ch’â",
+    "nonRomanizedName": {},
     "position": {
       "lat": 35.2945088968479,
       "lng": 75.62750135957026
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Gilgit-Baltistan",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gilgit-Baltistan",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 4
+      },
+      "text": null
+    }
   },
   {
-    "name": "Palas, Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan",
+    "name": "T’o-Ieih",
+    "nonRomanizedName": {},
     "position": {
       "lat": 35.10675968841741,
       "lng": 72.99755404011535
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Khyber Pakhtunkhwa",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 6
+      },
+      "text": null
+    }
   },
   {
-    "name": "Mingora, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan",
+    "name": "Woo-chang",
+    "nonRomanizedName": {},
     "position": {
       "lat": 34.77873338961653,
       "lng": 72.33334015655703
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Khyber Pakhtunkhwa",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 8
+      },
+      "text": null
+    }
   },
   {
-    "name": "Barikot, Swat, Malakand, Khyber Pakhtunkhwa, Pakistan",
+    "name": "Soo-ho-to",
+    "nonRomanizedName": {},
     "position": {
       "lat": 34.65169950508407,
       "lng": 72.21028088377693
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Khyber Pakhtunkhwa",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 8
+      },
+      "text": null
+    }
   },
   {
-    "name": "Takht Bhai, Mardan, Mardan, Kyber Pakhtunkhwa, Pakistan",
+    "name": "Gandhâra",
+    "nonRomanizedName": {},
     "position": {
       "lat": 34.16702387496293,
       "lng": 71.7220490760742
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Khyber Pakhtunkhwa",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 10
+      },
+      "text": null
+    }
   },
   {
-    "name": "Taxila, Rawalpindi, Rawalpindi, Punjab, Pakistan",
+    "name": "Takshaśilâ",
+    "nonRomanizedName": {},
     "position": {
       "lat": 33.73143909021518,
       "lng": 72.83341236977537
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Punjab",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Punjab,_Pakistan",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 11
+      },
+      "text": null
+    }
   },
   {
-    "name": "Peshawar, Peshawar, Peshawar, Kyber Pakhtunkhwa, Pakistan",
+    "name": "Purushapura",
+    "nonRomanizedName": {},
     "position": {
       "lat": 34.002496709436734,
       "lng": 71.57382729450865
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Khyber Pakhtunkhwa",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 12
+      },
+      "text": null
+    }
   },
   {
-    "name": "Jalalabad, Nangarhar, Afghanistan",
+    "name": "He-lo",
+    "nonRomanizedName": {},
     "position": {
       "lat": 34.36447187004159,
       "lng": 70.47714034997773
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Jalalabad",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Jalalabad",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nangarhar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Afghanistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Afghanistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 13
+      },
+      "text": null
+    },
+    "confidence": 30
   },
   {
-    "name": "Jalalabad, Nangarhar, Afghanistan",
+    "name": "Capital of Nagâra",
+    "nonRomanizedName": {},
     "position": {
       "lat": 34.411786302122465,
       "lng": 70.4702738948996
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Jalalabad",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Jalalabad",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nangarhar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Afghanistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Afghanistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 13
+      },
+      "text": null
+    },
+    "confidence": 30
   },
   {
-    "name": "Jalalabad, Nangarhar, Afghanistan",
+    "name": "Valley Near Capital of Nagâra",
+    "nonRomanizedName": {},
     "position": {
       "lat": 34.46530150459222,
       "lng": 70.54992477380586
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Jalalabad",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Jalalabad",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nangarhar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Afghanistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Afghanistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 13
+      },
+      "text": null
+    },
+    "confidence": 30
   },
   {
-    "name": "Khost, Khost, Afghanistan",
+    "name": {
+      "legge": "Little Snowy Mountains",
+      "modern": "Little Snowy Mountains"
+    },
+    "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 34.03816555379828,
+      "lng": 69.902430769975
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
-    "modernDestination": null,
-    "links": [],
-    "references": []
+    "modernPoliticalEntities": [
+      {
+        "name": "Paktia",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Paktia_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Afghanistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Afghanistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": {
+      "name": "Mount Sikaram",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mount_Sikaram",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 14,
+        "paragraph": 0,
+        "sentence": 0
+      },
+      "text": "HAVING stayed there till the third month of winter, Fâ-hien and the two others, proceeding southwards, crossed the Little Snowy mountains."
+    },
+    "confidence": 90,
+    "notes": "The corresponding footnote mentions the Safeid Koh and Kohat Pass. Kohat Pass is still called that today. Safeid Koh is definitely Safēd Kōh (Dari) or Spīn Ghar (Pashto). The tallest mountain in the range is Mount Sikaram. Seems like a good enough spot to mark the range."
   },
   {
-    "name": "Bannu, Bannu, Bannu, Kyber Pakhtunkhwa, Pakistan",
+    "name": "Lo-e",
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 33.33588649117381,
+      "lng": 69.92344623121339
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Khost",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khost",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Khost",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khost_(Matun)_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Khost",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khost_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Afghanistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Afghanistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 14,
+        "paragraph": 0,
+        "sentence": 6
+      },
+      "text": "He then again exerted himself, and they succeeded in crossing to the south of the range, and arrived in the kingdom of Lo-e, where there were nearly three thousand monks, students of both the mahâyâna and hînayâna."
+    },
+    "confidence": 5,
+    "notes": "This is largely just a guess. I've got no way of knowing for sure since all Wikipedia has about any of the towns in this area of the world involves the Second Anglo-Afghan war or the GWOT in Afghanistan. Nothing about ancient history. Not sure where to really begin here. May need to find specialist journals on the history of this part of Afghanistan and Pakistan. No idea if they even exist."
+  },
+  {
+    "name": "Poh-nâ",
+    "nonRomanizedName": {},
     "position": {
       "lat": 32.988315923725175,
       "lng": 70.60313980066132
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bannu",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bannu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bannu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bannu_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bannu",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bannu_Division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Khyber Pakhtunkhwa",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 14,
+        "paragraph": 0,
+        "sentence": 7
+      },
+      "text": "Here they stayed for the summer retreat, and when that was over, they went on to the south, and ten days’ journey brought them to the kingdom of Poh-nâ where there are also more than three thousand monks, all students of the hînayâna."
+    }
   },
   {
-    "name": "Bhera, Sargodha, Sargodha, Punjab, Pakistan",
+    "name": "Pe-t’oo",
+    "nonRomanizedName": {},
     "position": {
       "lat": 32.48134397940673,
       "lng": 72.8920924529076
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bhera",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bhera",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Sargodha",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Sargodha_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Sargodha",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Sargodha_Division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Punjab",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Punjab,_Pakistan",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Pakistan",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pakistan",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 15
+      },
+      "text": null
+    }
   },
   {
-    "name": "Mathura, Mathura, Agra, Uttar Pradesh, India",
+    "name": "Ma-t’âou-lo",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.494246295517122,
       "lng": 77.66572232846681
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 16
+      },
+      "text": null
+    }
   },
   {
-    "name": "Sankassa, Farrukhabad, Kanpur, Uttar Pradesh, India",
+    "name": "Saṅkâśya",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.33006113726599,
       "lng": 79.25747333120137
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 17
+      },
+      "text": null
+    }
   },
   {
-    "name": "Kannauj, Kannauj, Kanpur, Uttar Pradesh, India",
+    "name": "Kanyâkubja",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.04900858535046,
       "lng": 79.89687617923914
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 18
+      },
+      "text": null
+    }
   },
   {
-    "name": "?, ?, ?, Uttar Pradesh, India",
+    "name": "Â-le",
+    "nonRomanizedName": {},
     "position": {
       "lat": 0,
       "lng": 0
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 18
+      },
+      "text": null
+    }
   },
   {
-    "name": "Ayodhya, Faizabad, Faizabad, Uttar Pradesh, India",
+    "name": "Shâ-che",
+    "nonRomanizedName": {},
     "position": {
       "lat": 26.783630699664172,
       "lng": 82.18445324595723
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 19
+      },
+      "text": null
+    }
   },
   {
-    "name": "Shravasti, Shravasti, Devipatan, Uttar Pradesh, India",
+    "name": "Śrâvastî",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.507304072925685,
       "lng": 82.01523378327738
     },
-    "ancientPoliticalEntities": [],
+    "ancientPoliticalEntities": [
+      {
+        "name": "Kośala",
+        "type": "country"
+      }
+    ],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 20
+      },
+      "text": null
+    }
   },
   {
-    "name": "Padri, Shravasti, Devipatan, Uttar Pradesh, India",
+    "name": "Too-wei",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.493788556662818,
       "lng": 81.87964706678713
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 21
+      },
+      "text": null
+    }
   },
   {
-    "name": "Gotihawa, Kapilvastu, Province No. 5, Nepal",
+    "name": "Na-pei-keâ",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.50397427851355,
       "lng": 83.01952451857755
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Lumbini",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Lumbini_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nepal",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nepal",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 21
+      },
+      "text": null
+    }
   },
   {
-    "name": "Nigalihawa, Kapilvastu, Province No. 5, Nepal",
+    "name": "Town North of Na-pei-keâ",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.59332346636215,
       "lng": 83.07679240669472
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Lumbini",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Lumbini_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nepal",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nepal",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 21
+      },
+      "text": null
+    }
   },
   {
-    "name": "Taulihawa, Kapilvastu, Province No. 5, Nepal",
+    "name": "Kapilavastu",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.565003085219224,
       "lng": 83.03497404250334
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Lumbini",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Lumbini_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nepal",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nepal",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 22
+      },
+      "text": null
+    },
+    "confidence": 99
   },
   {
-    "name": "Lumbini, Rupandehi, Province No. 5, Nepal",
+    "name": "Lumbinî",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.46739298855394,
       "lng": 83.26571753232031
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Lumbini",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Lumbini_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nepal",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nepal",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 22
+      },
+      "text": null
+    },
+    "confidence": 99
   },
   {
-    "name": "Ramgram, Nawalparasi, Province No. 5, Nepal",
+    "name": "Râma",
+    "nonRomanizedName": {},
     "position": {
       "lat": 27.46739298855394,
       "lng": 83.26571753232031
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Lumbini",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Lumbini_Province",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nepal",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nepal",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 23
+      },
+      "text": null
+    }
   },
   {
-    "name": "Kushinagar, Kushinagar, Gorakhpur, Uttar Pradesh, India",
+    "name": {
+      "legge": "Tope Where the Buddha Sent Back Chaṇḍaka",
+      "modern": "Tope Where the Buddha Sent Back Chaṇḍaka"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 27.430118564185257,
+      "lng": 83.8474540303527
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 24
+      },
+      "text": null
+    }
+  },
+  {
+    "name": {
+      "legge": "Charcoal Tope",
+      "modern": "Charcoal Tope"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 26.986329333955293,
+      "lng": 84.393163000959
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": {
+      "name": "Lauria Nandangarh Stupa",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lauria_Nandangarh",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 24
+      },
+      "text": null
+    },
+    "confidence": 90
+  },
+  {
+    "name": "Kuśanagara",
+    "nonRomanizedName": {},
     "position": {
       "lat": 26.7430162374067,
       "lng": 83.87320193640551
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
-    "modernDestination": null,
-    "links": [],
-    "references": []
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": {
+      "name": "Parinirvana Stupa",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Parinirvana_Stupa",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 24
+      },
+      "text": null
+    }
   },
   {
-    "name": "Kolhua, Vaishali, Tirhut, Bihar, India",
+    "name": "Lichchhavis Pillar",
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 26.01437573246011,
+      "lng": 85.10791014553105
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": "Bassahar",
+        "type": "township"
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bakhra",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bakhra",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 24
+      },
+      "text": null
+    }
+  },
+  {
+    "name": "Kingdom of Vaišâl",
+    "nonRomanizedName": {},
     "position": {
       "lat": 26.014780548059537,
       "lng": 85.09495798243438
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 25
+      },
+      "text": null
+    }
   },
   {
-    "name": "?, ?, ?, Bihar, India",
+    "name": "Bows and Weapons Laid Down Tope",
+    "nonRomanizedName": {},
     "position": {
       "lat": 0,
       "lng": 0
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 25
+      },
+      "text": null
+    }
   },
   {
-    "name": "Patna, Patna, Patna, Bihar, India",
+    "name": {
+      "legge": "Confluence of the Five Rivers",
+      "modern": "Confluence of the Five Rivers"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 26.43949179955901,
+      "lng": 79.21217655298437
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Anhatha",
+        "type": "township"
+      },
+      {
+        "name": "Etawah",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Etawah_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kanpur",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kanpur_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": {
+      "name": "Pachnada",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pachnada",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 26,
+        "paragraph": 0,
+        "sentence": 0
+      },
+      "text": "FOUR yojanas on from this place to the east brought the travellers to the confluence of the five rivers."
+    },
+    "confidence": 97,
+    "notes": "I'm not sure about the precise location of this place, but it's gotta be very nearby. Keshav Kashmiri's Quora question titled, \"Where is the place in India where five rivers meet?\" was answered very clearly by Deb P. Choudhury. The Kunwari, Pahuj, Yamuna, Chambel, and Sindh rivers all meet around the same place. Obviously not all in one spot, but all within an 8 or 9 mile wide region in Etawah District, Uttar Pradesh, India."
+  },
+  {
+    "name": "Pâṭaliputtra",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.600334733413224,
       "lng": 85.17480100122827
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 27
+      },
+      "text": null
+    }
   },
   {
-    "name": "Patna, Patna, Patna, Bihar, India",
+    "name": "Ne-le",
+    "nonRomanizedName": {},
     "position": {
       "lat": 0,
       "lng": 0
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 27
+      },
+      "text": null
+    }
   },
   {
-    "name": "Giriyak, Nalanda, Patna, Bihar, India",
+    "name": "Indra-śila-guhâ",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.021011866415765,
       "lng": 85.4992275630334
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 28
+      },
+      "text": null
+    }
   },
   {
-    "name": "Bargaon, Nalanda, Patna, Bihar, India",
+    "name": "Nâla",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.146201055831895,
       "lng": 85.42835071494505
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 28
+      },
+      "text": null
+    }
   },
   {
-    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "name": "New Râjagṛiha",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.018748635180835,
       "lng": 85.4032881539099
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
-    "modernDestination": null,
-    "links": [],
-    "references": []
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": {
+      "name": "Ajâtaśatru's Tope",
+      "links": [
+        null
+      ]
+    },
+    "modernDestination": {
+      "name": "Ajatashatru Stupa",
+      "links": [
+        null
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 28
+      },
+      "text": null
+    }
   },
   {
-    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "name": "Gṛidhra-kûṭa",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.011304665466987,
       "lng": 85.4332480868809
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 29
+      },
+      "text": null
+    }
   },
   {
-    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "name": {
+      "legge": "Cave Where the Buddha Sat in Meditation",
+      "modern": "Cave Where the Buddha Sat in Meditation"
+    },
+    "nonRomanizedName": {},
     "position": {
-      "lat": 25.005060701273067,
-      "lng": 85.43872566517189
+      "lat": 25.002150511205375,
+      "lng": 85.44678377998285
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
-    "modernDestination": null,
-    "links": [],
-    "references": []
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": {
+      "name": "Sugarakhata Cave",
+      "links": [
+        null
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 29
+      },
+      "text": null
+    }
   },
   {
-    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "name": {
+      "legge": "Vulture Cavern",
+      "modern": "Vulture Cavern"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 25.00165278704919,
+      "lng": 85.44648722513365
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": {
+      "name": "Vulture Peak",
+      "links": [
+        null
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 29
+      },
+      "text": null
+    }
+  },
+  {
+    "name": "Where Devadatta Threw a Rock at the Buddha",
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 25.00342213959736,
+      "lng": 85.44360177047976
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 29,
+        "paragraph": 1,
+        "sentence": 2
+      },
+      "text": "At the place where in front of his rocky apartment Buddha was walking from east to west (in meditation), and Devadatta, from among the beetling cliffs on the north of the mountain, threw a rock across, and hurt Buddha’s toes, the rock is still there."
+    },
+    "confidence": 90,
+    "notes": "I'm sure it had to be around here somewhere. This is a high up spot according to google maps terrain layer. Seems like a good a place as any."
+  },
+  {
+    "name": {
+      "legge": "Karaṇḍa Veṇuvana",
+      "modern": "Venu Van"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 25.01547566828733,
+      "lng": 85.41935425864358
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": {
+      "name": "Venu Van",
+      "links": [
+        {
+          "url": "https://www.indianetzone.com/76/venuvana.htm"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 30
+      },
+      "text": null
+    }
+  },
+  {
+    "name": "The Śmaśânam",
+    "nonRomanizedName": {},
     "position": {
       "lat": 0,
       "lng": 0
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 30
+      },
+      "text": null
+    }
   },
   {
-    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "name": "Pippala Cave",
+    "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 25.012176175496776,
+      "lng": 85.41785996096175
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
-    "modernDestination": null,
-    "links": [],
-    "references": []
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": {
+      "name": "Jarasandha ki Baithak",
+      "links": [
+        {
+          "url": "https://tourism.bihar.gov.in/en/destinations/nalanda/pipala-cave",
+          "text": "Bihar Tourism"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 30
+      },
+      "text": null
+    }
   },
   {
-    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "name": "Śrataparṇa Cave",
+    "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 25.00712084061999,
+      "lng": 85.4107398798052
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 30
+      },
+      "text": null
+    }
   },
   {
-    "name": "Rajgir, Nalanda, Patna, Bihar, India",
+    "name": "Devadatta's Dwelling",
+    "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 24.999023896675084,
+      "lng": 85.43483022082559
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
-  },
-  {
-    "name": "Rajgir, Nalanda, Patna, Bihar, India",
-    "position": {
-      "lat": 0,
-      "lng": 0
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 30,
+        "paragraph": 4,
+        "sentence": 1
+      },
+      "text": "As you leave the old city on the north, and go down east for three le, there is the rock dwelling of Devadatta, and at a distance of fifty paces from it there is a large, square, black rock."
     },
-    "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
-    "modernDestination": null,
-    "links": [],
-    "references": []
+    "confidence": 60,
+    "notes": "According to buddhanet.net Devadatta's cave is called Makdum Kund. Shravasti Dhammika's 2008 blog pot identifies Makdum Kund as likely to be Devadatta's dwelling. The Bhikkhu seems to be too cautious to confidently assert that Makdum Kund matches up with the place in Faxian's narrative. Initially I thought his caution was unwarranted. But Anand Singh makes a convincing case in \"Giriyaka Hilltop Buddhist\nMonastic Complex (Rajgir): Understanding Antiquarian Remains and Physical Spaces\" that this cave is not correct. Instead he identifies a cave south of Rajgir. Unfortunately he doesn't give the precise location. The spot I have chosen is probably pretty far off, but it for sure had to be somewhere between Rajgir and the Panchane River."
   },
   {
-    "name": "Gaya, Gaya, Magadh, Bihar, India",
+    "name": "Gayâ",
+    "nonRomanizedName": {},
     "position": {
       "lat": 24.78969479649287,
       "lng": 84.98467590145651
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 31
+      },
+      "text": null
+    },
+    "confidence": 99
   },
   {
-    "name": "Bodh Gaya, Gaya, Magadh, Bihar, India",
+    "name": "Forest South of Gayâ",
+    "nonRomanizedName": {},
     "position": {
       "lat": 24.696962894699446,
       "lng": 84.9659879247863
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 31
+      },
+      "text": null
+    },
+    "confidence": 99
   },
   {
-    "name": "Gurpa, Gaya, Magadh, Bihar, India",
+    "name": "Gurupada Mountain",
+    "nonRomanizedName": {},
     "position": {
       "lat": 24.548687563998897,
       "lng": 85.2906752102283
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 33
+      },
+      "text": null
+    }
   },
   {
-    "name": "Patna, Patna, Patna, Bihar, India",
+    "name": "Pâṭaliputtra",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.600334733413224,
       "lng": 85.17480100122827
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 34
+      },
+      "text": null
+    }
   },
   {
-    "name": "?, ?, ?, Bihar, India",
+    "name": "\"The Wilderness\" Vihara",
+    "nonRomanizedName": {},
     "position": {
       "lat": 0,
       "lng": 0
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 34
+      },
+      "text": null
+    }
   },
   {
-    "name": "Varanasi, Varanasi, Varanasi, Uttar Pradesh, India",
+    "name": "Vârâṇasî",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.311619542229757,
       "lng": 82.96152352056333
     },
-    "ancientPoliticalEntities": [],
+    "ancientPoliticalEntities": [
+      {
+        "name": "Kâśî",
+        "type": "country"
+      }
+    ],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 34
+      },
+      "text": null
+    }
   },
   {
-    "name": "Sarnath, Varanasi, Varanasi, Uttar Pradesh, India",
+    "name": "The Park of the Ṛishi’s Deer-wild",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.37185416787389,
       "lng": 83.00546883306333
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 34
+      },
+      "text": null
+    }
   },
   {
-    "name": "Kosam Khiraj, Kaushambi, Prayagraj, Uttar Pradesh, India",
+    "name": "Ghochiravana Vihâra",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.340593900335598,
       "lng": 81.36565102487407
     },
-    "ancientPoliticalEntities": [],
+    "ancientPoliticalEntities": [
+      {
+        "name": "Kauśâmbî",
+        "type": "country"
+      }
+    ],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 34
+      },
+      "text": null
+    }
   },
   {
-    "name": "?, ?, ?, ?, India",
+    "name": {
+      "legge": "Where the Buddha Converted the Evil Demon",
+      "modern": "Where the Buddha Converted the Evil Demon"
+    },
+    "nonRomanizedName": {},
     "position": {
       "lat": 0,
       "lng": 0
     },
-    "ancientPoliticalEntities": [],
+    "ancientPoliticalEntities": [
+      {
+        "name": {
+          "modern": "Āḷavī"
+        },
+        "type": "township"
+      }
+    ],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 34
+      },
+      "text": null
+    }
   },
   {
-    "name": "Patna, Patna, Patna, Bihar, India",
+    "name": "Pâṭaliputtra",
+    "nonRomanizedName": {},
     "position": {
-      "lat": 25.600334733413224,
-      "lng": 85.17480100122827
+      "lat": 25.593751096592946,
+      "lng": 85.13761656022503
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Patna",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 36,
+        "paragraph": 0,
+        "sentence": 0
+      },
+      "text": "FROM Varanasi (the travellers) went back east to Pâṭaliputtra."
+    }
   },
   {
-    "name": "Champanagar, Nathnagar, Bhagalpur, Bihar, India",
+    "name": "Champâ",
+    "nonRomanizedName": {},
     "position": {
       "lat": 25.248716707163823,
       "lng": 86.918446321582
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 37
+      },
+      "text": null
+    }
   },
   {
-    "name": "Tamluk, Purba Medinipur, Medinipur, West Bengal, India",
+    "name": {
+      "legge": "Tâmaliptî",
+      "modern": "Tāmraliptī"
+    },
+    "nonRomanizedName": {},
     "position": {
       "lat": 22.277762973128496,
       "lng": 87.91568685806817
     },
+    "ancientPoliticalEntities": [
+      {
+        "name": {
+          "legge": "Tâmaliptî",
+          "modern": "Tāmraliptī"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Tamralipta",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 37
+      },
+      "text": null
+    }
+  },
+  {
+    "name": {
+      "legge": "Abhayagiri",
+      "modern": "Abhayagiri"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 8.369206711644521,
+      "lng": 80.39628403105795
+    },
+    "ancientPoliticalEntities": [
+      {
+        "name": "Singhala",
+        "type": "county"
+      }
+    ],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Anuradhapura",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Anuradhapura",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Anuradhapura",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Anuradhapura_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "North Central",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/North_Central_Province,_Sri_Lanka",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Sri Lanka",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Sri_Lanka",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 38
+      },
+      "text": null
+    }
+  },
+  {
+    "name": {
+      "legge": "Chaitya",
+      "modern": "Kantaka Cetiya"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 8.351052066439372,
+      "lng": 80.51843880622751
+    },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
-    "modernPoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Sri Lanka",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Sri_Lanka",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": {
+      "name": {
+        "legge": "Chaitya",
+        "modern": "Chaitya"
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mihintale",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "modernDestination": {
+      "name": "Mihintale",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mihintale",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 38
+      },
+      "text": null
+    }
+  },
+  {
+    "name": {
+      "legge": "Mahâ-vihâra",
+      "modern": "Mahâvihâra"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 8.344736805249184,
+      "lng": 80.39720462816337
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Sri Lanka",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Sri_Lanka",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": {
+      "name": {
+        "legge": "Anuradhapura Maha Viharaya",
+        "modern": "Anuradhapura Maha Viharaya"
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anuradhapura_Maha_Viharaya",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "modernDestination": {
+      "name": "Anuradhapura Maha Viharaya",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anuradhapura_Maha_Viharaya",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 39,
+        "paragraph": 0,
+        "sentence": 0
+      },
+      "text": "SOUTH of the city seven le there is a vihâra, called the Mahâ-vihâra, where 3000 monks reside."
+    },
+    "confidence": 99,
+    "notes": "This place is easily confirmed by the Wikipedia entry for it and the official webite of the temple which is still present today."
+  },
+  {
+    "name": {
+      "legge": "Unnamed Island",
+      "modern": "Unnamed Island"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 8.009014543184485,
+      "lng": 93.33508280825767
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Jhoola",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Jhoola,_Nancowry",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nancowry",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nancowry_tehsil",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nicobar",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nicobar_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Andaman and Nicobar Islands",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "India",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/India",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
     "modernDestination": null,
-    "links": [],
-    "references": []
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 40,
+        "paragraph": 1,
+        "sentence": 0
+      },
+      "text": "In this way the tempest continued day and night, till on the thirteenth day the ship was carried to the side of an island, where, on the ebbing of the tide, the place of the leak was discovered, and it was stopped, on which the voyage was resumed."
+    },
+    "confidence": 1,
+    "notes": "This is just a guess. It could be just about anywhere in the Bay of Bengal or the Andaman Sea. It's unlikely it was further south towards Java. It was 16 days from Sri Lanka and roughly 90 days to Java so it seems probable his ship only made it as far as the Andaman and Nicobar Islands at this point in the narrative. I have chosen this island because it's far away from the mainland and from Sumatra. Some of the other islands in this chain would have been very close to Sumatra and from the narrative it sounds like they didn't get close to land until arriving at Java."
+  },
+  {
+    "name": {
+      "legge": "Java-dvîpa",
+      "modern": "Java-dvîpa"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": -6.98792236645769,
+      "lng": 106.54260901787478
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [],
+    "modernPoliticalEntities": [
+      {
+        "name": "Palabuhanratu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Palabuhanratu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Sukabumi Regency",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Sukabumi_Regency",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "West Java",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/West_Java",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Indonesia",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Indonesia",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 40,
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "After proceeding in this way for rather more than ninety days, they arrived at a country called Java-dvîpa, where various forms of error and Brahmanism are flourishing, while Buddhism in it is not worth speaking of."
+    },
+    "confidence": 35,
+    "notes": "Java is for sure Java-dvipa. The Wikipedia entry for Tarumanagara indicates that it is likely Faxian landed on the western part of the island. This assertion is presented without evidence but I agree. The Taruma kingdom was the first (not sure about this actually, need to find a history of Java) to arise on Java, not long after Faxian's visit. Given the location of Tarumanagara on Java it's reasonable to assume that the western tip of the island was inhabited about a generation before Faxian's visit. Pelabuhanratu seems like a good a spot as any. But really it could have been anywhere on the island."
+  },
+  {
+    "name": {
+      "legge": "Mount Lâo",
+      "modern": "Mount Láo"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "牢山",
+      "chineseSimplified": "牢山"
+    },
+    "position": {
+      "lat": 36.12388426477142,
+      "lng": 120.6087275949692
+    },
+    "ancientPoliticalEntities": [
+      {
+        "name": "Ch’ang-kwang",
+        "type": "prefecture"
+      },
+      {
+        "name": "Ts’ing-chow",
+        "type": "country"
+      }
+    ],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Qīngdǎo",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Qingdao",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Shāndōng",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Shandong",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": {
+      "name": {
+        "legge": "Mount Lâo",
+        "modern": "Mount Láo"
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mount_Lao",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "modernDestination": {
+      "name": "Mount Láo",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mount_Lao",
+          "text": "Wikipedia"
+        }
+      ]
+    },
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 40
+      },
+      "text": null
+    },
+    "confidence": 99
+  },
+  {
+    "name": {
+      "legge": "Ts’ing-chow",
+      "modern": "Qīngzhōu"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "青州",
+      "chineseSimplified": "青州"
+    },
+    "position": {
+      "lat": 36.68477766956788,
+      "lng": 118.48026407868124
+    },
+    "ancientPoliticalEntities": [
+      {
+        "name": {
+          "legge": "Ts’ing-chow",
+          "modern": "Qīngzhōu"
+        },
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Qingzhou_(ancient_China)",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Qīngzhōu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Qingzhou",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Wéifāng",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Weifang",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Shāndōng",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Shandong",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 40,
+        "paragraph": 6,
+        "sentence": 2
+      },
+      "text": "From the sandy desert westwards on to India, the beauty of the dignified demeanour of the monkhood and of the transforming influence of the Law was beyond the power of language fully to describe; and reflecting how our masters had not heard any complete account of them, he therefore (went on) without regarding his own poor life, or (the dangers to be encountered) on the sea upon his return, thus incurring hardships and difficulties in a double form."
+    },
+    "confidence": 99,
+    "notes": "The Wikipedia entry for Qingzhou confirms this is the correct location."
+  },
+  {
+    "name": {
+      "legge": "Nan-king",
+      "modern": "Nánjīng"
+    },
+    "nonRomanizedName": {},
+    "position": {
+      "lat": 32.05833354267081,
+      "lng": 118.79651188777548
+    },
+    "ancientPoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": {
+          "legge": "China",
+          "modern": "China"
+        },
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "modernPoliticalEntities": [
+      {
+        "name": "Nánjīng",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nanjing",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Jiāngsū",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Jiangsu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "China",
+        "type": "country",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/China",
+          "text": "Wikipedia"
+        }
+      }
+    ],
+    "ancientDestination": null,
+    "modernDestination": null,
+    "ancientRuler": null,
+    "reference": {
+      "location": {
+        "chapter": 40,
+        "paragraph": 5,
+        "sentence": 2
+      },
+      "text": "On this the merchants went back in the direction of Yang-chow; (but) when (Fâ-hien) arrived at Ts’ing-chow, (the prefect there) begged him (to remain with him) for a winter and a summer."
+    },
+    "confidence": 99,
+    "notes": "Nanking was renamed Nanjing in. It's long history is extensively documented."
   }
 ]
