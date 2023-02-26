@@ -103,5 +103,25 @@
         "text": "Internet Archive"
       }
     ]
+  },
+  {
+    "authors": [
+      {
+        "firstName": "Anand",
+        "lastName": "Singh"
+      }
+    ],
+    "title": "Giriyaka Hilltop Buddhist Monastic Complex (Rajgir): Understanding Antiquarian Remains and Physical Spaces",
+    "journal": "Ancient Asia, 12, 13",
+    "publisher": "Ubiquity Press",
+    "location": ["London"],
+    "year": "2021",
+    "doi": "https://doi.org/10.5334/aa.251",
+    "links": [
+      {
+        "url": "https://www.ancient-asia-journal.com/articles/10.5334/aa.251/",
+        "text": "Ancient Asia Journal"
+      }
+    ]
   }
 ]
