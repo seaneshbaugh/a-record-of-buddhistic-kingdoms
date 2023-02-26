@@ -43,9 +43,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Reads an xlsx file with site's data and outputs the data as JSON.
 
-    $ npm run import places -- -v -f ~/arecordofbuddhistickingdoms.xlsx
+    $ npm run import places -- -v -f src/data/a-record-of-buddhistic-kingdoms.xlsx
 
-    $ npm run import people -- -v -f ~/arecordofbuddhistickingdoms.xlsx
+    $ npm run import people -- -v -f src/data/a-record-of-buddhistic-kingdoms.xlsx
 
 ## Learn More
 
