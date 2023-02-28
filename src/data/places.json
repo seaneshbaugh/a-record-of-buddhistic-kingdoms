@@ -806,6 +806,30 @@
     ],
     "modernPoliticalEntities": [
       {
+        "name": "Ruòqiāng",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Ruoqiang_Town",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Ruòqiāng",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Ruoqiang_County",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bayingolin",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bayingolin_Mongol_Autonomous_Prefecture",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Xīnjiāng",
         "type": "province",
         "link": {
@@ -827,9 +851,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 2
+        "chapter": 2,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "AFTER travelling for seventeen days, a distance we may calculate of about 1500 le, (the pilgrims) reached the kingdom of Shen-shen, a country rugged and hilly, with a thin and barren soil."
     }
   },
   {
@@ -861,6 +887,22 @@
     ],
     "modernPoliticalEntities": [
       {
+        "name": "Kuqa",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kuqa,_Xinjiang",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Aksu",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Aksu_Prefecture",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Xīnjiāng",
         "type": "province",
         "link": {
@@ -882,9 +924,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 2
+        "chapter": 2,
+        "paragraph": 0,
+        "sentence": 6
       },
-      "text": null
+      "text": "Here they stayed for about a month, and then proceeded on their journey, fifteen days walking to the north-west bringing them to the country of Woo-e."
     }
   },
   {
@@ -916,6 +960,22 @@
     ],
     "modernPoliticalEntities": [
       {
+        "name": "Hotan",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Hotan",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Hotan",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Hotan_Prefecture",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Xīnjiāng",
         "type": "province",
         "link": {
@@ -942,9 +1002,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 2
+        "chapter": 2,
+        "paragraph": 0,
+        "sentence": 13
       },
-      "text": null
+      "text": "The difficulties which they encountered in crossing the streams and on their route, and the sufferings which they endured, were unparalleled in human experience, but in the course of a month and five days they succeeded in reaching Yu-teen."
     },
     "confidence": 99
   },
@@ -971,6 +1033,30 @@
     ],
     "modernPoliticalEntities": [
       {
+        "name": "Tashkurgan",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Tashkurgan",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Taxkorgan",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Taxkorgan_Tajik_Autonomous_County",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kashgar",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kashgar_Prefecture",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Xīnjiāng",
         "type": "province",
         "link": {
@@ -992,9 +1078,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 4
+        "chapter": 4,
+        "paragraph": 0,
+        "sentence": 1
       },
-      "text": null
+      "text": "Fâ-hien and the others went forward to the kingdom of Tsze-hoh, which it took them twenty-five days to reach."
     }
   },
   {
@@ -1008,6 +1096,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Gilgit",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gilgit",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gilgit",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gilgit_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gilgit",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gilgit_Division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Gilgit-Baltistan",
         "type": "province",
         "link": {
@@ -1029,9 +1141,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 4
+        "chapter": 4,
+        "paragraph": 0,
+        "sentence": 3
       },
-      "text": null
+      "text": "Here (the travellers) abode fifteen days, and then went south for four days, when they found themselves among the Ts’ung-Iing mountains, and reached the country of Yu-hwuy, where they halted and kept their retreat."
     }
   },
   {
@@ -1045,6 +1159,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Skardu",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Skardu",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Skardu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Skardu_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Baltistan",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Baltistan_Division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Gilgit-Baltistan",
         "type": "province",
         "link": {
@@ -1066,9 +1204,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 4
+        "chapter": 4,
+        "paragraph": 0,
+        "sentence": 4
       },
-      "text": null
+      "text": "When this was over, they went on among the hills for twenty-five days, and got to K’eeh-ch’â, there rejoining Hwuy-king and his two companions."
     }
   },
   {
@@ -1081,6 +1221,30 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Palas",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Palas_Valley",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kolai-Palas",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kolai-Palas_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Hazara",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Hazara_Division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Khyber Pakhtunkhwa",
         "type": "province",
@@ -1103,9 +1267,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 6
+        "chapter": 6,
+        "paragraph": 0,
+        "sentence": 5
       },
-      "text": null
+      "text": "When (the travellers) had got through them, they were in North India, and immediately on entering its borders, found themselves in a small kingdom called T’o-Ieih, where also there were many monks, all students of the hînayâna."
     }
   },
   {
@@ -1140,9 +1306,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 8
+        "chapter": 8,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "AFTER crossing the river, (the travellers) immediately came to the kingdom of Woo-chang, which is indeed (a part) of North India."
     }
   },
   {
@@ -1177,9 +1345,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 8
+        "chapter": 8,
+        "paragraph": 2,
+        "sentence": 1
       },
-      "text": null
+      "text": "That over, they descended south, and arrived in the country of Soo-ho-to."
     }
   },
   {
@@ -1214,9 +1384,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 10
+        "chapter": 10,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "THE travellers, going downwards from this towards the east, in five days came to the country of Gandhâra, the place where Dharma-vivardhana, the son of Aśoka, ruled."
     }
   },
   {
@@ -1251,9 +1423,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 11
+        "chapter": 11,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "SEVEN days’ journey from this to the east brought the travellers to the kingdom of Takshaśilâ, which means ‘the severed head’ in the language of China."
     }
   },
   {
@@ -1288,9 +1462,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 12
+        "chapter": 12,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "GOING southwards from Gândhâra, (the travellers) in four days arrived at the kingdom of Purushapura."
     }
   },
   {
@@ -1333,9 +1509,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 13
+        "chapter": 13,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "GOING west for sixteen yojanas, he came to the city He-lo in the borders of the country of Nagâra, where there is the flat-bone of Buddha’s skull, deposited in a vihâra adorned all over with gold-leaf and the seven sacred substances."
     },
     "confidence": 30
   },
@@ -1379,9 +1557,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 13
+        "chapter": 13,
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": null
+      "text": "Going on, north from this, for a yojana, (Fâ-hien) arrived at the capital of Nagâra, the place where the Bodhisattva once purchased with money five stalks of flowers, as an offering to the Dîpâṅkara Buddha."
     },
     "confidence": 30
   },
@@ -1425,9 +1605,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 13
+        "chapter": 13,
+        "paragraph": 2,
+        "sentence": 0
       },
-      "text": null
+      "text": "A yojana to the north-east of the city brought him to the mouth of a valley, where there is Buddha’s pewter staff; and a vihâra also has been built at which offerings are made."
     },
     "confidence": 30
   },
@@ -1659,9 +1841,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 15
+        "chapter": 15,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "AFTER they had crossed the river, there was a country named Pe-t’oo, where Buddhism was very flourishing, and (the monks) studied both the mahâyâna and hînayâna."
     }
   },
   {
@@ -1696,9 +1880,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 16
+        "chapter": 16,
+        "paragraph": 0,
+        "sentence": 1
       },
-      "text": null
+      "text": "After passing all these places, they came to a country named Ma-t’âou-lo."
     }
   },
   {
@@ -1733,9 +1919,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 17
+        "chapter": 17,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "FROM this they proceeded south-east for eighteen yojanas, and found themselves in a kingdom called Saṅkâśya, at the place where Buddha came down, after ascending to the Trayastriṃśas heaven, and there preaching for three months his Law for the benefit of his mother."
     }
   },
   {
@@ -1770,9 +1958,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 18
+        "chapter": 18,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "FÂ-HIEN Stayed at the Dragon vihâra till after the summer retreat, and then, travelling to the south-east for seven yojanas, he arrived at the city of Kanyâkubja, lying along the Ganges."
     }
   },
   {
@@ -1807,9 +1997,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 18
+        "chapter": 18,
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": null
+      "text": "Having crossed the Ganges, and gone south for three yojanas, (the travellers) arrived at a village named Â-le, containing places where Buddha preached the Law, where he sat, and where he walked, at all of which topes have been built."
     }
   },
   {
@@ -1844,9 +2036,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 19
+        "chapter": 19,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "GOING on from this to the south-east for three yojanas, they came to the great kingdom of Shâ-che."
     }
   },
   {
@@ -1886,9 +2080,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 20
+        "chapter": 20,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "GOING on from this to the south, for eight yojanas, (the travellers) came to the city of Śrâvastî in the kingdom of Kośala, in which the inhabitants were few and far between, amounting in all (only) to a few more than two hundred families; the city where king Prasenajit ruled, and the place of the old vihâra of Mahâ-prajâpatî; of the well and walls of (the house of) the (Vaiśya) head Sudatta; and where the Aṅgulimâlya became an Arhat, and his body was (afterwards) burned on his attaining to pari-nirvâṇa."
     }
   },
   {
@@ -1923,9 +2119,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 21
+        "chapter": 21,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "FIFTY le to the west of the city bring (the traveller) to a town named Too-wei, the birthplace of Kâśyapa Buddha."
     }
   },
   {
@@ -1960,9 +2158,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 21
+        "chapter": 21,
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": null
+      "text": "Going on south-east from the city of Śrâvasti for twelve yojanas, (the travellers) came to a town named Na-pei-keâ, the birthplace of Krakuchanda Buddha."
     }
   },
   {
@@ -1997,9 +2197,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 21
+        "chapter": 21,
+        "paragraph": 1,
+        "sentence": 2
       },
-      "text": null
+      "text": "Going north from here less than a yojana, they came to a town which had been the birthplace of Kanakamuni Buddha."
     }
   },
   {
@@ -2034,9 +2236,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 22
+        "chapter": 22,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "LESS than a yojana to the east from this brought them to the city of Kapilavastu; but in it there was neither king nor people."
     },
     "confidence": 99
   },
@@ -2072,9 +2276,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 22
+        "chapter": 22,
+        "paragraph": 2,
+        "sentence": 0
       },
-      "text": null
+      "text": "Fifty le east from the city was a garden, named Lumbinî, where the queen entered the pond and bathed."
     },
     "confidence": 99
   },
@@ -2110,9 +2316,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 23
+        "chapter": 23,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "EAST from Buddha’s birthplace, and at a distance of five yojanas, there is a kingdom called Râma."
     }
   },
   {
@@ -2142,9 +2350,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 24
+        "chapter": 24,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "EAST from here four yojanas, there is the place where the heir-apparent sent back Chaṇḍaka, with his white horse; and there also a tope was erected."
     }
   },
   {
@@ -2182,9 +2392,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 24
+        "chapter": 24,
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": null
+      "text": "Four yojanas to the east from this, (the travellers) came to the Charcoal tope, where there is also a monastery."
     },
     "confidence": 90
   },
@@ -2220,9 +2432,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 24
+        "chapter": 24,
+        "paragraph": 2,
+        "sentence": 0
       },
-      "text": null
+      "text": "Going on twelve yojanas, still to the east, they came to the city of Kuśanagara, on the north of which, between two trees, on the bank of the Nairañjana river, is the place where the World-honoured one, with his head to the north, attained to pari-nirvâṇa (and died)."
     }
   },
   {
@@ -2262,9 +2476,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 24
+        "chapter": 24,
+        "paragraph": 4,
+        "sentence": 1
       },
-      "text": null
+      "text": "There a stone pillar was erected with an account of this event engraved upon it."
     }
   },
   {
@@ -2299,9 +2515,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 25
+        "chapter": 25,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "EAST from this city ten yojanas, (the travellers) came to the kingdom of Vaišâlî."
     }
   },
   {
@@ -2336,9 +2554,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 25
+        "chapter": 25,
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": null
+      "text": "Three le north-west of the city there is a tope called, 'Bows and weapons laid down.’"
     }
   },
   {
@@ -2445,9 +2665,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 27
+        "chapter": 27,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "HAVING crossed the river, and descended south for a yojana, (the travellers) came to the town of Pâṭaliputtra, in the kingdom of Magadha, the city where king Aśoka ruled."
     }
   },
   {
@@ -2482,9 +2704,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 27
+        "chapter": 27,
+        "paragraph": 6,
+        "sentence": 3
       },
-      "text": null
+      "text": "North from the tope 300 or 400 paces, king Aśoka built the city of Ne-le."
     }
   },
   {
@@ -2519,9 +2743,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 28
+        "chapter": 28,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "(THE travellers) went on from this to the south-east for nine yojanas, and came to a small solitary rocky hill, at the head or end of which was an apartment of stone, facing the south,—the place where Buddha sat, when Śakra, Ruler of Devas, brought the deva-musician, Pañcha-(śikha), to give pleasure to him by playing on his lute."
     }
   },
   {
@@ -2556,9 +2782,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 28
+        "chapter": 28,
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": null
+      "text": "A yojana south-west from this place brought them to the village of Nâla, where Śâriputtra was born, and to which also he returned, and attained here his pari-nirvâṇa."
     }
   },
   {
@@ -2603,9 +2831,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 28
+        "chapter": 28,
+        "paragraph": 2,
+        "sentence": 0
       },
-      "text": null
+      "text": "Another yojana to the west brought them to New Râjagṛiha,—the new city which was built by king Ajâtaśatru."
     }
   },
   {
@@ -2640,9 +2870,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 29
+        "chapter": 29,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "ENTERING the valley, and keeping along the mountains on the south-east, after ascending fifteen le, (the travellers) came to mount Gṛidhra-kûṭa."
     }
   },
   {
@@ -2685,9 +2917,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 29
+        "chapter": 29,
+        "paragraph": 0,
+        "sentence": 1
       },
-      "text": null
+      "text": "Three le before you reach the top, there is a cavern in the rocks, facing the south, in which Buddha sat in meditation."
     }
   },
   {
@@ -2730,9 +2964,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 29
+        "chapter": 29,
+        "paragraph": 0,
+        "sentence": 2
       },
-      "text": null
+      "text": "Thirty paces to the north-west there is another, where Ananda was sitting in meditation, when the deva Mâra Piśuna, having assumed the form of a large vulture, took his place in front of the cavern, and frightened the disciple."
     }
   },
   {
@@ -2818,9 +3054,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 30
+        "chapter": 30,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "OUT from the old city, after walking over 300 paces, on the west of the road, (the travellers) found the Karaṇḍa Bamboo garden, where the (old) vihâra is still in existence, with a company of monks, who keep (the ground about it) swept and watered."
     }
   },
   {
@@ -2855,9 +3093,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 30
+        "chapter": 30,
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": null
+      "text": "North of the vihâra two or three le there was the Śmaśânam, which name means in Chinese ‘the field of graves into which the dead are thrown.’"
     }
   },
   {
@@ -2900,9 +3140,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 30
+        "chapter": 30,
+        "paragraph": 2,
+        "sentence": 0
       },
-      "text": null
+      "text": "As they kept along the mountain on the south, and went west for 300 paces, they found a dwelling among the rocks, named the Pippala cave, in which Buddha regularly sat in meditation after taking his (midday) meal."
     }
   },
   {
@@ -2937,9 +3179,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 30
+        "chapter": 30,
+        "paragraph": 3,
+        "sentence": 0
       },
-      "text": null
+      "text": "Going on still to the west for five or six le, on the north of the hill, in the shade, they found the cavern called Śrataparṇa, the place where, after the nirvâṇa of Buddha, 500 Arhats collected the Sûtras."
     }
   },
   {
@@ -3015,9 +3259,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 31
+        "chapter": 31,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "FROM this place, after travelling to the west for four yojanas, (the pilgrims) came to the city of Gayâ; but inside the city all was emptiness and desolation."
     },
     "confidence": 99
   },
@@ -3053,9 +3299,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 31
+        "chapter": 31,
+        "paragraph": 0,
+        "sentence": 1
       },
-      "text": null
+      "text": "Going on again to the south for twenty le, they arrived at the place where the Bodhisattva for six years practised with himself painful austerities."
     },
     "confidence": 99
   },
@@ -3091,9 +3339,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 33
+        "chapter": 33,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "(THE travellers), going on from this three le to the south, came to a mountain named Gurupada, inside which Mahâkaśyapa even now is."
     }
   },
   {
@@ -3128,9 +3378,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 34
+        "chapter": 34,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "FÂ-HIEN returned (from here) towards Pâṭaliputtra, keeping along the course of the Ganges and descending in the direction of the west."
     }
   },
   {
@@ -3157,9 +3409,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 34
+        "chapter": 34,
+        "paragraph": 0,
+        "sentence": 1
       },
-      "text": null
+      "text": "After going ten yojanas he found a vihara, named ‘The Wilderness,’—a place where Buddha had dwelt, and where there are monks now."
     }
   },
   {
@@ -3191,9 +3445,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 34
+        "chapter": 34,
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": null
+      "text": "Pursuing the same course, and going still to the west, he arrived, after twelve yojanas, at the city of Vârâṇasî in the kingdom of Kâśî."
     }
   },
   {
@@ -3220,9 +3476,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 34
+        "chapter": 34,
+        "paragraph": 1,
+        "sentence": 1
       },
-      "text": null
+      "text": "Rather more than ten le to the north-east of the city, he found the vihara in the park of ‘The ṛishi’s Deer-wild.’"
     }
   },
   {
@@ -3254,9 +3512,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 34
+        "chapter": 34,
+        "paragraph": 3,
+        "sentence": 1
       },
-      "text": null
+      "text": "Its vihâra is named Ghochiravana—a place where Buddha formerly resided."
     }
   },
   {
@@ -3293,9 +3553,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 34
+        "chapter": 34,
+        "paragraph": 4,
+        "sentence": 0
       },
-      "text": null
+      "text": "East from (this), when you have travelled eight yojanas, is the place where Buddha converted the evil demon."
     }
   },
   {
@@ -3385,9 +3647,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 37
+        "chapter": 37,
+        "paragraph": 0,
+        "sentence": 0
       },
-      "text": null
+      "text": "FOLLOWING the course of the Ganges, and descending eastwards for eighteen yojanas, he found on the southern bank the great kingdom of Champâ, with topes reared at the places where Buddha walked in meditation by his vihâra, and where he and the three Buddhas, his predecessors, sat."
     }
   },
   {
@@ -3429,9 +3693,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 37
+        "chapter": 37,
+        "paragraph": 0,
+        "sentence": 2
       },
-      "text": null
+      "text": "Continuing his journey east for nearly fifty yojanas, he came to the country of Tâmaliptî, (the capital of which is) a seaport."
     }
   },
   {
@@ -3490,9 +3756,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 38
+        "chapter": 38,
+        "paragraph": 2,
+        "sentence": 2
       },
-      "text": null
+      "text": "By the side of the tope he further built a monastery, called the Abhayagiri, where there are (now) five thousand monks."
     }
   },
   {
@@ -3541,9 +3809,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 38
+        "chapter": 38,
+        "paragraph": 8,
+        "sentence": 0
       },
-      "text": null
+      "text": "Forty le to the east of the Abhayagiri-vihâra there is a hill, with a vihâra on it, called the Chaitya where there may be 2000 monks."
     }
   },
   {
@@ -3815,9 +4085,11 @@
     "ancientRuler": null,
     "reference": {
       "location": {
-        "chapter": 40
+        "chapter": 40,
+        "paragraph": 4,
+        "sentence": 3
       },
-      "text": null
+      "text": "Soon the whole was nearly gone, and the merchants took counsel and said, ‘At the ordinary rate of sailing we ought to have reached Kwang-chow, and now the time is passed by many days;—must we not have held a wrong course?’ Immediately they directed the ship to the north-west, looking out for land; and after sailing day and night for twelve days, they reached the shore on the south of mount Lâo, on the borders of the prefecture of Ch’ang-kwang, and immediately got good water and vegetables."
     },
     "confidence": 99
   },
