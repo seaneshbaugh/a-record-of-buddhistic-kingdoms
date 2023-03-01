@@ -1285,6 +1285,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Mingora",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Mingora",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Swat",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Swat_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Malakand",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Malakand_Division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Khyber Pakhtunkhwa",
         "type": "province",
         "link": {
@@ -1323,6 +1347,30 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Barikot",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Barikot",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Swat",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Swat_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Malakand",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Malakand_Division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Khyber Pakhtunkhwa",
         "type": "province",
@@ -1363,6 +1411,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Takht Bhai",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Takht_Bhai_Tehsil",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Mardan",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Mardan_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Mardan",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Mardan_Division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Khyber Pakhtunkhwa",
         "type": "province",
         "link": {
@@ -1402,6 +1474,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Taxila",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Taxila_Tehsil",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Rawalpindi",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Rawalpindi_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Rawalpindi",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Rawalpindi_Division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Punjab",
         "type": "province",
         "link": {
@@ -1440,6 +1536,30 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Peshawar",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Peshawar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Peshawar",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Peshawar_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Peshawar",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Peshawar_Division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Khyber Pakhtunkhwa",
         "type": "province",
@@ -1858,6 +1978,30 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Mathura",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Mathura",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Mathura",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Mathura_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Agra",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Agra_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Uttar Pradesh",
         "type": "province",
