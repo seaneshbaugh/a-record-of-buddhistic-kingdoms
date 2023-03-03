@@ -2042,6 +2042,29 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Sankisa Basantpur",
+        "type": "township",
+        "link": {
+          "url": "https://villageinfo.in/uttar-pradesh/farrukhabad/farrukhabad/sankisa-basantpur.html"
+        }
+      },
+      {
+        "name": "Farrukhabad",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Farrukhabad_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kanpur",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kanpur_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Uttar Pradesh",
         "type": "province",
         "link": {
@@ -2081,6 +2104,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Kannauj",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kannauj",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kannauj",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kannauj_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kanpur",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kanpur_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Uttar Pradesh",
         "type": "province",
         "link": {
@@ -2113,12 +2160,35 @@
     "name": "Â-le",
     "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 26.941866708276542,
+      "lng": 80.34424468251161
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Argu Pur",
+        "type": "township",
+        "link": {
+          "url": "https://villageinfo.in/uttar-pradesh/unnao/safipur/argu-pur.html"
+        }
+      },
+      {
+        "name": "Unnao",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Unnao_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Lucknow",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Lucknow_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Uttar Pradesh",
         "type": "province",
@@ -2146,7 +2216,9 @@
         "sentence": 0
       },
       "text": "Having crossed the Ganges, and gone south for three yojanas, (the travellers) arrived at a village named Â-le, containing places where Buddha preached the Law, where he sat, and where he walked, at all of which topes have been built."
-    }
+    },
+    "confidence": 5,
+    "notes": "Very unsure about this place. Given that a yojana is about 8 miles this village is roughly the right distance away from Kannuj. But there are hundreds of villages about 24 miles from Kannuj in a south and eastwardly direction. All we can say for sure is it's across the Ganges."
   },
   {
     "name": "Shâ-che",
@@ -2158,6 +2230,30 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Ayodhya",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Ayodhya",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Faizabad",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Faizabad_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Faizabad",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Faizabad_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Uttar Pradesh",
         "type": "province",
@@ -2202,6 +2298,30 @@
     ],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Shravasti",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Shravasti",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Shravasti",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Shravasti_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Devipatan",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Devipatan_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Uttar Pradesh",
         "type": "province",
@@ -2281,6 +2401,22 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Gotihawa",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gotihawa",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kapilvastu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kapilvastu_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Lumbini",
         "type": "province",
         "link": {
@@ -2320,6 +2456,22 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Nigalihawa",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nigalihawa",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kapilvastu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kapilvastu_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Lumbini",
         "type": "province",
         "link": {
@@ -2358,6 +2510,22 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Kapilvastu",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kapilvastu_Municipality",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kapilvastu",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kapilvastu_District",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Lumbini",
         "type": "province",
@@ -2400,6 +2568,22 @@
     "modernPoliticalEntities": [
       {
         "name": "Lumbini",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Lumbini_Sanskritik",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Rupandehi",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Rupandehi_District",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Lumbini",
         "type": "province",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Lumbini_Province",
@@ -2438,6 +2622,22 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Ramgram",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Ramgram,_Nepal",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nawalparasi",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Parasi_District",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Lumbini",
         "type": "province",
