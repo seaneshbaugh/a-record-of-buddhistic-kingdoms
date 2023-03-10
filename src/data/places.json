@@ -397,8 +397,8 @@
       "chineseSimplified": "褥⁠檀国"
     },
     "position": {
-      "lat": 36.51037835570662,
-      "lng": 102.10350864038082
+      "lat": 36.62102532208603,
+      "lng": 101.78061503281391
     },
     "ancientPoliticalEntities": [
       {
@@ -2362,6 +2362,21 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Padri",
+        "type": "township",
+        "link": {
+          "url": "https://villageinfo.in/uttar-pradesh/bahraich/bahraich/padri.html"
+        }
+      },
+      {
+        "name": "Bahraich",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bahraich_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Uttar Pradesh",
         "type": "province",
         "link": {
@@ -2755,6 +2770,38 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Kushinagar",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kushinagar",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Kushinagar",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Kushinagar_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gorakhpur",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gorakhpur_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "India",
         "type": "country",
         "link": {
@@ -2803,6 +2850,30 @@
         "type": "township",
         "link": {
           "url": "https://en.wikipedia.org/wiki/Bakhra",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Muzaffarpur",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Muzaffarpur_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Tirhut",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Tirhut_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
           "text": "Wikipedia"
         }
       },
@@ -2920,7 +2991,10 @@
     "modernPoliticalEntities": [
       {
         "name": "Anhatha",
-        "type": "township"
+        "type": "township",
+        "link": {
+          "url": "https://villageinfo.in/uttar-pradesh/etawah/chakarnagar/anhatha.html"
+        }
       },
       {
         "name": "Etawah",
@@ -2984,9 +3058,45 @@
       "lat": 25.600334733413224,
       "lng": 85.17480100122827
     },
-    "ancientPoliticalEntities": [],
+    "ancientPoliticalEntities": [
+      {
+        "name": {
+          "legge": "Pâṭaliputtra",
+          "modern": "Pataliputra"
+        },
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Pataliputra",
+          "text": "Wikipedia"
+        }
+      }
+    ],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Patna",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Bihar",
         "type": "province",
@@ -3014,18 +3124,44 @@
         "sentence": 0
       },
       "text": "HAVING crossed the river, and descended south for a yojana, (the travellers) came to the town of Pâṭaliputtra, in the kingdom of Magadha, the city where king Aśoka ruled."
-    }
+    },
+    "confidence": 99,
+    "notes": "The Wikipedia entry for Pataliputra and for Patna confirms this is the place. I've chosen the ruins of Ashoka's palace as the most obvious location."
   },
   {
     "name": "Ne-le",
     "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 25.58255081876259,
+      "lng": 85.18482156146312
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Patna",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Bihar",
         "type": "province",
@@ -3053,7 +3189,9 @@
         "sentence": 3
       },
       "text": "North from the tope 300 or 400 paces, king Aśoka built the city of Ne-le."
-    }
+    },
+    "confidence": 10,
+    "notes": "Faxian says Ne-le is about 3 le south of Pataliputtra. That's roughly a mile. This spot is a bit more than a mile south of Ashoka's palace. The actuall location might be a little further. The way that paragraph is written it's kind of hard to tell exactly which city Ne-le is south of. It looks like all of southern Patna has been developed since modern times. Wherever this place is it's long since disappeared."
   },
   {
     "name": "Indra-śila-guhâ",
