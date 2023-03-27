@@ -2941,8 +2941,8 @@
     "name": "Bows and Weapons Laid Down Tope",
     "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 26.023312741007707,
+      "lng": 85.09880473279387
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
@@ -2974,7 +2974,9 @@
         "sentence": 0
       },
       "text": "Three le north-west of the city there is a tope called, 'Bows and weapons laid down.’"
-    }
+    },
+    "confidence": 5,
+    "notes": "This spot is about 1 mile, or 3 le North-east of Vaisal."
   },
   {
     "name": {
@@ -3197,12 +3199,36 @@
     "name": "Indra-śila-guhâ",
     "nonRomanizedName": {},
     "position": {
-      "lat": 25.021011866415765,
-      "lng": 85.4992275630334
+      "lat": 25.025133224661126,
+      "lng": 85.5130254891903
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Giriyak",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Giriyak",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nalanda",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nalanda_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Bihar",
         "type": "province",
@@ -3240,8 +3266,37 @@
       "lng": 85.42835071494505
     },
     "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": "Baragong",
+        "type": "county"
+      }
+    ],
     "modernPoliticalEntities": [
+      {
+        "name": "Baragaon",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Baragaon,_Nalanda",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nalanda",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nalanda_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Bihar",
         "type": "province",
@@ -3269,7 +3324,9 @@
         "sentence": 0
       },
       "text": "A yojana south-west from this place brought them to the village of Nâla, where Śâriputtra was born, and to which also he returned, and attained here his pari-nirvâṇa."
-    }
+    },
+    "confidence": 99,
+    "notes": "This one is easy to find on Google Maps. Nalanda isn't exactly an obscure place."
   },
   {
     "name": "New Râjagṛiha",
@@ -3508,6 +3565,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Rajgir",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Rajgir",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nalanda",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nalanda_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Bihar",
         "type": "province",
         "link": {
@@ -3541,18 +3622,44 @@
         "sentence": 0
       },
       "text": "OUT from the old city, after walking over 300 paces, on the west of the road, (the travellers) found the Karaṇḍa Bamboo garden, where the (old) vihâra is still in existence, with a company of monks, who keep (the ground about it) swept and watered."
-    }
+    },
+    "confidence": 99,
+    "notes": "The IndiaNetzone page for Venu Van confirms this is the correct location. Also the name is basically the same."
   },
   {
     "name": "The Śmaśânam",
     "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 25.02497490156906,
+      "lng": 85.41688677013526
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Rajgir",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Rajgir",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Nalanda",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Nalanda_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Bihar",
         "type": "province",
@@ -3580,7 +3687,9 @@
         "sentence": 0
       },
       "text": "North of the vihâra two or three le there was the Śmaśânam, which name means in Chinese ‘the field of graves into which the dead are thrown.’"
-    }
+    },
+    "confidence": 20,
+    "notes": "This is just an approximate location based on the description of how to get to it from Karaṇḍa Veṇuvana. Two to three le is about two thirds to one mile. This area of Rajgir appears mostly residential on Google Maps. I selected a spot that appears to be sort of on the outskirts of town about three quarters of a mile from Karaṇḍa Veṇuvana."
   },
   {
     "name": "Pippala Cave",
@@ -3720,6 +3829,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Gaya",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gaya_(India)",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gaya",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gaya_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Magadh",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Magadh_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Bihar",
         "type": "province",
         "link": {
@@ -3759,6 +3892,30 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Bodh Gaya",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bodh_Gaya",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Gaya",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gaya_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Magadh",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Magadh_division",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "Bihar",
         "type": "province",
@@ -3800,6 +3957,29 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Kathautiya Kewa",
+        "type": "township",
+        "link": {
+          "url": "https://villageinfo.in/bihar/gaya/fatehpur/kathautiya-kewal.html"
+        }
+      },
+      {
+        "name": "Gaya",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Gaya_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Magadh",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Magadh_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Bihar",
         "type": "province",
         "link": {
@@ -3839,6 +4019,30 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Patna",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Patna",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Patna_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Bihar",
         "type": "province",
         "link": {
@@ -3871,8 +4075,8 @@
     "name": "\"The Wilderness\" Vihara",
     "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 25.57543709280507,
+      "lng": 84.1978290182221
     },
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
@@ -3896,7 +4100,9 @@
         "sentence": 1
       },
       "text": "After going ten yojanas he found a vihara, named ‘The Wilderness,’—a place where Buddha had dwelt, and where there are monks now."
-    }
+    },
+    "confidence": 3,
+    "notes": "It's unlikely this is the spot since this temple looks newly constructed, but it's gotta be around here somewhere, halfwayish between Patna and Varanasi."
   },
   {
     "name": "Vârâṇasî",
@@ -3913,6 +4119,38 @@
     ],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Varanasi",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Varanasi",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Varanasi",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Varanasi_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Varanasi",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Varanasi_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "India",
         "type": "country",
@@ -3944,6 +4182,38 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Sarnath",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Sarnath",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Varanasi",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Varanasi_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Varanasi",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Varanasi_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Uttar Pradesh",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "India",
         "type": "country",
@@ -4008,8 +4278,8 @@
     },
     "nonRomanizedName": {},
     "position": {
-      "lat": 0,
-      "lng": 0
+      "lat": 25.28580745113493,
+      "lng": 82.43217524183606
     },
     "ancientPoliticalEntities": [
       {
@@ -4040,7 +4310,9 @@
         "sentence": 0
       },
       "text": "East from (this), when you have travelled eight yojanas, is the place where Buddha converted the evil demon."
-    }
+    },
+    "confidence": 3,
+    "notes": "This is roughly 64 miles to the East of Kosambi. That's roughly eight yojanas. I can't find anything about any Buddhist ruins here, but odds are they're long long gone."
   },
   {
     "name": "Pâṭaliputtra",
@@ -4109,12 +4381,49 @@
     "name": "Champâ",
     "nonRomanizedName": {},
     "position": {
-      "lat": 25.248716707163823,
-      "lng": 86.918446321582
+      "lat": 25.237406110209825,
+      "lng": 86.9417017601387
     },
     "ancientPoliticalEntities": [],
-    "leggePoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": "Champanagur",
+        "type": "township"
+      }
+    ],
     "modernPoliticalEntities": [
+      {
+        "name": "Champapuri",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Champapuri",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bhagalpur",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bhagalpur_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bhagalpur",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bhagalpur_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "India",
         "type": "country",
@@ -4134,7 +4443,9 @@
         "sentence": 0
       },
       "text": "FOLLOWING the course of the Ganges, and descending eastwards for eighteen yojanas, he found on the southern bank the great kingdom of Champâ, with topes reared at the places where Buddha walked in meditation by his vihâra, and where he and the three Buddhas, his predecessors, sat."
-    }
+    },
+    "confidence": 99,
+    "notes": "The Wikipedia entry for Champapuri clearly identifies the location or Champa. The footnote has the wrong longitude. The correct coordinates are 25° 14' N., 56° 55' E.."
   },
   {
     "name": {
@@ -4159,8 +4470,45 @@
         }
       }
     ],
-    "leggePoliticalEntities": [],
+    "leggePoliticalEntities": [
+      {
+        "name": "Tam-look",
+        "type": "township"
+      }
+    ],
     "modernPoliticalEntities": [
+      {
+        "name": "Tamluk",
+        "type": "township",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Tamluk",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Purba Medinipur",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Purba_Medinipur_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Medinipur",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Medinipur_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "West Bengal",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/West_Bengal",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "India",
         "type": "country",
