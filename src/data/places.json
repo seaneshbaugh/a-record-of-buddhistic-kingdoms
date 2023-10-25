@@ -141,7 +141,7 @@
       }
     },
     "confidence": 99,
-    "notes": "This one is pretty easy. Chang'an isn't exactly an obscure village. It's been around for ages and has a well recorded history. The exact position here is the middle of the Chang'an district in Xi'an. It's difficult to say exactly where Faxian started from. Possibly the Daxingshan Temple, which would have existed when he was alive. The ancient country is confirmed by the Wikipedia entry for Chang'an. The ruler is confirmed by the Wikipedia entry for the Later Qin and the entry fro Yao Xing. The only bit of uncertainty here is Se-gan. I'm pretty sure that's just another name for Xi'an."
+    "notes": "This one is pretty easy. Chang'an isn't exactly an obscure village. It's been around for ages and has a well recorded history. The exact position here is the middle of the Chang'an district in Xi'an. It's difficult to say exactly where Faxian started from. Possibly the Daxingshan Temple, which would have existed when he was alive. The ancient country is confirmed by the Wikipedia entry for Chang'an. The ruler is confirmed by the Wikipedia entry for the Later Qin and the entry for Yao Xing. The only bit of uncertainty here is Se-gan. I'm pretty sure that's just another name for Xi'an."
   },
   {
     "name": {
@@ -2377,6 +2377,14 @@
         }
       },
       {
+        "name": "Devipatan",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Devipatan_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "Uttar Pradesh",
         "type": "province",
         "link": {
@@ -2569,7 +2577,8 @@
       },
       "text": "LESS than a yojana to the east from this brought them to the city of Kapilavastu; but in it there was neither king nor people."
     },
-    "confidence": 99
+    "confidence": 99,
+    "notes": "Not exactly an obscure location."
   },
   {
     "name": "Lumbinî",
@@ -2625,7 +2634,8 @@
       },
       "text": "Fifty le east from the city was a garden, named Lumbinî, where the queen entered the pond and bathed."
     },
-    "confidence": 99
+    "confidence": 99,
+    "notes": "Not exactly an obscure location."
   },
   {
     "name": "Râma",
@@ -2696,6 +2706,37 @@
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
       {
+        "name": "Tharhi",
+        "type": "township",
+        "link": {
+          "url": "https://villageinfo.in/bihar/pashchim-champaran/sidhaw/tharhi.html"
+        }
+      },
+      {
+        "name": "West Champaran",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/West_Champaran_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Tirhut",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Tirhut_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
+      {
         "name": "India",
         "type": "country",
         "link": {
@@ -2714,7 +2755,9 @@
         "sentence": 0
       },
       "text": "EAST from here four yojanas, there is the place where the heir-apparent sent back Chaṇḍaka, with his white horse; and there also a tope was erected."
-    }
+    },
+    "confidence": 20,
+    "notes": "This could really be anywhere between Râma and the Charcoal Tope. I picked this spot because there's some Buddhist ruins there. No idea if they're related since they don't appear to have a name."
   },
   {
     "name": {
@@ -2729,6 +2772,37 @@
     "ancientPoliticalEntities": [],
     "leggePoliticalEntities": [],
     "modernPoliticalEntities": [
+      {
+        "name": "Lauria",
+        "type": "township",
+        "link": {
+          "url": "https://villageinfo.in/bihar/pashchim-champaran/lauriya/lauria.html"
+        }
+      },
+      {
+        "name": "West Champaran",
+        "type": "county",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/West_Champaran_district",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Tirhut",
+        "type": "prefecture",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Tirhut_division",
+          "text": "Wikipedia"
+        }
+      },
+      {
+        "name": "Bihar",
+        "type": "province",
+        "link": {
+          "url": "https://en.wikipedia.org/wiki/Bihar",
+          "text": "Wikipedia"
+        }
+      },
       {
         "name": "India",
         "type": "country",
@@ -2757,7 +2831,8 @@
       },
       "text": "Four yojanas to the east from this, (the travellers) came to the Charcoal tope, where there is also a monastery."
     },
-    "confidence": 90
+    "confidence": 90,
+    "notes": "This seems very likely to be the correct place. There's a Stupa dating from at least the third century BC and excavations found burnt human remains and charcoal. The presence of a nearby Ashokan Pillar also indicates this is likely an important location."
   },
   {
     "name": "Kuśanagara",
