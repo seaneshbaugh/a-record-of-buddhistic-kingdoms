@@ -26,7 +26,7 @@ class Person extends Component {
           }
         </h2>
         <h3 className={styles.title}>{this.props.title}</h3>
-        <p className={styles.appearance}>First Appearance: {this.props.appearance}</p>
+        <p><strong>First Appearance:</strong> <span className={styles.appearance}>{this.props.reference.text}</span></p>
         {this.props.biography && <p className={styles.biography}>{this.props.biography}</p>}
         {links.length > 0 &&
          <>
@@ -42,8 +42,11 @@ class Person extends Component {
 Person.propTypes = {
   name: PropTypes.string.isRequired,
   title: PropTypes.string,
-  appearance: PropTypes.string.isRequired,
-  biography: PropTypes.string,
+  reference: PropTypes.object.isRequired,
+  biography: PropTypes.oneOfType([
+    PropTypes.string,
+    PropTypes.object
+  ]),
   links: PropTypes.arrayOf(linkProps)
 };
 

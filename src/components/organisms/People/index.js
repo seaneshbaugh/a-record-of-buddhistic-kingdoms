@@ -31,7 +31,11 @@ People.propTypes = {
     PropTypes.shape({
       name: stringOrLanguageProps.isRequired,
       title: stringOrLanguageProps,
-      appearance: PropTypes.string.isRequired,
+      biography: PropTypes.oneOfType([
+        PropTypes.string,
+        PropTypes.object
+      ]),
+      reference: PropTypes.object.isRequired,
       links: PropTypes.arrayOf(linkProps)
     })
   ),

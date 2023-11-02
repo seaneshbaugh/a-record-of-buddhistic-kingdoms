@@ -1,11 +1,9 @@
 import people from "../../data/people.json";
 
-// Faxian is currently the 10th person in the list of people. TODO: Maybe
-// dynmically find the index for Faxian?
-
+// Faxian is the first person in the list.
 export const initialState = {
   people,
-  currentPerson: 9
+  currentPerson: 0
 };
 
 export const peopleCurrentPerson = (state = initialState) => {

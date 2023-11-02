@@ -1,61 +1,127 @@
 [
   {
+    "id": 1,
     "name": {
       "legge": "Fâ-hien",
       "modern": "Fǎxiǎn"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "法顯",
-      "simplifiedChinese": "法显"
+      "chineseTraditional": "法顯",
+      "chineseSimplified": "法显"
     },
-    "appearance": "PREFACE.",
-    "biography": "Chinese monk who journied to India in search of copies of the Buddhist monastic codes. The narrator of the story.",
+    "sortName": "Faxian",
+    "title": null,
+    "biography": {
+      "legge": "Chinese monk who journied to India in search of copies of the Buddhist monastic codes. The narrator of the story"
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Faxian",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Faxian",
+        "text": "Wikipedia"
       },
       {
-	"url": "https://ntireader.org/words/7000796.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7000796.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": "TITLE"
+      },
+      "text": "Title"
+    },
+    "confidence": 99,
+    "notes": "The subject of the story. This one is easy."
   },
   {
-    "name": "James Legge",
-    "appearance": "author",
-    "biography": "Translator of Fǎxiǎn's tale.",
+    "id": 2,
+    "name": {
+      "legge": "James Legge",
+      "modern": "James Legge"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Legge James",
+    "title": null,
+    "biography": {
+      "legge": "Translator of Fâ-hien's tale.",
+      "modern": "Translator of Fǎxiǎn's tale."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/James_Legge",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/James_Legge",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": "AUTHOR"
+      },
+      "text": "Author"
+    },
+    "confidence": 99,
+    "notes": "The author of the story. This one is easy."
   },
   {
-    "name": "Ernst Johann Eitel",
-    "appearance": "PREFACE.",
-    "biography": "German missionary in China and civil servant in Hong Kong.",
+    "id": 3,
+    "name": {
+      "legge": "Ernst Johann Eitel",
+      "modern": "Ernst Johann Eitel"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Eitel Ernst",
+    "title": null,
+    "biography": {
+      "legge": "German missionary in China and civil servant in Hong Kong."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Ernst_Johann_Eitel",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Ernst_Johann_Eitel",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 0,
+        "sentence": 1
+      },
+      "text": "When Dr. Eitel’s ‘Handbook for the Student of Chinese Buddhism’ appeared in 1870, the difficulty occasioned by the Sanskrit words and names was removed, but the other difficulty remained; and I was not able to look into the book again for several years."
+    },
+    "confidence": 99,
+    "notes": "Confirmed by Wikipedia."
   },
   {
-    "name": "Arthur Anthony Macdonell",
-    "appearance": "PREFACE.",
-    "title": "Fellow of the British Academy",
-    "biography": "British scholar of Sanskrit.",
+    "id": 4,
+    "name": {
+      "legge": "Arthur Anthony Macdonell",
+      "modern": "Arthur Anthony Macdonell"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Macdonnel Arthurt",
+    "title": {
+      "legge": "Fellow of the British Academy"
+    },
+    "biography": {
+      "legge": "British scholar of Sanskrit."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Arthur_Anthony_Macdonell",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 1,
+        "sentence": 0
+      },
+      "text": "In the meantime I kept studying the subject of Buddhism from various sources; and in 1878 began to lecture, here in Oxford, on the Travels with my Davis Chinese scholar, who was at the same time Boden Sanskrit scholar."
+    },
+    "confidence": 99
   },
   {
+    "id": 5,
     "name": {
       "legge": "Bunyiu Nanjio",
       "modern": "Nanjō Bun'yū"
@@ -63,676 +129,1575 @@
     "nonRomanizedName": {
       "japanese": "南条文雄"
     },
-    "appearance": "PREFACE.",
-    "biography": "Japanese Buddhist priest.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Nanjo_Bunyu",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Jean-Pierre Abel-Rémusat",
-    "appearance": "PREFACE.",
-    "biography": "French sinology.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Jean-Pierre_Abel-R%C3%A9musat",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Julius Klaproth",
-    "appearance": "PREFACE.",
-    "biography": "German linguist, historian, ethnographer, author, orientalist, and explorer.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Julius_Klaproth",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Ernest Clerc de Landresse",
-    "appearance": "PREFACE.",
-    "biography": "French orientalist.",
-    "links": [
-      {
-	"url": "https://fr.wikipedia.org/wiki/Ernest_Clerc_de_Landresse",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Samuel Beal",
-    "appearance": "PREFACE.",
-    "biography": "English Oriental scholar and translator of Chinese Buddhist works.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Samuel_Beal",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Herbert Giles",
-    "appearance": "PREFACE.",
-    "biography": "British diplomat and sinologist known for his work on standardizing a romanization system for Chinese.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Herbert_Giles",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Thomas Watters",
-    "appearance": "PREFACE.",
-    "biography": "British oriental scholar.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Thomas_Watters",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Robert Morrison",
-    "appearance": "PREFACE.",
-    "biography": "Anglo-Scottish Protestant missionary.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Robert_Morrison_(missionary)",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Robert Spence Hardy",
-    "appearance": "PREFACE.",
-    "biography": "British Methodist missionary in Sri Lanka.",
-    "links": [
-      {
-	"url": "https://books.google.com/books?id=oQ8BFk9K0ToC&pg=PA280&lpg=PA280&dq=rev+robert+spence+hardy+eastern+monachism&source=bl&ots=_8XccJoB9X&sig=whz810Pkw98GiaZRRKeAZRN_vT4&hl=en&sa=X&ved=0ahUKEwjJ9qjFoYXYAhXK7IMKHRe_ABkQ6AEISzAI#v=onepage&q=rev%20robert%20spence%20hardy%20eastern%20monachism&f=false",
-	"text": "\"Biographical Dictionary of Christian Missions\" edited by Gerald H. Anderson"
-      },
-      {
-	"url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hardy%2C%20R%2E%20Spence%20%28Robert%20Spence%29%2C%201803%2D1868",
-	"text": "Online Books by R. Spence Hardy"
-      }
-    ]
-  },
-  {
-    "name": "T.W. Rhys Davids",
-    "title": "Fellow of the British Academy",
-    "appearance": "PREFACE.",
-    "biography": "Founder of the Pali Text Society.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids",
-	"text": "Wikipedia"
-      },
-      {
-	"url": "https://www.palitext.com/",
-	"text": "Pali Text Society"
-      }
-    ]
-  },
-  {
-    "name": "Hermann Oldenberg",
-    "appearance": "PREFACE.",
-    "biography": "German scholar of Indology.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Hermann_Oldenberg",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Siddhattha Gotama",
-    "title": "Śâkyamuni Buddha",
-    "appearance": "PREFACE.",
-    "biography": "Founder of Buddhism.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "William Hoey",
-    "appearance": "PREFACE.",
-    "biography": "Collector and Magistrate in the divisional headquarters at Gorakhpur.",
-    "links": [
-      {
-	"url": "https://books.google.com/books?id=VAPq4yGXmIIC&pg=PA112&lpg=PA112&dq=%22dr.+william+hoey%22&source=bl&ots=iLoHdxEQ7b&sig=csrush7-zIE93ZBGXXmo7mgCClw&hl=en&sa=X&ved=0ahUKEwjU06uWq4XYAhUM3IMKHT0PCBIQ6AEIMzAC#v=onepage&q=%22dr.%20william%20hoey%22&f=false",
-	"text": "\"The Buddha and Dr. Führer: An Archaeological Scandal\" by Charles Allen"
-      },
-      {
-	"url": "https://www.jstor.org/stable/44758602",
-	"text": "\"The Ashes of the Buddha\" by Harry Falk"
-      }
-    ]
-  },
-  {
-    "name": "J. C. Pembrey",
-    "appearance": "PREFACE.",
-    "links": [
-      {
-	"url": "https://en.wikisource.org/wiki/Page:Alumni_Oxoniensis_(1715-1886)_volume_3.djvu/321",
-	"text": "Alumni Oxoniensis (1715-1886) volume 3"
-      }
-    ]
-  },
-  {
-    "name": "James Henry Sedgwick",
-    "appearance": "PREFACE.",
-    "biography": "British missionary in China.",
-    "links": [
-      {
-	"url": "https://annesleysedgwick.blogspot.com/2015/10/12-rev-james-henry-sedgwick-harolds.html",
-	"text": "Rev James Henry Sedgwick - Harold's father - His life in UK and China"
-      },
-      {
-	"url": "https://nla.gov.au/nla.obj-1444224257/view",
-	"text": "\"The Life and Times of The Reverend James Henry Sedgwick and his wife Ellen Jennings Parents of Harold Sedgwick, alias Claude Harold Annesley A Narrative, and Compilation of the Facts of his life.\" by Kristine M. Herron"
-      }
-    ]
-  },
-  {
-    "name": "Alexander Cunningham",
-    "title": "Major General, Companion of the Order of the Star of India, Knight Commander of the Order of the Indian Empire",
-    "appearance": "NOTE ON THE SKETCH-MAP.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Alexander_Cunningham",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "George Bellas Greenough",
-    "appearance": "NOTE ON THE SKETCH-MAP.",
-    "title": "Fellow of the Royal Society, Fellow of the Geological Society of London",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/George_Bellas_Greenough",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Zhū Dì",
-    "nonRomanizedName": {
-      "traditionalChinese": "朱棣"
+    "sortName": "Nanjo Bunyu",
+    "title": null,
+    "biography": {
+      "legge": "Japanese Buddhist priest."
     },
-    "appearance": "INTRODUCTION.",
-    "title": "Yongle Emperor",
-    "biography": "Third emperor of the Ming Dynasty.",
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Yongle_Emperor",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Nanjo_Bunyu",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "The want of a good and clear text had been supplied by my friend, Mr. Bunyiu Nanjio, who sent to me from Japan a copy, the text of which is appended to the translation and notes, and of the nature of which some account is given in the Introduction (page 4), and towards the end of this Preface."
+    },
+    "confidence": 99
   },
   {
-    "name": "Buddha-bhadra"
-  },
-  {
-    "name": "Le Tâo-yüen"
-  },
-  {
-    "name": "Jules Barthélemy-Saint-Hilaire"
-  },
-  {
-    "name": "Max Müller",
-    "appearance": "PREFACE.",
-    "biography": "German philologist and Orientalist.",
-    "links": [
-      {
-	"url": "https://en.wikipedia.org/wiki/Max_M%C3%BCller",
-	"text": "Wikipedia"
-      }
-    ]
-  },
-  {
-    "name": "Heinrich Berghaus"
-  },
-  {
-    "name": "Confucius"
-  },
-  {
-    "name": "Laotse"
-  },
-  {
-    "name": "Kwo Sung-tâo"
-  },
-  {
+    "id": 6,
     "name": {
-      "modern": "Aisin Gioro Xuanye"
+      "legge": "Jean-Pierre Abel-Rémusat",
+      "modern": "Jean-Pierre Abel-Rémusat"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Abel-Remusat Jean-Pierre",
+    "title": null,
+    "biography": {
+      "legge": "French sinologist."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jean-Pierre_Abel-R%C3%A9musat",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 4,
+        "sentence": 2
+      },
+      "text": "While preparing my own version I made frequent reference to previous translations:—those of M. Abel Rémusat, ‘Revu, complété, et augmenté d’éclaircissements nouveaux par MM. Klaproth et Landresse’ (Paris, 1836); of the Rev. Samuel Beal (London, 1869), and his revision of it, prefixed to his ‘Buddhist Records of the Western World’ (Trübner’s Oriental Series, 1884); and of Mr. Herbert A. Giles, of H.M.’s Consular Service in China (1877)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 7,
+    "name": {
+      "legge": "Julius Klaproth",
+      "modern": "Julius Klaproth"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Klaproth Julius",
+    "title": null,
+    "biography": {
+      "legge": "German linguist, historian, ethnographer, author, orientalist, and explorer."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Julius_Klaproth",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 4,
+        "sentence": 2
+      },
+      "text": "While preparing my own version I made frequent reference to previous translations:—those of M. Abel Rémusat, ‘Revu, complété, et augmenté d’éclaircissements nouveaux par MM. Klaproth et Landresse’ (Paris, 1836); of the Rev. Samuel Beal (London, 1869), and his revision of it, prefixed to his ‘Buddhist Records of the Western World’ (Trübner’s Oriental Series, 1884); and of Mr. Herbert A. Giles, of H.M.’s Consular Service in China (1877)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 8,
+    "name": {
+      "legge": "Ernest Clerc de Landresse",
+      "modern": "Ernest Clerc de Landresse"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Landresse Ernest",
+    "title": null,
+    "biography": {
+      "legge": "French orientalist."
+    },
+    "links": [
+      {
+        "url": "https://fr.wikipedia.org/wiki/Ernest_Clerc_de_Landresse",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 4,
+        "sentence": 2
+      },
+      "text": "While preparing my own version I made frequent reference to previous translations:—those of M. Abel Rémusat, ‘Revu, complété, et augmenté d’éclaircissements nouveaux par MM. Klaproth et Landresse’ (Paris, 1836); of the Rev. Samuel Beal (London, 1869), and his revision of it, prefixed to his ‘Buddhist Records of the Western World’ (Trübner’s Oriental Series, 1884); and of Mr. Herbert A. Giles, of H.M.’s Consular Service in China (1877)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 9,
+    "name": {
+      "legge": "Samuel Beal",
+      "modern": "Samuel Beal"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Beal Samuel",
+    "title": null,
+    "biography": {
+      "legge": "English Oriental scholar and translator of Chinese Buddhist works."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Samuel_Beal",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 4,
+        "sentence": 2
+      },
+      "text": "While preparing my own version I made frequent reference to previous translations:—those of M. Abel Rémusat, ‘Revu, complété, et augmenté d’éclaircissements nouveaux par MM. Klaproth et Landresse’ (Paris, 1836); of the Rev. Samuel Beal (London, 1869), and his revision of it, prefixed to his ‘Buddhist Records of the Western World’ (Trübner’s Oriental Series, 1884); and of Mr. Herbert A. Giles, of H.M.’s Consular Service in China (1877)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 10,
+    "name": {
+      "legge": "Herbert Giles",
+      "modern": "Herbert Giles"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Giles Herbert",
+    "title": null,
+    "biography": {
+      "legge": "British diplomat and sinologist known for his work on standardizing a romanization system for Chinese."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Herbert_Giles",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 4,
+        "sentence": 2
+      },
+      "text": "While preparing my own version I made frequent reference to previous translations:—those of M. Abel Rémusat, ‘Revu, complété, et augmenté d’éclaircissements nouveaux par MM. Klaproth et Landresse’ (Paris, 1836); of the Rev. Samuel Beal (London, 1869), and his revision of it, prefixed to his ‘Buddhist Records of the Western World’ (Trübner’s Oriental Series, 1884); and of Mr. Herbert A. Giles, of H.M.’s Consular Service in China (1877)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 11,
+    "name": {
+      "legge": "Thomas Watters",
+      "modern": "Thomas Watters"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Watters Thomas",
+    "title": null,
+    "biography": {
+      "legge": "British oriental scholar."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_Watters",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 4,
+        "sentence": 3
+      },
+      "text": "To these I have to add a series of articles on ‘Fa-hsien and his English Translators,’ by Mr. T. Watters, British Consul at Î-Chang (China Review, 1879, 1880)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 12,
+    "name": {
+      "legge": "Robert Morrison",
+      "modern": "Robert Morrison"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Morrison Robert",
+    "title": null,
+    "biography": {
+      "legge": "Anglo-Scottish Protestant missionary."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Morrison_(missionary)",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 6,
+        "sentence": 0
+      },
+      "text": "In transliterating the names of Chinese characters I have generally followed the spelling of Morrison rather than the Pekinese, which is now in vogue."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 13,
+    "name": {
+      "legge": "Robert Spence Hardy",
+      "modern": "Robert Spence Hardy"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Hardy Robert",
+    "title": null,
+    "biography": {
+      "legge": "British Methodist missionary in Sri Lanka."
+    },
+    "links": [
+      {
+        "url": "https://books.google.com/books?id=oQ8BFk9K0ToC&pg=PA280&lpg=PA280&dq=rev+robert+spence+hardy+eastern+monachism&source=bl&ots=_8XccJoB9X&sig=whz810Pkw98GiaZRRKeAZRN_vT4&hl=en&sa=X&ved=0ahUKEwjJ9qjFoYXYAhXK7IMKHRe_ABkQ6AEISzAI#v=onepage&q=rev%20robert%20spence%20hardy%20eastern%20monachism&f=false",
+        "text": "\"Biographical Dictionary of Christian Missions\" edited by Gerald H. Anderson"
+      },
+      {
+        "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hardy%2C%20R%2E%20Spence%20%28Robert%20Spence%29%2C%201803%2D1868",
+        "text": "Online Books by R. Spence Hardy"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 7,
+        "sentence": 10
+      },
+      "text": "My principal help has been the full and masterly handbook of Eitel, mentioned already, and often referred to as E. H. Spence Hardy’s ‘Eastern Monachism’ (E. M.) and ‘Manual of Buddhism’ (M. B.) have been constantly in hand, as well as Rhys Davids’ Buddhism, published by the Society for Promoting Christian Knowledge, his Hibbert Lectures, and his Buddhist Suttas in the Sacred Books of the East, and other writings."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 14,
+    "name": {
+      "legge": "T.W. Rhys Davids",
+      "modern": "T.W. Rhys Davids"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Davids Thomas",
+    "title": {
+      "legge": "Fellow of the British Academy"
+    },
+    "biography": {
+      "legge": "Founder of the Pali Text Society."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids",
+        "text": "Wikipedia"
+      },
+      {
+        "url": "https://www.palitext.com/",
+        "text": "Pali Test Society"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 7,
+        "sentence": 10
+      },
+      "text": "My principal help has been the full and masterly handbook of Eitel, mentioned already, and often referred to as E. H. Spence Hardy’s ‘Eastern Monachism’ (E. M.) and ‘Manual of Buddhism’ (M. B.) have been constantly in hand, as well as Rhys Davids’ Buddhism, published by the Society for Promoting Christian Knowledge, his Hibbert Lectures, and his Buddhist Suttas in the Sacred Books of the East, and other writings."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 15,
+    "name": {
+      "legge": "Hermann Oldenberg",
+      "modern": "Hermann Oldenberg"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Oldenberg Hermann",
+    "title": null,
+    "biography": {
+      "legge": "German scholar of Indology."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hermann_Oldenberg",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 8,
+        "sentence": 3
+      },
+      "text": "Dr. Hermann Oldenberg, certainly a great authority on Buddhistic subjects, says that ‘a biography of Buddha has not come down to us from ancient times, from the age of the Pâli texts; and, we can safely say, no such biography existed then’ (‘Buddha—His Life, His Doctrine, His Order,’ as translated by Hoey, p. 78)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 16,
+    "name": {
+      "legge": "Siddhârtha Gotama",
+      "modern": "Siddhartha Gautama"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Gautama Siddhartha",
+    "title": {
+      "legge": "Śâkyamuni Buddha"
+    },
+    "biography": {
+      "legge": "The Buddha."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 8,
+        "sentence": 3
+      },
+      "text": "Dr. Hermann Oldenberg, certainly a great authority on Buddhistic subjects, says that ‘a biography of Buddha has not come down to us from ancient times, from the age of the Pâli texts; and, we can safely say, no such biography existed then’ (‘Buddha—His Life, His Doctrine, His Order,’ as translated by Hoey, p. 78)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 17,
+    "name": {
+      "legge": "William Hoey",
+      "modern": "William Hoey"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Hoey William",
+    "title": null,
+    "biography": {
+      "legge": "Collector and Magistrate in the divisional headquarters at Gorakhpur."
+    },
+    "links": [
+      {
+        "url": "https://books.google.com/books?id=VAPq4yGXmIIC&pg=PA112&lpg=PA112&dq=%22dr.+william+hoey%22&source=bl&ots=iLoHdxEQ7b&sig=csrush7-zIE93ZBGXXmo7mgCClw&hl=en&sa=X&ved=0ahUKEwjU06uWq4XYAhUM3IMKHT0PCBIQ6AEIMzAC#v=onepage&q=%22dr%5C%20%2065%20%20%20+%20utils/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%20%20%20%20%20%20.%20william%20hoey%22&f=false",
+        "text": "\"The Buddha and Dr. Führer: An Archaeological Scandal\" by Charles Allen"
+      },
+      {
+        "url": "https://www.jstor.org/stable/44758602",
+        "text": "\"The Ashes of the Buddha\" by Harry Falk"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 8,
+        "sentence": 3
+      },
+      "text": "Dr. Hermann Oldenberg, certainly a great authority on Buddhistic subjects, says that ‘a biography of Buddha has not come down to us from ancient times, from the age of the Pâli texts; and, we can safely say, no such biography existed then’ (‘Buddha—His Life, His Doctrine, His Order,’ as translated by Hoey, p. 78)."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 18,
+    "name": {
+      "legge": "J. C. Pembrey",
+      "modern": "J. C. Pembrey"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Pembrey J",
+    "title": null,
+    "biography": {
+      "legge": "Oriental Reader at the Clarendon Press."
+    },
+    "links": [
+      {
+        "url": "https://en.wikisource.org/wiki/Page:Alumni_Oxoniensis_(1715-1886)_volume_3.djvu/321",
+        "text": "Alumni Oxoniensis (1715-1886) volume 3"
+      },
+      {
+        "url": "https://books.google.com/books?id=rAUmnk2VNT4C&pg=PA45&lpg=PA45&dq=J.+C.+Pembrey&source=bl&ots=KFWkLD8PF0&sig=pXxKbs0HnELQ9QpZgBI-KC4HTaQ&hl=en&sa=X&ved=0ahUKEwiSyv6X5ofYAhVm_4MKHTYuACQ4ChDoAQgwMAM#v=onepage&q=J.%20C.%20Pembrey&f=false",
+        "text": "\"The Oxford University Press: An Informal History\" by Peter H. Sutcliffe"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 11,
+        "sentence": 4
+      },
+      "text": "That we have succeeded so well as we have done is owing chiefly to the intelligence, ingenuity, and untiring attention of Mr. J. C. Pembrey, the Oriental Reader."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 19,
+    "name": {
+      "legge": "James Henry Sedgwick",
+      "modern": "James Henry Sedgwick"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Sedgwick James",
+    "title": null,
+    "biography": {
+      "legge": "English Anglican reverend and missionary in China for  the Church Missionary Society."
+    },
+    "links": [
+      {
+        "url": "http://annesleysedgwick.blogspot.com/2015/10/12-rev-james-henry-sedgwick-harolds.html",
+        "text": "Rev James Henry Sedgwick - Harold's father - His life in UK and China."
+      },
+      {
+        "url": "https://nla.gov.au/nla.obj-1444224257/view",
+        "text": "\"The Life and Times of The Reverend James Henry Sedgwick and his wife Ellen Jennings Parents of Harold Sedgwick, alias Claude Harold Annesley A Narrative, and Compilation of the Facts of his life.\" by Kristine M. Herron"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "PREFACE",
+        "paragraph": 12,
+        "sentence": 1
+      },
+      "text": "I am indebted for the use of it to the Rev. J. H. Sedgwick, University Chinese Scholar."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 20,
+    "name": {
+      "legge": "Alexander Cunningham",
+      "modern": "Alexander Cunningham"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Cunningham Alexander",
+    "title": {
+      "legge": "Major General, Companion of the Order of the Star of India, Knight Commander of the Order of the Indian Empire"
+    },
+    "biography": {
+      "legge": "British army engineer and founder of the Archaeological Survey of India."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Alexander_Cunningham",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "NOTE ON THE SKETCH-MAP",
+        "paragraph": 1,
+        "sentence": 0
+      },
+      "text": "There is no difficulty in laying it down after he crossed the Indus from the east to west into the Punjâb, all the principal places, at which he touched or rested, having been determined by Cunningham and other Indian geographers and archaeologists."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 21,
+    "name": {
+      "legge": "George Bellas Greenough",
+      "modern": "George Bellas Greenough"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Greenough George",
+    "title": {
+      "legge": "Fellow of the Royal Society, Fellow of the Geological Society of London"
+    },
+    "biography": {
+      "legge": "English geologist."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/George_Bellas_Greenough",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "NOTE ON THE SKETCH-MAP",
+        "paragraph": 1,
+        "sentence": 4
+      },
+      "text": "A doubt in intimated on page 24 as to the identification of T’o-leih with Darada, but Greenough’s ‘Physical and Geological Sketch-Map of British India’ shows ‘Dardu Proper,’ all lying on the east of the Indus, exactly in the position where the Narrative would leas us to place it."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 22,
+    "name": {
+      "modern": "Zhū Dì"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "愛新覺羅 玄燁",
-      "simplifiedChinese": "愛新覺羅 玄燁"
+      "chineseTraditional": "朱棣",
+      "chineseSimplified": "朱棣"
     },
+    "sortName": "Zhu Di",
+    "title": {
+      "legge": "Yongle Emperor"
+    },
+    "biography": {
+      "legge": "Third emperor of the Ming Dynasty."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yongle_Emperor",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 0,
+        "sentence": 1
+      },
+      "text": "I have read the accounts of him in the ‘Memoirs of Eminent Monks,’ compiled in A.D. 519, and a later work, the ‘Memoirs of Marvellous Monks,’ by the third emperor of the Ming dynasty (A.D. 1403-1424), which, however, is nearly all borrowed from the other; and all in them that has an appearance of verisimilitude can be brought within brief compass."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 23,
+    "name": {
+      "legge": "Buddha-bhadra",
+      "modern": "Buddhabhadra"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "佛陀跋陀羅",
+      "chineseSimplified": "佛陀跋陀罗"
+    },
+    "sortName": "Buddhabhadra",
+    "title": null,
+    "biography": {
+      "legge": "Indian Mahayana meditation and Vinaya master."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Buddhabhadra_(translator)",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 5,
+        "sentence": 0
+      },
+      "text": "It is said in the end that after his return to China, he went to the capital (evidently Nanking), and there, along with the Indian Śramaṇa Buddha-bhadra, executed translations of some of the works which he had obtained in India; and that before he had done all that he wished to do in this way, he removed to King-chow (in the present Hoo-pih), and died in the monastery of Sin, at the age of eighty-eight, to the great sorrow of all who knew him."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 24,
+    "name": {
+      "legge": "Le Tâo-yüen",
+      "modern": "Li Daoyuan"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "酈道元",
+      "chineseSimplified": "郦道元"
+    },
+    "sortName": "Li Daoyuan",
+    "title": null,
+    "biography": {
+      "legge": "Chinese geographer during the Northern Wei Dynasty."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Li_Daoyuan",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 10,
+        "sentence": 1
+      },
+      "text": "The Catalogue Raisonné of the imperial library of the present dynasty (chap. 71) mentions two quotations from it by Le Tâo-yüen, a geographical writer of the dynasty of the Northern Wei (A.D. 386-584), one of them containing 89 characters, and the other 276; both of them given as from the ‘Narrative of Fâ-hien.’"
+    },
+    "confidence": 99
+  },
+  {
+    "id": 25,
+    "name": {
+      "legge": "Jules Barthélemy-Saint-Hilaire",
+      "modern": "Jules Barthélemy-Saint-Hilaire"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Barthelemy-Saint-Hilaire",
+    "title": null,
+    "biography": {
+      "legge": "French philosopher, journalist, and statesman."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jules_Barth%C3%A9lemy-Saint-Hilaire",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 16,
+        "sentence": 0
+      },
+      "text": "ii. In his article on M. J. Barthélemy Saint Hilaire’s ‘Le Bouddha et sa Religion,’ republished in his ‘Chips from a German Workshop,’ vol. i. (1868), Professor Max Müller (p. 215) says, ‘The young prince became the founder of a religion which, after more than two thousand years, is still professed by 455 millions of human beings,’ and he appends the following note: ‘Though truth is not settled by majorities, it would be interesting to know which religion counts at the present moment the largest numbers of believers. Berghaus, in his “Physical Atlas,” gives the following division of the human race according to religion:—“Buddhists 31.2 per cent, Christians 30.7, Mohammedans 15.7, Brahmanists 13.4, Heathens 8.7, and Jews 0.3.” As Berghaus does not distinguish the Buddhists in China from the followers of Confucius and Laotse, the first place on the scale belongs really to Christianity. It is difficult in China to say to what religion a man belongs, as the same person may profess two or three. The emperor himself, after sacrificing according to the ritual of Confucius, visits a Tao-ssé temple, and afterwards bows before an image of Fo in a Buddhist chapel. (“Mélanges Asiatiques de St. Pétersbourg,” vol. ii. p. 374.)’"
+    },
+    "confidence": 99
+  },
+  {
+    "id": 26,
+    "name": {
+      "legge": "Max Müller",
+      "modern": "Max Müller"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Muller Max",
+    "title": null,
+    "biography": {
+      "legge": "German philologist and Orientalist."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Max_M%C3%BCller",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 16,
+        "sentence": 0
+      },
+      "text": "ii. In his article on M. J. Barthélemy Saint Hilaire’s ‘Le Bouddha et sa Religion,’ republished in his ‘Chips from a German Workshop,’ vol. i. (1868), Professor Max Müller (p. 215) says, ‘The young prince became the founder of a religion which, after more than two thousand years, is still professed by 455 millions of human beings,’ and he appends the following note: ‘Though truth is not settled by majorities, it would be interesting to know which religion counts at the present moment the largest numbers of believers. Berghaus, in his “Physical Atlas,” gives the following division of the human race according to religion:—“Buddhists 31.2 per cent, Christians 30.7, Mohammedans 15.7, Brahmanists 13.4, Heathens 8.7, and Jews 0.3.” As Berghaus does not distinguish the Buddhists in China from the followers of Confucius and Laotse, the first place on the scale belongs really to Christianity. It is difficult in China to say to what religion a man belongs, as the same person may profess two or three. The emperor himself, after sacrificing according to the ritual of Confucius, visits a Tao-ssé temple, and afterwards bows before an image of Fo in a Buddhist chapel. (“Mélanges Asiatiques de St. Pétersbourg,” vol. ii. p. 374.)’"
+    },
+    "confidence": 99
+  },
+  {
+    "id": 27,
+    "name": {
+      "legge": "Heinrich Berghaus",
+      "modern": "Heinrich Berghaus"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Berghaus Heinrich",
+    "title": null,
+    "biography": {
+      "legge": "German geographer and cartographer."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Berghaus",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 16,
+        "sentence": 0
+      },
+      "text": "ii. In his article on M. J. Barthélemy Saint Hilaire’s ‘Le Bouddha et sa Religion,’ republished in his ‘Chips from a German Workshop,’ vol. i. (1868), Professor Max Müller (p. 215) says, ‘The young prince became the founder of a religion which, after more than two thousand years, is still professed by 455 millions of human beings,’ and he appends the following note: ‘Though truth is not settled by majorities, it would be interesting to know which religion counts at the present moment the largest numbers of believers. Berghaus, in his “Physical Atlas,” gives the following division of the human race according to religion:—“Buddhists 31.2 per cent, Christians 30.7, Mohammedans 15.7, Brahmanists 13.4, Heathens 8.7, and Jews 0.3.” As Berghaus does not distinguish the Buddhists in China from the followers of Confucius and Laotse, the first place on the scale belongs really to Christianity. It is difficult in China to say to what religion a man belongs, as the same person may profess two or three. The emperor himself, after sacrificing according to the ritual of Confucius, visits a Tao-ssé temple, and afterwards bows before an image of Fo in a Buddhist chapel. (“Mélanges Asiatiques de St. Pétersbourg,” vol. ii. p. 374.)’"
+    },
+    "confidence": 99
+  },
+  {
+    "id": 28,
+    "name": {
+      "legge": "Confucius",
+      "modern": "Kong Fuzi"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "孔子",
+      "chineseSimplified": "孔子"
+    },
+    "sortName": "Kong Fuzi",
+    "title": null,
+    "biography": {
+      "legge": "Chinese philosopher."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Confucius",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 16,
+        "sentence": 0
+      },
+      "text": "ii. In his article on M. J. Barthélemy Saint Hilaire’s ‘Le Bouddha et sa Religion,’ republished in his ‘Chips from a German Workshop,’ vol. i. (1868), Professor Max Müller (p. 215) says, ‘The young prince became the founder of a religion which, after more than two thousand years, is still professed by 455 millions of human beings,’ and he appends the following note: ‘Though truth is not settled by majorities, it would be interesting to know which religion counts at the present moment the largest numbers of believers. Berghaus, in his “Physical Atlas,” gives the following division of the human race according to religion:—“Buddhists 31.2 per cent, Christians 30.7, Mohammedans 15.7, Brahmanists 13.4, Heathens 8.7, and Jews 0.3.” As Berghaus does not distinguish the Buddhists in China from the followers of Confucius and Laotse, the first place on the scale belongs really to Christianity. It is difficult in China to say to what religion a man belongs, as the same person may profess two or three. The emperor himself, after sacrificing according to the ritual of Confucius, visits a Tao-ssé temple, and afterwards bows before an image of Fo in a Buddhist chapel. (“Mélanges Asiatiques de St. Pétersbourg,” vol. ii. p. 374.)’"
+    },
+    "confidence": 99
+  },
+  {
+    "id": 29,
+    "name": {
+      "legge": "Laotse",
+      "modern": "Laozi"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "老子",
+      "chineseSimplified": "老子"
+    },
+    "sortName": "Laozi",
+    "title": null,
+    "biography": {
+      "legge": "Ancient Chinese Taoist philosopher."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Laozi",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 16,
+        "sentence": 0
+      },
+      "text": "ii. In his article on M. J. Barthélemy Saint Hilaire’s ‘Le Bouddha et sa Religion,’ republished in his ‘Chips from a German Workshop,’ vol. i. (1868), Professor Max Müller (p. 215) says, ‘The young prince became the founder of a religion which, after more than two thousand years, is still professed by 455 millions of human beings,’ and he appends the following note: ‘Though truth is not settled by majorities, it would be interesting to know which religion counts at the present moment the largest numbers of believers. Berghaus, in his “Physical Atlas,” gives the following division of the human race according to religion:—“Buddhists 31.2 per cent, Christians 30.7, Mohammedans 15.7, Brahmanists 13.4, Heathens 8.7, and Jews 0.3.” As Berghaus does not distinguish the Buddhists in China from the followers of Confucius and Laotse, the first place on the scale belongs really to Christianity. It is difficult in China to say to what religion a man belongs, as the same person may profess two or three. The emperor himself, after sacrificing according to the ritual of Confucius, visits a Tao-ssé temple, and afterwards bows before an image of Fo in a Buddhist chapel. (“Mélanges Asiatiques de St. Pétersbourg,” vol. ii. p. 374.)’"
+    },
+    "confidence": 99
+  },
+  {
+    "id": 30,
+    "name": {
+      "legge": "Kwo Sung-tâo",
+      "modern": "Guō Sōngtāo"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "郭嵩焘",
+      "chineseSimplified": "郭嵩焘"
+    },
+    "sortName": "Guo Songtao",
+    "title": null,
+    "biography": {
+      "legge": "Chinese diplomat and statesman during the Qing Dynasty."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Guo_Songtao",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 19,
+        "sentence": 1
+      },
+      "text": "At an interview with the former Chinese ambassador, Kwo Sung-tâo, in Paris, in 1878, I begged him to write out for me the amount, with the authority for it, and he assured me that it could not be done."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 31,
+    "name": {
+      "modern": "Aisin-Gioro Xuanye"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "愛新覺羅 玄燁",
+      "chineseSimplified": "愛新覺羅 玄燁"
+    },
+    "sortName": "Aisin-Gioro",
     "title": {
       "legge": "K’ang-hsî Emperor",
       "modern": "Kangxi Emperor"
     },
-    "appearance": "INTRODUCTION.",
+    "biography": {
+      "legge": "Third emperor of the Qing Dynasty."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Kangxi_Emperor",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Kangxi_Emperor",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": "INTRODUCTION",
+        "paragraph": 21,
+        "sentence": 0
+      },
+      "text": "Among ‘the strange principles’ which the emperor of the K’ang-hsî period, in one of his famous Sixteen Precepts, exhorted his people to ‘discountenance and put away, in order to exalt the correct doctrine,’ Buddhism and Tâoism were both included."
+    },
+    "confidence": 99
   },
   {
+    "id": 32,
     "name": {
       "legge": "Yâo Hing",
       "modern": "Yáo Xìng"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "姚興",
-      "simplifiedChinese": "姚兴"
+      "chineseTraditional": "姚興",
+      "chineseSimplified": "姚兴"
     },
+    "sortName": "Yao Xing",
     "title": {
       "legge": "Prince of the After Ts’in",
       "modern": "Prince of the Later Qin"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Second emperor of the Later Qin Dynasty.",
+    "biography": {
+      "legge": "Second emperor of the After Ts’in Dynasty.",
+      "modern": "Second emperor of the Later Qin Dynasty."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Yao_Xing",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Yao_Xing",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 1
+      },
+      "text": "He adopted Hwăng-che for the style of his reign in 399, and the cyclical name of that year was Kăng-tsze."
+    },
+    "confidence": 99
   },
   {
+    "id": 33,
     "name": {
       "legge": "Hwuy-king",
       "modern": "Huì Jǐng"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "慧景",
-      "simplifiedChinese": "慧景"
+      "chineseTraditional": "慧景",
+      "chineseSimplified": "慧景"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "sortName": "Hui Jing",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/7003808.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7003808.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 1
+      },
+      "text": {
+        "legge": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hwăng-che, being the Ke-hâe year of the cycle, he entered into an engagement with Hwuy-king, Tâo-ching, Hwuy-ying, and Hwuy-wei, that they should go to India and seek for the Disciplinary Rules.",
+        "modern": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hóng shǐ, being the Ke-hâe year of the cycle, he entered into an engagement with Huìjǐng, Tâo-ching, Hwuy-ying, and Hwuy-wei, that they should go to India and seek for the Disciplinary Rules."
+      }
+    },
+    "confidence": 99
   },
   {
+    "id": 34,
     "name": {
       "legge": "Tâo-ching",
       "modern": "Dào Zhěng"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "道整",
-      "simplifiedChinese": "道整"
+      "chineseTraditional": "道整",
+      "chineseSimplified": "道整"
     },
-    "appearance": "CHAPTER I.",
+    "sortName": "Dao Zheng",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/7003809.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7003809.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 1
+      },
+      "text": {
+        "legge": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hwăng-che, being the Ke-hâe year of the cycle, he entered into an engagement with Hwuy-king, Tâo-ching, Hwuy-ying, and Hwuy-wei, that they should go to India and seek for the Disciplinary Rules.",
+        "modern": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hóng shǐ, being the Ke-hâe year of the cycle, he entered into an engagement with Huìjǐng, Tâo-ching, Hwuy-ying, and Hwuy-wei, that they should go to India and seek for the Disciplinary Rules."
+      }
+    },
+    "confidence": 99
   },
   {
+    "id": 35,
     "name": {
       "legge": "Hwuy-ying",
       "modern": "Huì Yīng"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "慧應",
-      "simplifiedChinese": "慧应"
+      "chineseTraditional": "慧應",
+      "chineseSimplified": "慧应"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "sortName": "Hui Ying",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/37803.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/37803.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 1
+      },
+      "text": {
+        "legge": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hwăng-che, being the Ke-hâe year of the cycle, he entered into an engagement with Hwuy-king, Tâo-ching, Hwuy-ying, and Hwuy-wei, that they should go to India and seek for the Disciplinary Rules.",
+        "modern": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hóng shǐ, being the Ke-hâe year of the cycle, he entered into an engagement with Huìjǐng, Tâo-ching, Hwuy-ying, and Hwuy-wei, that they should go to India and seek for the Disciplinary Rules."
+      }
+    },
+    "confidence": 99
   },
   {
+    "id": 36,
     "name": {
       "legge": "Hwuy-wei",
       "modern": "Huìwéi"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "慧嵬",
-      "simplifiedChinese": "慧嵬"
+      "chineseTraditional": "慧嵬",
+      "chineseSimplified": "慧嵬"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "sortName": "Hui Wei",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/7001511.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7001511.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 1
+      },
+      "text": {
+        "legge": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hwăng-che, being the Ke-hâe year of the cycle, he entered into an engagement with Hwuy-king, Tâo-ching, Hwuy-ying, and Hwuy-wei, that they should go to India and seek for the Disciplinary Rules.",
+        "modern": "Deploring the mutilated and imperfect state of the collection of the Books of Discipline, in the second year of the period Hóng shǐ, being the Ke-hâe year of the cycle, he entered into an engagement with Huìjǐng, Tâo-ching, Hwuy-ying, and Hwuy-wei, that they should go to India and seek for the Disciplinary Rules."
+      }
+    },
+    "confidence": 99
   },
   {
+    "id": 37,
     "name": {
       "legge": "K’eih-fuh K’een-kwei",
       "modern": "Qǐfú Qiánguī"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "乞伏乾歸",
-      "simplifiedChinese": "乞伏干归"
+      "chineseTraditional": "乞伏乾歸",
+      "chineseSimplified": "乞伏干归"
     },
+    "sortName": "Qifu Qiangui",
     "title": {
       "legge": "King of the Western Ts’in",
       "modern": "Prince Wuyuan of Henan"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Second king of the Western Qin dynasty.",
+    "biography": {
+      "legge": "Second king of the Western Ts’in dynasty.",
+      "modern": "Second king of the Western Qin dynasty."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Qifu_Gangui",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Qifu_Gangui",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 0
+      },
+      "text": {
+        "legge": "After starting from Ch’ang-gan, they passed through Lung, and came to the kingdom of K’een-kwei, where they stopped for the summer retreat.",
+        "modern": "After starting from Cháng'ān, they passed through Lǒng, and came to the kingdom of Gānguī, where they stopped for the summer retreat."
+      }
+    },
+    "confidence": 99
   },
   {
+    "id": 38,
     "name": {
       "legge": "K’eih-fuh Kwo-jin",
       "modern": "Qǐfú Guórén"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "乞伏國仁",
-      "simplifiedChinese": "乞伏国仁"
+      "chineseTraditional": "乞伏國仁",
+      "chineseSimplified": "乞伏国仁"
     },
+    "sortName": "Qifu Guoren",
     "title": {
       "legge": "King of the Western Ts’in",
       "modern": "Prince Xuanlie of Wanchuan"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "First king of the Western Qin dynasty.",
+    "biography": {
+      "legge": "First king of the Western Ts’in dynasty.",
+      "modern": "First king of the Western Qin dynasty."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Qifu_Guoren",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Qifu_Guoren",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 2,
+        "footnote": 5
+      },
+      "text": "The first king was Kwo-jin, and received his appointment from the sovereign of the chief Ts’in kingdom in 385."
+    },
+    "confidence": 99
   },
   {
+    "id": 39,
     "name": {
       "legge": "T’ŭh-făh Now-t’an",
       "modern": "Tūfà Nùtán"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "禿髮傉檀",
-      "simplifiedChinese": "秃发傉檀"
+      "chineseTraditional": "禿髮傉檀",
+      "chineseSimplified": "秃发傉檀"
     },
+    "sortName": "Tufa Nutan",
     "title": {
       "legge": "King of the Southern Leang",
       "modern": "King of the Southern Liáng"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Third king of the Southern Liáng.",
+    "biography": {
+      "legge": "Third king of the Southern Leang.",
+      "modern": "Third king of the Southern Liáng."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Tufa_Rutan",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Tufa_Rutan",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1
+      },
+      "text": {
+        "legge": "When that was over, they went forward to the kingdom of Now-t’an, crossed the mountain of Yang-low, and reached the emporium of Chang-yih.",
+        "modern": "When that was over, they went forward to the kingdom of Rùtán, crossed the mountain of Yǎnglóu, and reached the emporium of Zhāngyè."
+      }
+    },
+    "confidence": 99
   },
   {
+    "id": 40,
     "name": {
       "legge": "T’ŭh-făh Wû-kû",
       "modern": "Tūfà Wūgū"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "禿髮烏孤",
-      "simplifiedChinese": "秃发乌孤"
+      "chineseTraditional": "禿髮烏孤",
+      "chineseSimplified": "秃发乌孤"
     },
+    "sortName": "Tufa Wugu",
     "title": {
       "legge": "King of the Southern Leang",
       "modern": "King of the Southern Liáng"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "First king of the Southern Liáng.",
+    "biography": {
+      "legge": "First king of the Southern Leang.",
+      "modern": "First king of the Southern Liáng."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Tufa_Wugu",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Tufa_Wugu",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 2,
+        "footnote": 7
+      },
+      "text": "The ‘southern Leang’ arose in 397 under a T’ŭh-făh Wû-kû, who was succeeded in 399 by a brother, Le-luh-koo; and he again by his brother, the Now-t’an of the text, in 402, who was not yet king therefore when Fâ-hien and his friends reached his capital."
+    },
+    "confidence": 99
   },
   {
+    "id": 41,
     "name": {
-      "legge": "Le-luh-koo Wû-kû",
+      "legge": "T’ŭh-făh Le-luh-koo",
       "modern": "Tūfà Lìlùgū"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "禿髮利鹿孤",
-      "simplifiedChinese": "秃发利鹿孤"
+      "chineseTraditional": "禿髮利鹿孤",
+      "chineseSimplified": "秃发利鹿孤"
     },
+    "sortName": "Tufa Lilugu",
     "title": {
       "legge": "King of the Southern Leang",
       "modern": "King of the Southern Liáng"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Second king of the Southern Liáng.",
+    "biography": {
+      "legge": "Second king of the Southern Leang.",
+      "modern": "Second king of the Southern Liáng."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Tufa_Lilugu",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Tufa_Lilugu",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 2,
+        "footnote": 7
+      },
+      "text": "The ‘southern Leang’ arose in 397 under a T’ŭh-făh Wû-kû, who was succeeded in 399 by a brother, Le-luh-koo; and he again by his brother, the Now-t’an of the text, in 402, who was not yet king therefore when Fâ-hien and his friends reached his capital."
+    },
+    "confidence": 99
   },
   {
+    "id": 42,
     "name": {
       "legge": "Twan-yeh",
       "modern": "Duàn Yè"
     },
     "nonRomanizedName": {
-      "tradtionalChinese": "段業",
-      "simplifiedChinese": "段业"
+      "chineseTraditional": "段業",
+      "chineseSimplified": "段业"
     },
+    "sortName": "Duan Ye",
     "title": {
       "legge": "King of the Northern Leang",
       "modern": "King of the Northern Liáng"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Third king of the Northern Liáng.",
+    "biography": {
+      "legge": "King of the Northern Leang.",
+      "modern": "King of the Northern Liáng."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Duan_Ye",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Duan_Ye",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 2,
+        "footnote": 8
+      },
+      "text": "Its king at this time was, probably, Twan-yeh of ‘the northern Leang.’"
+    },
+    "confidence": 99
   },
   {
+    "id": 43,
     "name": {
       "legge": "Che-yen",
       "modern": "Zhì Yán"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "智嚴",
-      "simplifiedChinese": "智严"
+      "chineseTraditional": "智嚴",
+      "chineseSimplified": "智严"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "sortName": "Zhi Yan",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/7001382.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7001382.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "Here they met with Che-yen, Hwuy-keen, Săng-shâo, Pâo-yun, and Săng-king; and in pleasant association with them, as bound on the same journey with themselves, they passed the summer retreat (of that year) together, resuming after it their travelling, and going on to T’un-hwang, (the chief town) in the frontier territory of defence extending for about 80 le from east to west, and about 40 from north to south."
+    },
+    "confidence": 99
   },
   {
+    "id": 44,
     "name": {
       "legge": "Hwuy-keen",
       "modern": "Huì Jiǎn"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "慧簡",
-      "simplifiedChinese": "慧简"
+      "chineseTraditional": "慧簡",
+      "chineseSimplified": "慧简"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "sortName": "Hui Jian",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/7003834.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7003834.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "Here they met with Che-yen, Hwuy-keen, Săng-shâo, Pâo-yun, and Săng-king; and in pleasant association with them, as bound on the same journey with themselves, they passed the summer retreat (of that year) together, resuming after it their travelling, and going on to T’un-hwang, (the chief town) in the frontier territory of defence extending for about 80 le from east to west, and about 40 from north to south."
+    },
+    "confidence": 99
   },
   {
+    "id": 45,
     "name": {
       "legge": "Săng-shâo",
       "modern": "Sēng Shào"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "僧紹",
-      "simplifiedChinese": "僧绍"
+      "chineseTraditional": "僧紹",
+      "chineseSimplified": "僧绍"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "sortName": "Seng Shao",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/7003835.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7003835.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "Here they met with Che-yen, Hwuy-keen, Săng-shâo, Pâo-yun, and Săng-king; and in pleasant association with them, as bound on the same journey with themselves, they passed the summer retreat (of that year) together, resuming after it their travelling, and going on to T’un-hwang, (the chief town) in the frontier territory of defence extending for about 80 le from east to west, and about 40 from north to south."
+    },
+    "confidence": 99
   },
   {
+    "id": 46,
     "name": {
       "legge": "Pâo-yun",
       "modern": "Bǎoyún"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "寶雲"
+      "chineseTraditional": "寶雲",
+      "chineseSimplified": "宝云"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Monk who joined Fǎxiǎn on his travels.",
+    "sortName": "Baoyun",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/7001383.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7001383.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "Here they met with Che-yen, Hwuy-keen, Săng-shâo, Pâo-yun, and Săng-king; and in pleasant association with them, as bound on the same journey with themselves, they passed the summer retreat (of that year) together, resuming after it their travelling, and going on to T’un-hwang, (the chief town) in the frontier territory of defence extending for about 80 le from east to west, and about 40 from north to south."
+    },
+    "confidence": 99
   },
   {
+    "id": 47,
     "name": {
       "legge": "Săng-king",
       "modern": "Sēng Jǐng"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "僧景",
-      "simplifiedChinese": "僧景"
+      "chineseTraditional": "僧景",
+      "chineseSimplified": "僧景"
     },
-    "appearance": "CHAPTER I.",
-    "biography": "Monk who joined Fǎxiǎn on his travels.",
-    "links": []
+    "sortName": "Seng Jing",
+    "title": null,
+    "biography": {
+      "legge": "Monk who joined Fâ-hien on his travels.",
+      "modern": "Monk who joined Fǎxiǎn on his travels."
+    },
+    "links": [
+      {
+        "url": "https://ntireader.org/words/7003815.html",
+        "text": "NTI Reader"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "Here they met with Che-yen, Hwuy-keen, Săng-shâo, Pâo-yun, and Săng-king; and in pleasant association with them, as bound on the same journey with themselves, they passed the summer retreat (of that year) together, resuming after it their travelling, and going on to T’un-hwang, (the chief town) in the frontier territory of defence extending for about 80 le from east to west, and about 40 from north to south."
+    },
+    "confidence": 99
   },
   {
-    "name": "Unnamed Envoy",
-    "appearance": "CHAPTER I."
+    "id": 48,
+    "name": {
+      "legge": "Unnamed Envoy",
+      "modern": "Unnamed Envoy"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Unnamed Envoy",
+    "title": null,
+    "biography": {
+      "legge": "Envoy from T’un-hwang.",
+      "modern": "Envoy from Dūnhuáng."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 1
+      },
+      "text": "Their company, increased as it had been, halted there for some days more than a month, after which Fâ-hien and his four friends started first in the suite of an envoy, having separated (for a time) from Pâo-yun and his associates."
+    },
+    "confidence": 99
   },
   {
+    "id": 49,
     "name": {
       "legge": "Le Hâo",
       "modern": "Lǐ Hào"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "燉煌",
-      "simplifiedChinese": "燉煌"
+      "chineseTraditional": "李浩",
+      "chineseSimplified": "李浩"
     },
+    "sortName": "Li Hao",
     "title": {
       "legge": "Prefect of T'un-hwang",
       "modern": "Prefect of Dūnhuáng"
     },
-    "appearance": "CHAPTER I."
+    "biography": {
+      "legge": "Prefect of T'un-hwang.",
+      "modern": "Prefect of Dūnhuáng."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 3,
+        "sentence": 0
+      },
+      "text": "Le Hâo, the prefect of T’un-hwang, had supplied them with the means of crossing the desert (before them), in which there are many evil demons and hot winds."
+    },
+    "confidence": 99
   },
   {
-    "name": "Frederick Porter Smith",
-    "appearance": "CHAPTER I.",
-    "biography": "British missionary in China.",
+    "id": 50,
+    "name": {
+      "legge": "Frederick Porter Smith",
+      "modern": "Frederick Porter Smith"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Smith Frederick",
+    "title": null,
+    "biography": {
+      "legge": "British missionary in China."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Frederick_Porter_Smith",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Frederick_Porter_Smith",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 1,
+        "paragraph": 0,
+        "sentence": 3,
+        "footnote": 15
+      },
+      "text": "In his ‘Vocabulary of Proper Names,’ p. 23, Dr. Porter Smith says:—‘It extends from the eastern frontier of Mongolia, south-westward to the further frontier of Turkestan, to within six miles of Ilchî, the chief town of Khoten."
+    },
+    "confidence": 99
   },
   {
-    "name": "Alexander Wylie",
-    "appearance": "CHAPTER II.",
-    "biography": "British missionary in China.",
+    "id": 51,
+    "name": {
+      "legge": "Alexander Wylie",
+      "modern": "Alexander Wylie"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Wylie Alexander",
+    "title": null,
+    "biography": {
+      "legge": "British missionary in China."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Alexander_Wylie_(missionary)",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Alexander_Wylie_(missionary)",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 2,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 0
+      },
+      "text": "The clothes of the common people are coarse, and like those worn in our land of Han, some wearing felt and others coarse serge or cloth of hair;—this was the only difference seen among them."
+    },
+    "confidence": 99
   },
   {
+    "id": 52,
     "name": {
       "legge": "King of Shen-shen",
       "modern": "King of Shànshàn"
     },
+    "nonRomanizedName": null,
+    "sortName": "King of Shanshan",
     "title": {
       "legge": "King of Shen-shen",
       "modern": "King of Shànshàn"
     },
-    "appearance": "CHAPTER II."
+    "biography": {
+      "legge": "King of Shen-shen.",
+      "modern": "King of Shànshàn."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 2,
+        "paragraph": 0,
+        "sentence": 2
+      },
+      "text": "The king professed (our) Law, and there might be in the country more than four thousand monks, who were all students of the hînayâna."
+    },
+    "confidence": 99
   },
   {
+    "id": 53,
     "name": {
       "legge": "Foo Kung-sun",
       "modern": "Fú Gōngsūn"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "符公孫",
-      "simplifiedChinese": "符公孙"
+      "chineseTraditional": "符公孫",
+      "chineseSimplified": "符公孙"
     },
+    "sortName": "Fu Gongsun",
     "title": {
       "legge": "Maître d’hôtellerie of Woo-e Monastery",
       "modern": "Maître d’hôtellerie of Wūyí Monastery"
     },
-    "appearance": "CHAPTER II."
+    "biography": {
+      "legge": "Maître d’hôtellerie of Woo-e Monastery.",
+      "modern": "Maître d’hôtellerie of Wūyí Monastery."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 2,
+        "paragraph": 0,
+        "sentence": 9
+      },
+      "text": "Fâ-hien, through the management of Foo Kung-sun, maître d’hôtellerie, was able to remain (with his company in the monastery where they were received) for more than two months, and here they were rejoined by Pâo-yun and his friends."
+    },
+    "confidence": 99
   },
   {
+    "id": 54,
     "name": {
       "legge": "Hâji Habeeboolla",
       "modern": "Haji Habibullah"
     },
+    "nonRomanizedName": null,
+    "sortName": "Habibullah Haji",
     "title": {
-      "legge": "Governor of Khoten."
+      "legge": "Governor of Khoten",
+      "modern": "Governor of Khotan"
     },
-    "appearance": "CHAPTER II.",
+    "biography": {
+      "legge": "Governor of Khoten.",
+      "modern": "Governor of Khotan."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/William_Johnson_(surveyor)",
-	"text": "William Johnson (surveyor) - Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/William_Johnson_(surveyor)",
+        "text": "William Johnson (surveyor) - Wikipedia"
       },
       {
-	"url": "https://en.wikipedia.org/wiki/Xaidulla",
-	"text": "Xaidulla - Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Xaidulla",
+        "text": "Xaidulla - Wikipedia"
       },
       {
-	"url": "https://archive.org/details/ruinsofdesertcat02stei_0/page/n7/mode/2up",
-	"text": "\"Ruins of Desert Cathay: Personal Narrative of Explorations in Central Asia and Westernmost China Vol. II\" by M. Aurel Stein"
+        "url": "https://archive.org/details/ruinsofdesertcat02stei_0/page/n7/mode/2up",
+        "text": "\"Ruins of Desert Cathay: Personal Narrative of Explorations in Central Asia and Westernmost China Vol. II\" by M. Aurel Stein"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 2,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 12
+      },
+      "text": "Dr. P. Smith gives (p. 11) the following description of it:—‘A large district on the south-west of the desert of Gobi, embracing all the country south of Oksu and Yarkand, along the northern base of the Kwun-lun mountains, for more than 300 miles from east to west. The town of the same name, now called Ilchî, is in an extensive plain on the Khoten river, in lat. 37° N., and lon. 80° 35' E. After the Tungâni insurrection against Chinese rule in 1862, the Mufti Hâji Habeeboolla was made governor of Khoten, and held the office till he was murdered by Yakoob Beg, who became for a time the conqueror of all Chinese Turkestan. Khoten produces fine linen and cotton stuffs, jade ornaments, copper, grain, and fruits.’"
+    },
+    "confidence": 90
   },
   {
+    "id": 55,
     "name": {
       "legge": "Yakoob Beg",
       "modern": "Muhammad Yaqub Bek"
@@ -740,156 +1705,342 @@
     "nonRomanizedName": {
       "tajik": "Яъқуб-бек"
     },
-    "appearance": "CHAPTER II.",
+    "sortName": "Bek Yaqub",
     "title": {
       "modern": "Atalik Ghazi"
     },
-    "biography": "Leader of the Dungan Revolt and the Yettishar state.",
+    "biography": {
+      "legge": "Leader of the Dungan Revolt and the Yettishar state."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Yaqub_Beg",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Yaqub_Beg",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 2,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 12
+      },
+      "text": "Dr. P. Smith gives (p. 11) the following description of it:—‘A large district on the south-west of the desert of Gobi, embracing all the country south of Oksu and Yarkand, along the northern base of the Kwun-lun mountains, for more than 300 miles from east to west. The town of the same name, now called Ilchî, is in an extensive plain on the Khoten river, in lat. 37° N., and lon. 80° 35' E. After the Tungâni insurrection against Chinese rule in 1862, the Mufti Hâji Habeeboolla was made governor of Khoten, and held the office till he was murdered by Yakoob Beg, who became for a time the conqueror of all Chinese Turkestan. Khoten produces fine linen and cotton stuffs, jade ornaments, copper, grain, and fruits.’"
+    },
+    "confidence": 99
   },
   {
+    "id": 56,
     "name": {
       "legge": "Hsüan Ch’wang",
       "modern": "Xuánzàng"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "玄奘",
-      "simplifiedChinese": "玄奘"
+      "chineseTraditional": "玄奘",
+      "chineseSimplified": "玄奘"
     },
-    "appearance": "CHAPTER III.",
-    "biography": "Chinese monk who wrote about his travels.",
+    "sortName": "Xuanzang",
+    "title": null,
+    "biography": {
+      "legge": "Chinese monk who wrote about his travels."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Xuanzang",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Xuanzang",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 3,
+        "paragraph": 0,
+        "sentence": 0,
+        "footnote": 0
+      },
+      "text": "YU-TEEN is a pleasant and prosperous kingdom, with a numerous and flourishing population."
+    },
+    "confidence": 99,
+    "notes": "Xuánzàng is even more well known than Fǎxiǎn."
   },
   {
+    "id": 57,
     "name": {
       "legge": "King of Yu-teen",
       "modern": "King of Yú Tián"
     },
+    "nonRomanizedName": null,
+    "sortName": "King of Yu Tian",
     "title": {
       "legge": "King of Yu-teen",
       "modern": "King of Yú Tián"
     },
-    "appearance": "CHAPTER III."
+    "biography": {
+      "legge": "King of Yu-teen.",
+      "modern": "King of Yú Tián."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 3,
+        "paragraph": 1,
+        "sentence": 0
+      },
+      "text": "The lord of the country lodged Fâ-hien and the others comfortably, and supplied their wants, in a monastery called Gomati, of the mahâyâna school."
+    },
+    "confidence": 99
   },
   {
+    "id": 58,
     "name": {
       "legge": "Hwuy-tah",
       "modern": "Huìdá"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "慧達",
-      "simplifiedChinese": "慧达"
+      "chineseTraditional": "慧達",
+      "chineseSimplified": "慧达"
     },
-    "appearance": "CHAPTER III.",
-    "biography": "Possibly an alias for another of Fǎxiǎn's companions.",
+    "sortName": "Huida",
+    "title": null,
+    "biography": {
+      "legge": "Possibly an alias for another of Fâ-hien's companions.",
+      "modern": "Possibly an alias for another of Fǎxiǎn's companions."
+    },
     "links": [
       {
-	"url": "https://ntireader.org/words/7000724.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/7000724.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 3,
+        "paragraph": 2,
+        "sentence": 0
+      },
+      "text": "Hwuy-king, Tâo-ching, and Hwuy-tah set out in advance towards the country of K’eeh-ch’â; but Fâ-hien and the others, wishing to see the procession of images, remained behind for three months."
+    },
+    "confidence": 99
   },
   {
+    "id": 59,
     "name": {
       "legge": "Queen of Yu-teen",
       "modern": "Queen of Yú Tián"
     },
+    "nonRomanizedName": null,
+    "sortName": "Queen of Yu Tian",
     "title": {
       "legge": "Queen of Yu-teen",
       "modern": "Queen of Yú Tián"
     },
-    "appearance": "CHAPTER III."
+    "biography": {
+      "legge": "Queen of Yu-teen.",
+      "modern": "Queen of Yú Tián."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 3,
+        "paragraph": 2,
+        "sentence": 3
+      },
+      "text": "Over the city gate they pitch a large tent, grandly adorned in all possible ways, in which the king and queen, with their ladies brilliantly arrayed, take up their residence (for the time)."
+    },
+    "confidence": 99
   },
   {
-    "name": "Samuel Wells Williams",
-    "appearance": "CHAPTER III.",
-    "biography": "American linguist, missionary, and Sinologist.",
+    "id": 60,
+    "name": {
+      "legge": "Samuel Wells Williams",
+      "modern": "Samuel Wells Williams"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Williams Samuel",
+    "title": null,
+    "biography": {
+      "legge": "American linguist, missionary, and Sinologist."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Samuel_Wells_Williams",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Samuel_Wells_Williams",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 3,
+        "paragraph": 0,
+        "sentence": 0,
+        "footnote": 14
+      },
+      "text": "Giles and Williams call this ‘the oratory of Buddha.’"
+    },
+    "confidence": 99
   },
   {
+    "id": 61,
     "name": {
-      "legge": "King of Tsze-hoh"
+      "legge": "King of Tsze-hoh",
+      "modern": "King of Qí Guó"
     },
+    "nonRomanizedName": null,
+    "sortName": "King of Qi Guo",
     "title": {
-      "legge": "King of Tsze-hoh"
+      "legge": "King of Tsze-hoh",
+      "modern": "King of Qí Guó"
     },
-    "appearance": "CHAPTER IV."
+    "biography": {
+      "legge": "King of Tsze-hoh.",
+      "modern": "King of Qí Guó."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 4,
+        "paragraph": 0,
+        "sentence": 2
+      },
+      "text": "Its king was a strenuous follower of our Law, and had (around him) more than a thousand monks, mostly students of the mahâyâna."
+    },
+    "confidence": 99
   },
   {
-    "name": "Unnamed Tartar",
-    "appearance": "CHAPTER IV."
+    "id": 62,
+    "name": {
+      "legge": "Unnamed Tartar",
+      "modern": "Unnamed Tartar"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Unnamed Tartar",
+    "title": null,
+    "biography": {
+      "legge": "Tartar who went with Săng-shâo to Kophene.",
+      "modern": "Tartar who went with Sēng Shào to Kophene."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 4,
+        "paragraph": 0,
+        "sentence": 0
+      },
+      "text": "WHEN the processions of images in the fourth month were over, Săng-shâo, by himself alone, followed a Tartar who was an earnest follower of the Law, and proceeded towards Kophene."
+    },
+    "confidence": 99
   },
   {
+    "id": 63,
     "name": {
       "legge": "King of K’eeh-ch’â",
       "modern": "King of Jié Chā"
     },
+    "nonRomanizedName": null,
+    "sortName": "King of Jie Cha",
     "title": {
       "legge": "King of K’eeh-ch’â",
-      "modern": "King of Jié chā"
+      "modern": "King of Jié Chā"
     },
-    "appearance": "CHAPTER V."
+    "biography": {
+      "legge": "King of K’eeh-ch’â.",
+      "modern": "King of Jié Chā."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 4,
+        "paragraph": 0,
+        "sentence": 2
+      },
+      "text": "Its king was a strenuous follower of our Law, and had (around him) more than a thousand monks, mostly students of the mahâyâna."
+    },
+    "confidence": 99
   },
   {
+    "id": 64,
     "name": {
       "legge": "Aśoka",
       "modern": "Aśoka"
     },
     "nonRomanizedName": {
-      "brahmi": "𑀅𑀲𑁄𑀓"
+      "brahmi": "𑀅𑀲𑁄𑀓",
+      "sanskrit": "अशोक"
     },
-    "appearance": "CHAPTER V.",
-    "title": "King of the Mauyuran Empire",
-    "biography": "Reigning from 268 BCE to 232 BCE Aśoka was the emperor of the Mauyuran Empire which spanned nearly the entire Indian subcontinent.",
+    "sortName": "Asoka",
+    "title": {
+      "legge": "King of the Mauyuran Empire"
+    },
+    "biography": {
+      "legge": "Reigning from 268 BCE to 232 BCE Aśoka was the emperor of the Mauyuran Empire which spanned nearly the entire Indian subcontinent."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Ashoka",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Ashoka",
+        "text": "Wikipedia"
       },
       {
-	"url": "https://ntireader.org/words/23092.html",
-	"text": "NTI Reader"
+        "url": "https://ntireader.org/words/23092.html",
+        "text": "NTI Reader"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 5,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 0
+      },
+      "text": "When this is to be held, the king requests the presence of the Śramans from all quarters (of his kingdom)."
+    },
+    "confidence": 99,
+    "notes": "Aśoka is well known."
   },
   {
+    "id": 65,
     "name": {
+      "legge": "Maitreya",
       "modern": "Maitreya"
     },
     "nonRomanizedName": {
+      "chineseTraditional": "彌勒菩薩",
+      "chineseSimplified": "弥勒菩萨",
       "sanskrit": "मैत्रेय"
     },
-    "appearance": "CHAPTER VI.",
+    "sortName": "Maitreya",
     "title": {
-      "modern": "Ajita"
+      "legge": "Ajita"
     },
-    "biography": "Propheseied Buddha who will revive the Dhamma after the end of the current dispensation.",
+    "biography": {
+      "legge": "Propheseied Buddha who will revive the Dhamma after the end of the current dispensation."
+    },
     "links": [
       {
-	"url": "https://en.wikipedia.org/wiki/Maitreya",
-	"text": "Wikipedia"
+        "url": "https://en.wikipedia.org/wiki/Maitreya",
+        "text": "Wikipedia"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 6,
+        "paragraph": 0,
+        "sentence": 0,
+        "footnote": 4
+      },
+      "text": "Maitreya (Spence Hardy, Maitri), often styled Ajita, ‘the Invincible,’ was a Bodhisattva, the principal one, indeed, of Śâkyamuni’s retinue, but is not counted among the ordinary (historical) disciples, nor is anything told of his antecedents."
+    },
+    "confidence": 99
   },
   {
-    "name": "Sir James Emerson Tennent",
-    "appearance": "CHAPTER XXXVIII.",
-    "title": "1st Baronet, Fellow of the Royal Society",
+    "id": 66,
+    "name": {
+      "legge": "Sir James Emerson Tennent",
+      "modern": "Sir James Emerson Tennent"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Tennent James",
+    "title": {
+      "legge": "1st Baronet, Fellow of the Royal Society"
+    },
+    "biography": "Member of the United Kingdom Parliament and Colonial Secretary in Ceylon.",
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/James_Emerson_Tennent",
@@ -899,21 +2050,46 @@
         "url": "https://tempomanor.com/about/sir-james-emerson-tennent-tempo-manor/",
         "text": "Sir James Emerson-Tennent & Tempo Manor"
       }
-    ]
+    ],
+    "reference": {
+      "location": {
+        "chapter": 38,
+        "paragraph": 0,
+        "sentence": 7,
+        "footnote": 5
+      },
+      "text": "He quotes the words of Sir Emerson Tennent, that it is ‘the oldest historical tree in the world;’ but this must be denied if it be true, as Eitel says, that the tree at Buddha Gayâ, from which the slip that grew to be this tree was taken more than 2000 years ago, is itself still living in its place."
+    },
+    "confidence": 99
   },
   {
+    "id": 67,
     "name": {
       "legge": "Le E",
       "modern": "Lǐ Yí"
     },
     "nonRomanizedName": {
-      "traditionalChinese": "李嶷",
-      "simplifiedChinese": "李嶷"
+      "chineseTraditional": "李嶷",
+      "chineseSimplified": "李嶷"
     },
+    "sortName": "Li Yi",
     "title": {
       "legge": "Prefect of Ch’ang-kwang",
       "modern": "Prefect of Chǎngguǎng"
     },
-    "appearance": "CHAPTER XL."
+    "biography": {
+      "legge": "Prefect of Ch’ang-kwang.",
+      "modern": "Prefect of Chǎngguǎng."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 40,
+        "paragraph": 5,
+        "sentence": 0
+      },
+      "text": "The prefect Le E was a reverent believer in the Law of Buddha."
+    },
+    "confidence": 99
   }
 ]
