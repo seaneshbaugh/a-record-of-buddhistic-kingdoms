@@ -1880,6 +1880,30 @@
   {
     "id": 61,
     "name": {
+      "legge": "Unnamed Tartar",
+      "modern": "Unnamed Tartar"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Unnamed Tartar",
+    "title": null,
+    "biography": {
+      "legge": "Tartar who went with Săng-shâo to Kophene.",
+      "modern": "Tartar who went with Sēng Shào to Kophene."
+    },
+    "links": [],
+    "reference": {
+      "location": {
+        "chapter": 4,
+        "paragraph": 0,
+        "sentence": 0
+      },
+      "text": "WHEN the processions of images in the fourth month were over, Săng-shâo, by himself alone, followed a Tartar who was an earnest follower of the Law, and proceeded towards Kophene."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 62,
+    "name": {
       "legge": "King of Tsze-hoh",
       "modern": "King of Qí Guó"
     },
@@ -1905,30 +1929,6 @@
     "confidence": 99
   },
   {
-    "id": 62,
-    "name": {
-      "legge": "Unnamed Tartar",
-      "modern": "Unnamed Tartar"
-    },
-    "nonRomanizedName": null,
-    "sortName": "Unnamed Tartar",
-    "title": null,
-    "biography": {
-      "legge": "Tartar who went with Săng-shâo to Kophene.",
-      "modern": "Tartar who went with Sēng Shào to Kophene."
-    },
-    "links": [],
-    "reference": {
-      "location": {
-        "chapter": 4,
-        "paragraph": 0,
-        "sentence": 0
-      },
-      "text": "WHEN the processions of images in the fourth month were over, Săng-shâo, by himself alone, followed a Tartar who was an earnest follower of the Law, and proceeded towards Kophene."
-    },
-    "confidence": 99
-  },
-  {
     "id": 63,
     "name": {
       "legge": "King of K’eeh-ch’â",
@@ -1947,11 +1947,11 @@
     "links": [],
     "reference": {
       "location": {
-        "chapter": 4,
+        "chapter": 5,
         "paragraph": 0,
-        "sentence": 2
+        "sentence": 0
       },
-      "text": "Its king was a strenuous follower of our Law, and had (around him) more than a thousand monks, mostly students of the mahâyâna."
+      "text": "IT happened that the king of the country was then holding the pañcha parishad, that is, in Chinese, the great quinquennial assembly."
     },
     "confidence": 99
   },
@@ -1997,6 +1997,42 @@
   {
     "id": 65,
     "name": {
+      "legge": "Chang K’een",
+      "modern": "Zhāng Qiān"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "張騫",
+      "chineseSimplified": "张骞"
+    },
+    "sortName": "Zhang Qian",
+    "title": null,
+    "biography": {
+      "legge": "Chinese envoy during Emperor Wu of Han's reign."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zhang_Qian",
+        "text": "Wikipedia"
+      },
+      {
+        "url": "https://ntireader.org/words/23817.html",
+        "text": "NTI Reader"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 5,
+        "paragraph": 0,
+        "sentence": 0,
+        "footnote": 6
+      },
+      "text": "Giles thinks the fruit here was the guava, because the ordinary name for ‘pomegranate’ is preceded by gan (安); but the pomegranate was called at first Gan Shih-lâu, as having been introduced into China from Gan-seih by Chang K’een, who is referred to in chapter vii."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 66,
+    "name": {
       "legge": "Maitreya",
       "modern": "Maitreya"
     },
@@ -2021,16 +2057,75 @@
     "reference": {
       "location": {
         "chapter": 6,
-        "paragraph": 0,
-        "sentence": 0,
-        "footnote": 4
+        "paragraph": 1,
+        "sentence": 0
       },
-      "text": "Maitreya (Spence Hardy, Maitri), often styled Ajita, ‘the Invincible,’ was a Bodhisattva, the principal one, indeed, of Śâkyamuni’s retinue, but is not counted among the ordinary (historical) disciples, nor is anything told of his antecedents."
+      "text": "In this kingdom there was formerly an Arhan, who by his supernatural power took a clever artificer up to the Tushita heaven, to see the height, complexion, and appearance of Maitreya Bodhisattva, and then return and make an image of him in wood."
     },
     "confidence": 99
   },
   {
-    "id": 66,
+    "id": 67,
+    "name": {
+      "legge": "William Frederick Mayers",
+      "modern": "William Frederick Mayers"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Mayers William",
+    "title": {
+      "legge": "Fellow of the Royal Geographical Society"
+    },
+    "biography": {
+      "legge": "British vice-consul in China."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Frederick_Mayers",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 7,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 3
+      },
+      "text": "Through him, by B.C. 115, a regular intercourse was established between China and the thirty-six kingdoms or states of that quarter;—see Mayers’ Chinese Reader’s Manual, p. 5."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 68,
+    "name": {
+      "legge": "Kan Ying",
+      "modern": "Gān Yīng"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "甘英",
+      "chineseSimplified": "甘英"
+    },
+    "sortName": "Gan Ying",
+    "title": null,
+    "biography": "Chinese diplomat sent to Rome in 97 AD.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gan_Ying",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 7,
+        "paragraph": 0,
+        "sentence": 4
+      },
+      "text": "The (place and arrangements) are to be found in the Records of the Nine Interpreters, but neither Chang K’een nor Kan Ying had reached the spot."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 69,
     "name": {
       "legge": "Sir James Emerson Tennent",
       "modern": "Sir James Emerson Tennent"
@@ -2063,7 +2158,7 @@
     "confidence": 99
   },
   {
-    "id": 67,
+    "id": 70,
     "name": {
       "legge": "Le E",
       "modern": "Lǐ Yí"
