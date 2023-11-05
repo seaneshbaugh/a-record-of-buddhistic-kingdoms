@@ -20,7 +20,11 @@ const mapStateToProps = (state, ownProps) => {
   return {
     place: {
       ...place,
-      name: displayValue(state.display, place.name)
+      name: displayValue(state.display, place.name),
+      reference: {
+        ...place.reference,
+        text: displayValue(state.display, place.reference.text)
+      }
     }
   };
 };

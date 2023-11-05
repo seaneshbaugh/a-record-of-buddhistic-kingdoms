@@ -30,6 +30,11 @@ class Place extends Component {
             <Destination {...this.props.modernDestination} />
           </>
         }
+        {this.props.reference?.text &&
+          <p>
+            <strong>Appearance:</strong> <span className={styles.appearance}>{this.props.reference.text}</span>
+          </p>
+        }
       </div>
     );
   }
