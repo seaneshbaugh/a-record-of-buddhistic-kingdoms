@@ -2127,6 +2127,306 @@
   {
     "id": 69,
     "name": {
+      "legge": "King P’ing of the Chow Dynasty",
+      "modern": "King Píng of the Zhōu Dynasty"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "周平王",
+      "chineseSimplified": "周平王"
+    },
+    "sortName": "Ping",
+    "title": {
+      "legge": "King of the Chow Dynasty",
+      "modern": "King of the Zhōu Dynasty"
+    },
+    "biography": {
+      "legge": "Thirteenth king of the Chow Dynasty.",
+      "modern": "Thirteenth king of the Zhōu Dynasty."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/King_Ping_of_Zhou",
+        "text": "Wikipedia"
+      },
+      {
+        "url": "https://ntireader.org/words/22377.html",
+        "text": "NTI Reader"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 7,
+        "paragraph": 1,
+        "sentence": 1
+      },
+      "text": "He replied, ‘When I asked the people of those countries about it, they all said that it had been handed down by their fathers from of old that, after the setting up of the image of Maitreya Bodhisattva, there were Śramans of India who crossed this river, carrying with them Sûtras and Books of Discipline. Now the image was set up rather more than 300 years after the nirvâṇa of Buddha, which may be referred to the reign of king P’ing of the Chow dynasty. According to this account we may say that the diffusion of our great doctrines (in the east) began from (the setting up of) this image. If it had not been through that Maitreya the great spiritual master (who is to be) the successor of the Śâkya, who could have caused the “Three Precious Ones” to be proclaimed so far, and the people of those border lands to know our Law? We know of a truth that the opening of (the way for such) a mysterious propagation is not the work of man; and so the dream of the emperor Ming of Han had its proper cause.’"
+    },
+    "confidence": 99,
+    "notes": "Legge's date for Ping's reign is off a bit, but close enough."
+  },
+  {
+    "id": 70,
+    "name": {
+      "legge": "Niels Ludvig Westergaard",
+      "modern": "Niels Ludvig Westergaard"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Westergaard Niels",
+    "title": null,
+    "biography": {
+      "legge": "Danish orientalist and professor."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Niels_Ludvig_Westergaard",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 7,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 7
+      },
+      "text": "But if Rhys Davids be correct, as I think he is, in fixing the date of Buddha's death within a few years of 412 B.C. (see Manual, p. 213), not to speak of Westergaard’s still lower date, then the Buddha was very considerably the junior of Confucius."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 71,
+    "name": {
+      "legge": "Emperor Ming of Han",
+      "modern": "Emperor Ming of Han"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "漢明帝",
+      "chineseSimplified": "汉明帝"
+    },
+    "sortName": "Ming",
+    "title": {
+      "legge": "Emperor of the Eastern Han Dynasty"
+    },
+    "biography": {
+      "legge": "Second emperor of the Eastern Han Dynasty."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Emperor_Ming_of_Han",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 7,
+        "paragraph": 1,
+        "sentence": 1
+      },
+      "text": "He replied, ‘When I asked the people of those countries about it, they all said that it had been handed down by their fathers from of old that, after the setting up of the image of Maitreya Bodhisattva, there were Śramans of India who crossed this river, carrying with them Sûtras and Books of Discipline. Now the image was set up rather more than 300 years after the nirvâṇa of Buddha, which may be referred to the reign of king P’ing of the Chow dynasty. According to this account we may say that the diffusion of our great doctrines (in the east) began from (the setting up of) this image. If it had not been through that Maitreya the great spiritual master (who is to be) the successor of the Śâkya, who could have caused the “Three Precious Ones” to be proclaimed so far, and the people of those border lands to know our Law? We know of a truth that the opening of (the way for such) a mysterious propagation is not the work of man; and so the dream of the emperor Ming of Han had its proper cause.’"
+    },
+    "confidence": 99
+  },
+  {
+    "id": 72,
+    "name": {
+      "legge": "Apatâla",
+      "modern": "Apalāla"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "阿波羅羅龍王",
+      "chineseSimplified": "阿波罗罗龙王",
+      "sanskrit": "अपलाल",
+      "japanese": "阿波羅竜王"
+    },
+    "sortName": "Apalala",
+    "title": null,
+    "biography": {
+      "legge": "Nāga king who was converted to Buddhism by the Buddha."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Apalala",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 8,
+        "paragraph": 0,
+        "sentence": 5,
+        "footnote": 3
+      },
+      "text": "With regard to the particular conversion here, Eitel (p. 11) says the Nâga’s name was Apatâla, the guardian deity of the Subhavastu river, and that he was converted by Śâkyamuni shortly before the death of the latter."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 73,
+    "name": {
+      "legge": "Śakra",
+      "modern": "Śakra"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "帝釋天",
+      "chineseSimplified": "帝釋天",
+      "sanskrit": "शक्र",
+      "japanese": "帝釈天"
+    },
+    "sortName": "Sakra",
+    "title": {
+      "legge": "Lord of the Devas"
+    },
+    "biography": {
+      "legge": "Ruler of the Trāyastriṃśa Heaven."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/%C5%9Aakra_(Buddhism)",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 9,
+        "paragraph": 0,
+        "sentence": 1
+      },
+      "text": "There is in it the place where Śakra, Ruler of Devas, in a former age, tried the Bodhisattva, by producing a hawk (in pursuit of a) dove, when (the Bodhisattva) cut off a piece of his own flesh, and (with it) ransomed the dove."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 74,
+    "name": {
+      "legge": "Chandragupta Maurya",
+      "modern": "Chandragupta Maurya"
+    },
+    "nonRomanizedName": {
+      "sanskrit": "चन्द्रगुप्त मौर्य"
+    },
+    "sortName": "Maurya Chandragupta",
+    "title": {
+      "legge": "Founder of the Maurya Empire."
+    },
+    "biography": {
+      "legge": "Founder of the Mauryan Empire who reigned from 320 BC to 298 BC. Grandfather of Aśoka."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 10,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 2
+      },
+      "text": "He was the grandson of Chandragupta (i.q. Sandracottus), a rude adventurer, who at one time was a refugee in the camp of Alexander the Great; and within about twenty years afterwards drove the Greeks out of India, having defeated Seleucus, the Greek ruler of the Indus provinces."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 75,
+    "name": {
+      "legge": "Alexander the Great",
+      "modern": "Alexander the Great"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Alexander",
+    "title": {
+      "legge": "King of Macedon, Hegemon of the Hellenic League, Pharaoh of Egypt, King of Persia"
+    },
+    "biography": {
+      "legge": "Macedonian king who conquered Persia and Egypt. Widely considered to be the most succesful military commander in history."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 10,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 2
+      },
+      "text": "He was the grandson of Chandragupta (i.q. Sandracottus), a rude adventurer, who at one time was a refugee in the camp of Alexander the Great; and within about twenty years afterwards drove the Greeks out of India, having defeated Seleucus, the Greek ruler of the Indus provinces."
+    },
+    "confidence": 99,
+    "notes": "Alexander is as famous as Jesus, Muhammad, the Buddha, Confucius, or Julius Ceasar. Easily one of the most important people to ever live. We will forever be in his shadow."
+  },
+  {
+    "id": 76,
+    "name": {
+      "legge": "Seleucus I Nicator",
+      "modern": "Seleucus I Nicator"
+    },
+    "nonRomanizedName": null,
+    "sortName": "Seleucus",
+    "title": {
+      "legge": "Lord of Asia, King of Kings of Persia, Nicator, Basileus of the Seleucid Empire"
+    },
+    "biography": {
+      "legge": "Macedonian general under and successor to Alexander the Great who founded the Seleucid Empire after Alexander's death."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Seleucus_I_Nicator",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 10,
+        "paragraph": 0,
+        "sentence": 1,
+        "footnote": 2
+      },
+      "text": "He was the grandson of Chandragupta (i.q. Sandracottus), a rude adventurer, who at one time was a refugee in the camp of Alexander the Great; and within about twenty years afterwards drove the Greeks out of India, having defeated Seleucus, the Greek ruler of the Indus provinces."
+    },
+    "confidence": 99,
+    "notes": "Less well known than Alexander, but still a pretty big deal. Zero doubt about who this is."
+  },
+  {
+    "id": 77,
+    "name": {
+      "legge": "Stanislas Julien",
+      "modern": "Stanislas Julien"
+    },
+    "nonRomanizedName": {
+      "chineseTraditional": "儒蓮",
+      "chineseSimplified": "儒莲"
+    },
+    "sortName": "Julien Stanislas",
+    "title": null,
+    "biography": {
+      "legge": "French sinologist."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stanislas_Julien",
+        "text": "Wikipedia"
+      }
+    ],
+    "reference": {
+      "location": {
+        "chapter": 11,
+        "paragraph": 0,
+        "sentence": 0,
+        "footnote": 0
+      },
+      "text": "SEVEN days’ journey from this to the east brought the travellers to the kingdom of Takshaśilâ, which means ‘the severed head’ in the language of China."
+    },
+    "confidence": 99
+  },
+  {
+    "id": 78,
+    "name": {
       "legge": "Sir James Emerson Tennent",
       "modern": "Sir James Emerson Tennent"
     },
@@ -2135,7 +2435,9 @@
     "title": {
       "legge": "1st Baronet, Fellow of the Royal Society"
     },
-    "biography": "Member of the United Kingdom Parliament and Colonial Secretary in Ceylon.",
+    "biography": {
+      "legge": "Member of the United Kingdom Parliament and Colonial Secretary in Ceylon."
+    },
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/James_Emerson_Tennent",
@@ -2158,7 +2460,7 @@
     "confidence": 99
   },
   {
-    "id": 70,
+    "id": 79,
     "name": {
       "legge": "Le E",
       "modern": "Lǐ Yí"
